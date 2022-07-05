@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Geadviseerde toetsvormen on Assessment Selection Tool</title>
-    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/knowledge/methods/</link>
-    <description>Recent content in Geadviseerde toetsvormen on Assessment Selection Tool</description>
+    <title>Geadviseerde toetsvormen on Keuzetoot Toetsen</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/knowledge/methods/</link>
+    <description>Recent content in Geadviseerde toetsvormen on Keuzetoot Toetsen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-NL</language>
-    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/knowledge/methods/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/knowledge/methods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digitaal Toetsen</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/knowledge/methods/digital_assessment/</link>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/knowledge/methods/digital_assessment/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/knowledge/methods/digital_assessment/</guid>
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/knowledge/methods/digital_assessment/</guid>
       <description>Een voor de hand liggende vorm van een kennistoets is een multiple choice-toets of een toets met open vragen. Voor het toetsen van feitenkennis en/of begrip kan het beste (voornamelijk) gebruikgemaakt worden van gesloten vragen. Op dit cognitieve niveau zijn gesloten vragen relatief gemakkelijk te construeren. Het voordeel van gesloten vragen is dat deze sneller te beantwoorden zijn door studenten, waardoor meer vragen kunnen worden opgenomen in de toets, wat de representativiteit ervan verhoogt (Van Berkel, 1999).</description>
     </item>
     
     <item>
       <title>Presentaties</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/knowledge/methods/presentation/</link>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/knowledge/methods/presentation/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/knowledge/methods/presentation/</guid>
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/knowledge/methods/presentation/</guid>
       <description>Op kleine schaal kan kennis ook worden getoetst met een (groeps)presentatie. Hiermee kunnen, naast feitenkennis en begrip, ook presentatievaardigheden worden getoetst. De gelegenheid die een presentatie biedt voor interactie, bijvoorbeeld het stellen van vragen na afloop van de presentatie, biedt de beoordelaar extra mogelijkheden voor het toetsen van het begrip van de student. In het geval van een relatief kleine groep studenten kan gekozen worden voor individuele presentaties; het voordeel hiervan is dat dit een beter zicht kan geven op de mate waarin iedere afzonderlijke student de kennis beheerst.</description>
     </item>
     
     <item>
       <title>Mondeling</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/knowledge/methods/oral_exams/</link>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/knowledge/methods/oral_exams/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/knowledge/methods/oral_exams/</guid>
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/knowledge/methods/oral_exams/</guid>
       <description>Op kleine schaal kan kennis ook worden getoetst met een mondeling examen. Hiermee kunnen, naast feitenkennis en begrip, ook mondelinge vaardigheden worden getoetst. Een mondeling examen biedt de beoordelaar mogelijkheden om door te vragen op gegeven antwoorden, waarmee een betere inschatting kan worden gemaakt van het begrip van de student. In het geval van een relatief kleine groep studenten kan gekozen worden voor mondelinge examens met individuele studenten; het voordeel hiervan is dat dit een meer betrouwbare inschatting mogelijk maakt van de mate waarin een individuele student de kennis beheerst.</description>
     </item>
     

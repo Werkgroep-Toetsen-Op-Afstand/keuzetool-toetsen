@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Klein on Assessment Selection Tool</title>
-    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/</link>
-    <description>Recent content in Klein on Assessment Selection Tool</description>
+    <title>Klein on Keuzetoot Toetsen</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/</link>
+    <description>Recent content in Klein on Keuzetoot Toetsen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-NL</language>
-    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

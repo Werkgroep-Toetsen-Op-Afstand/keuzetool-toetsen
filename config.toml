@@ -1,7 +1,7 @@
-baseURL = "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/"
+baseURL = "https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/"
 publishDir = "docs"
 languageCode = "nl-NL"
-title = "Assessment Selection Tool"
+title = "Keuzetoot Toetsen"
 theme = "Selection-Theme"
 defaultContentLanguage = "nl"
 

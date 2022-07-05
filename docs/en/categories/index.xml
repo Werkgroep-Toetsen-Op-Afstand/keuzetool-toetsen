@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Assessment Selection Tool</title>
-    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/categories/</link>
-    <description>Recent content in Categories on Assessment Selection Tool</description>
+    <title>Categories on Keuzetoot Toetsen</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/categories/</link>
+    <description>Recent content in Categories on Keuzetoot Toetsen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl-NL</language><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl-NL</language><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
