@@ -1,0 +1,10 @@
+---
+title: "Mondeling"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/oral_exam/"
+date: '2021-12-08'
+weight: 3
+category: "tool"
+---
+
+In gevallen waarin zeer weinig studenten moeten worden getoetst (vijf of minder), is een mondeling examen aantrekkelijk met het oog op de geringe tijdsinvestering (Van Berkel, Bax, & Joosten-ten-Brinke, 2017). Met een mondeling examen kunnen, naast feitenkennis en begrip, ook mondelinge vaardigheden worden getoetst. Een mondeling examen biedt de beoordelaar mogelijkheden om door te vragen op gegeven antwoorden, waarmee een betere inschatting kan worden gemaakt van het begrip van de student. 

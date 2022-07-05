@@ -1,0 +1,1 @@
+* Wanneer het aantal studenten te groot is om gebruik te maken van veel open vragen, kan er gebruik worden gemaakt van gesloten vragen die automatisch gescoord kunnen worden. Denk bijvoorbeeld aan meerkeuzevragen, drag-and-drop vragen of korte essayvragen. Het belang van de overige genoemde maatregelen om fraude tegen te gaan wordt dan groter.

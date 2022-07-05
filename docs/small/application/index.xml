@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toepassing on Assessment Selection Tool</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/application/</link>
+    <description>Recent content in Toepassing on Assessment Selection Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/application/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beschrijving</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/application/description/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/application/description/</guid>
+      <description>Vaak wil men niet alleen kennis toetsen, maar ook toepassingsvaardigheden, en inzicht (analyseren, synthetiseren en evalueren). Bij toepassen moeten studenten eerder verkregen informatie kunnen hanteren in een andere situatie dan deze was geleerd (Van Berkel, 1999, p.16); denk bijvoorbeeld aan een opgave als ‘Bereken de standaarddeviatie van de volgende getallenreeks.’ Andere voorbeelden van toepassingsvaardigheden zijn het houden van een adviesgesprek of diagnosegesprek, of het werken met beroepsgerelateerde software (denk aan het uitvoeren van analyses in SPSS, het maken van een bouwtekening in AutoCAD of het werken met diagnosesoftware).</description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/application/tips/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/small/application/tips/</guid>
+      <description>Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
+ Zorg voor een goede communicatie met studenten.
+ Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera).</description>
+    </item>
+    
+  </channel>
+</rss>

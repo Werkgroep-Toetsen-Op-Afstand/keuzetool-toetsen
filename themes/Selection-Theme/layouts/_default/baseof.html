@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="{{ .Site.Params.Author }}">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}styles/app.css">
+  <title>{{ .Site.Title }}</title>
+  <meta name="description" content="{{ .Site.Params.Description }}">
+  <meta property="og:title" content="{{ .Site.Title }}" />
+  <meta property="og:url" content="{{ .Site.BaseURL }}" />
+  <meta property="og:description" content="{{ .Site.Params.Description }}">
+  <meta property="og:image"
+    content="{{ .Site.BaseURL }}{{ .Site.Params.landingpageLogoImageSmall }}">
+
+  <style>
+    :root {
+      --primary: {{ .Site.Params.color }};
+    }
+  </style>
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ .Site.Params.googleAnalytics }}', { 'anonymize_ip': true });
+</script>
+  
+</head>
+
+<body>
+  <div class="app">
+    <!-- The header of the website. -->
+    <div class="header">
+      <a href="{{ .Site.BaseURL }}">
+        <img src="{{ .Site.BaseURL }}{{ .Site.Params.SiteLogo }}" alt="logo" class="header__logo">
+      </a>
+
+      {{ block "header" . }} {{ end }}
+    </div>
+
+    <!-- The main part where the content lies. -->
+    <main>
+      {{ block "main" . }}
+        {{ .Content }}
+      {{ end }}
+    </main>
+
+       <footer>
+      <div class="footer__content">
+        {{ .RenderString .Site.Params.Footer }}
+      </div>
+    </footer>
+  </div>
+
+
+  <script src="{{ .Site.BaseURL }}scripts/app.js"></script>
+</body>
+</html>

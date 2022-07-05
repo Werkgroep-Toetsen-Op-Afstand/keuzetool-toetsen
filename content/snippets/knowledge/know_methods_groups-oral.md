@@ -1,0 +1,1 @@
+* Deel de studenten op in groepen en houd mondelinge groepsgesprekken om de beoordelingstijd te beperken. 

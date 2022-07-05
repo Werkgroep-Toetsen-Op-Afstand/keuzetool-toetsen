@@ -1,0 +1,10 @@
+---
+title: "Presentaties"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/presentation/"
+date: '2021-12-08'
+weight: 2
+category: "tool"
+---
+
+Hogere cognitieve vaardigheden kunnen ook worden getoetst met een individuele presentatie. Een presentatie biedt studenten ruimte voor originaliteit en creativiteit. Daarnaast kunnen hiermee ook presentatievaardigheden worden getoetst. De gelegenheid die een presentatie biedt voor interactie, bijvoorbeeld het stellen van vragen na afloop van de presentatie, biedt de beoordelaar extra mogelijkheden voor het toetsen van het inzicht van de student. 

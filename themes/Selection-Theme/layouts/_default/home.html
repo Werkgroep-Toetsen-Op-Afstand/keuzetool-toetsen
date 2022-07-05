@@ -1,0 +1,91 @@
+{{ define "header" }}
+<div class="header__menu">
+  <!-- {{ partial "search-form.html" . }} -->
+
+  {{ range .Translations }}
+  <a href="{{ .Permalink }}">
+    <img width="auto" height="28px" src="{{ .Site.BaseURL }}icons/{{ .Lang }}.svg" alt="Language icon">
+  </a>
+  {{ end }}
+</div>
+{{ end }}
+
+{{ define "main" }}
+<div class="main__full-height main__background" style="background: url('{{ .Site.BaseURL }}{{ .Site.Params.landingpageBannerImage }}');">
+  <img class="main__logo" src="{{ .Site.BaseURL }}{{ .Site.Params.landingpageLogoImage }}" alt="Logo">
+  <!-- The heading which contains the title and subtitle. -->
+  <div class="heading heading__landing">
+    <h1 class="heading__title">{{ .Site.Params.landingpageTitle }}</h1>
+    <p class="heading__subtitle">{{ .Site.Params.landingpageSubtitle }}</p>
+  </div>
+
+  <!-- A central block for choosing the course size. -->
+  <div class="block block--transparent block--margin-bottom">
+    <div class="block__header">
+      <h2 class="block__title">{{ .Site.Params.HomeChoiceTitle }}</h2>
+      <div class="block__subtitle">{{ .RenderString .Site.Params.HomeChoiceSubtitle }}</div>
+    </div>
+
+    <!-- The cards for different course sizes. -->
+    <div class="block__cards">
+      {{ range where .Pages.ByWeight "Section" "!=" "methods" }}
+        {{ if gt .Params.weight 0 }}
+        <a class="card card--shadow card--showcase" href="{{ .Permalink }}">
+          <img src="{{ .Site.BaseURL }}{{ .Params.Icon }}" alt="category icon" class="card__icon">
+          <span class="card__title">{{ .Title }}</span>
+          <span class="card__subtitle">{{ .Params.Subtitle }}</span>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ .Content }}
+
+<!-- A central block with general best practices & tips. -->
+<div class="block block--larger">
+  <div class="block__header">
+    <h2 class="block__title" id="tips">{{ .Site.Params.homeAboutTitle }}</h2>
+    <span class="block__subtitle"> </span>
+      
+      
+  </div>
+  
+   <div class="card card--padding-small">
+      <div>
+       
+       {{ .RenderString .Site.Params.homeAboutDescription }}
+          
+        </div>
+      </div>
+  </div>
+</div>
+
+
+
+
+<!-- A central block for choosing assessment method. -->
+<div class="block block--white block--larger" id="methods">
+  <div class="block__header">
+    <h2 class="block__title">{{ .Site.Params.homeChoice2Title }}</h2>
+    <span class="block__subtitle">{{ .Site.Params.homeChoice2Subtitle }}</span>
+  </div>
+
+  <!-- The cards for different course sizes. -->
+  <div class="block__cards">
+    {{ range (where .Pages.ByWeight "Section" "methods")  }}
+      {{ range .Pages }}    
+        {{ if gt .Params.weight 0 }}
+      <a class="card card--shadow card--showcase" href="{{ .Permalink }}">
+        <img src="{{ .Site.BaseURL }}{{ .Params.Icon }}" alt="course icon" class="card__icon">
+        <span class="card__title">{{ .Title }}</span>
+        <span class="card__subtitle">{{ .Params.Subtitle }}</span>
+      </a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
+{{ partial "search-index.html" . }}
+{{ end }}

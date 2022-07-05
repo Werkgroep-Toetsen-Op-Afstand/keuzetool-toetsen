@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geadviseerde toetsvormen on Assessment Selection Tool</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/methods/</link>
+    <description>Recent content in Geadviseerde toetsvormen on Assessment Selection Tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/methods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digitaal Toetsen</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/methods/digital_assessment/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/methods/digital_assessment/</guid>
+      <description>Met een digitale toets kunnen ook hogere cognitieve vaardigheden worden getoetst als toepassen, analyseren, synthetiseren en evalueren. Voor het op deze schaal toetsen van hogere cognitieve vaardigheden als toepassen, analyseren, synthetiseren en evalueren kan het beste (voornamelijk) gebruikgemaakt worden van gesloten vragen. Hoewel het tijd kost om deze zorgvuldig te construeren, weegt dit nog steeds op tegen de tijd die benodigd zou zijn om de open vragen van een relatief grote groep studenten te beoordelen.</description>
+    </item>
+    
+    <item>
+      <title>Presentaties</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/methods/presentation/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/methods/presentation/</guid>
+      <description>Hogere cognitieve vaardigheden kunnen ook worden getoetst met een (groeps)presentatie. Een presentatie biedt studenten ruimte voor originaliteit en creativiteit. Daarnaast kunnen hiermee ook presentatievaardigheden worden getoetst. De gelegenheid die een presentatie biedt voor interactie, bijvoorbeeld het stellen van vragen na afloop van de presentatie, biedt de beoordelaar extra mogelijkheden voor het toetsen van het inzicht van de student. In het geval van een gemiddeld grote groep studenten dient het aanbeveling om, wanneer mogelijk, de studenten in groepen op te delen en ze per groep te laten presenteren, om de beoordelingstijd te beperken.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/methods/portfolio/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/methods/portfolio/</guid>
+      <description>Een portfolio is een verzameling documenten/bestanden die aantonen dat de student bepaalde competenties bezit en/of zich ontwikkelt en die vaak over een langere tijd wordt opgebouwd. In het portfolio kunnen dus ook andere toetsvormen opgenomen zijn. Zo kan een student in een beoordelingsportfolio onder meer video-opnames van observaties, producten van projecten en de resultaten van de beoordeling hiervan opnemen als bewijzen van de beheersing van specifieke toepassingsvaardigheden. In een ontwikkelingsportfolio zou de student daarnaast ook eigen reflecties hierop kunnen opnemen waarin na wordt gegaan welke (deel)competenties onvoldoende beheerst worden en waar dus nog aan moet worden gewerkt.</description>
+    </item>
+    
+    <item>
+      <title>Projecten en producten</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/methods/project_product/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/medium/application/methods/project_product/</guid>
+      <description>Projecten en producten zijn geschikt om vast te stellen of de student kennis kan toepassen, analyseren, evalueren of creëren. Overweeg, zeker bij deze groepsgrootte, om van de opdracht een groepsopdracht te maken. Niet alleen beperkt dit de beoordelingstijd, maar bij groepsopdrachten hebben studenten ook meer interactie met elkaar en kunnen ze samen een project uitvoeren dat ze alleen nooit hadden kunnen realiseren.</description>
+    </item>
+    
+  </channel>
+</rss>

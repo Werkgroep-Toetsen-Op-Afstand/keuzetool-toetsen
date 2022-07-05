@@ -1,0 +1,14 @@
+---
+title: "Beschrijving"
+icon: /icons/why-do-this.png
+menuicon: /icons/why-do-this-menu.png
+date: 2020-07-31T11:05:44+02:00
+expandable: false
+instructions: false
+weight: 1
+---
+
+```{r, child="../../snippets/application/app_description_presentations.md"}
+```
+
+Op kleine schaal zijn er veel mogelijkheden voor het toetsen van toepassingsvaardigheden en inzicht op afstand. Kies voor de vorm die het beste past bij de leerdoelen van het vak en het gegeven onderwijs.
