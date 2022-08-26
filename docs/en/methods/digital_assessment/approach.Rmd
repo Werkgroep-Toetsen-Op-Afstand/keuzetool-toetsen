@@ -12,6 +12,7 @@ Afhankelijk van de inzet van **formatieve** of **summatieve** toetsing zijn er v
 
 ## Formatief 
 
+
 ### Voor aanvang
 
 Keuze van het toetssysteem: gebruik bij voorkeur hetzelfde systeem als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.
