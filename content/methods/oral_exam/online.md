@@ -14,12 +14,12 @@ weight: 2
 
 Uiteraard zijn combinaties mogelijk.
 
-## Voor
+## Voordelen
 
 * Plaatsonafhankelijk
 * Minder fraudegevoelig
 
-## Nadeel
+## Nadelen
 
 * Minder betrouwbaar met slechts één enkele beoordelaar. 
 * Beperkte kans op technische problemen door uitval van verbinding.

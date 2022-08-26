@@ -10,15 +10,15 @@ weight: 3
 
 ## Voorbereiding  
  
-**Vragenlijst** Het opstellen van vragen voor zowel een online assessmentgesprek als mondeling is niet anders dan voor op locatie. Ook kun je afbeeldingen zoals een anatomische afbeelding, een technische tekening of een model gebruiken als basis voor een vraag. 
+Vragenlijst Het opstellen van vragen voor zowel een online assessmentgesprek als mondeling is niet anders dan voor op locatie. Ook kun je afbeeldingen zoals een anatomische afbeelding, een technische tekening of een model gebruiken als basis voor een vraag. 
  
-**Anticiperen op technische problemen** Het organiseren verschilt iets van mondelinge toetsen op locatie. Naast de 'reguliere' informatie (over planning, procedure, eventuele benodigdheden, verwachtingen, beoordeling) maak je ook afspraken over het werken in de online omgeving. Denk aan het delen van het scherm, het in- en uitschakelen van camera en microfoon, de wijze waarop vragen kunnen worden gesteld en de handelswijze bij technische problemen. Veel studenten vinden het een fijn idee als ze vooraf weten dat ze het assessmentgesprek opnieuw mogen doen als er technische problemen optreden. Ook kun je stimuleren dat studenten vooraf bij elkaar oefenen. Bij sommige instellingen kan de student apparatuur lenen of kun je een fysieke locatie aanbieden. Zorg er in ieder geval voor dat je tijdig en helder communiceert over de afspraken. 
+Anticiperen op technische problemen Het organiseren verschilt iets van mondelinge toetsen op locatie. Naast de 'reguliere' informatie (over planning, procedure, eventuele benodigdheden, verwachtingen, beoordeling) maak je ook afspraken over het werken in de online omgeving. Denk aan het delen van het scherm, het in- en uitschakelen van camera en microfoon, de wijze waarop vragen kunnen worden gesteld en de handelswijze bij technische problemen. Veel studenten vinden het een fijn idee als ze vooraf weten dat ze het assessmentgesprek opnieuw mogen doen als er technische problemen optreden. Ook kun je stimuleren dat studenten vooraf bij elkaar oefenen. Bij sommige instellingen kan de student apparatuur lenen of kun je een fysieke locatie aanbieden. Zorg er in ieder geval voor dat je tijdig en helder communiceert over de afspraken. 
 
-**Opname** Een andere oplossing om de betrouwbaarheid van de beoordeling te vergroten is het opnemen van het assessmentgesprek tijdens de uitvoering. Bij twijfel over de beoordeling kan deze dan teruggekeken worden. Informeer de student vooraf over een eventuele opname. Het verwerken, opslaan en verwijderen van opnames moet plaatsvinden binnen de wettelijke kaders. Informeer bij je instelling wat hiervoor de regels zijn. 
+Opname Een andere oplossing om de betrouwbaarheid van de beoordeling te vergroten is het opnemen van het assessmentgesprek tijdens de uitvoering. Bij twijfel over de beoordeling kan deze dan teruggekeken worden. Informeer de student vooraf over een eventuele opname. Het verwerken, opslaan en verwijderen van opnames moet plaatsvinden binnen de wettelijke kaders. Informeer bij je instelling wat hiervoor de regels zijn. 
 
-**Meerdere beoordelaars** Om de betrouwbaarheid van de beoordeling te vergroten kunnen meerdere beoordelaars worden ingezet. Deze kunnen live aanwezig zijn of achteraf de video-opname beoordelen. Bij formatieve toetsen kunnen hiervoor ook medestudenten ingezet worden. 
+Meerdere beoordelaars Om de betrouwbaarheid van de beoordeling te vergroten kunnen meerdere beoordelaars worden ingezet. Deze kunnen live aanwezig zijn of achteraf de video opname beoordelen. Bij formatieve toetsen kunnen hiervoor ook medestudenten ingezet worden. 
 
-**Topiclijst** Het is bij een online mondeling belangrijk om een groot aantal vragen te hebben. Als je een toets met open en/of gesloten vragen omzet in een mondeling, houd dan rekening met het volgende:
+Topiclijst Het is bij een online mondeling belangrijk om een groot aantal vragen te hebben. Als je een toets met open- en/of gesloten vragen omzet in een mondeling, houd dan rekening met het volgende:
 
 *	Gesloten vragen zijn niet aan te raden bij mondelinge toetsen voor grote groepen. De vragen kunnen snel uitlekken terwijl het afnemen van verschillende vragen voor alle studenten ten koste gaat van de al geringere betrouwbaarheid. Daarnaast doet het afbreuk aan de mogelijkheden van mondelinge toetsen om diepgaande vragen te stellen.
 *	Ook tijdens een online mondeling kun je afbeeldingen zoals een anatomische afbeelding, een technische tekening of een model gebruiken als basis voor een vraag. 
@@ -55,7 +55,7 @@ Als je een bestaande schriftelijke toets met open vragen hebt, dan kun je het oo
 *	Zorg voor een rustige omgeving waarin je niet gestoord wordt.   
 *	Test de apparatuur voorafgaand aan de toets, gebruik zo nodig een headset. 
 *	Zorg dat je de benodigde documenten (rubric, beoordelingsformulier e.d.) geprint of op een tweede scherm bij de hand hebt. 
-*	Log enkele minuten voorafgaand aan de toets in op de videovergadering.  
+*	Log enkele minuten voorafgaand aan de toets in op de video vergadering.  
 *	Zet, indien nodig, documenten zoals afbeeldingen behorende bij een bepaalde vraag, klaar. 
 
 ### Start
@@ -71,7 +71,7 @@ Als je een bestaande schriftelijke toets met open vragen hebt, dan kun je het oo
 
 ### Afsluiting
 
-*	Als je met meerdere beoordelaars werkt en direct feedback wilt geven, kun je de student vragen om even uit de videovergadering te gaan of hem/haar in een breakout room zetten. Na het bespreken van de bevindingen kan je de student weer terug laten komen. 
+*	Als je met meerdere beoordelaars werkt en direct feedback wil geven, kun je de student vragen om even uit de videovergadering te gaan of in een breakout room te zetten. Na het bespreken van de bevindingen kan je de student weer terug laten komen. 
 
 ## Na afloop
 
