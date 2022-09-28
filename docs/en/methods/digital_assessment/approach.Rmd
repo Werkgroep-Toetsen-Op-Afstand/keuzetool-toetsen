@@ -17,7 +17,7 @@ Afhankelijk van de inzet van **formatieve** of **summatieve** toetsing zijn er v
 
 Keuze van het toetssysteem: gebruik bij voorkeur hetzelfde systeem als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.
 
-Ontwerpen van vragen of didactisch leermateriaal. Het advies is om dit ruim voor aanvang van het onderwijs te doen.
+Ontwerpen van vragen of didactisch leermateriaal: het advies is om dit ruim voor aanvang van het onderwijs te doen.
 
 Het maken van formatieve toetsen, met name de inzet van een oefentoets als didactisch leermiddel kan erg tijdrovend zijn. De inzet van studentassistenten kan hier echter een uitkomst bieden. Zie ook [dit interview](https://youtu.be/Z6Ie_ELBq40?t=1219) waarin dit ter sprake komt. 
 
@@ -29,13 +29,13 @@ De afname van een formatieve toets hoeft zich niet te beperken tot een specifiek
 
 Om een optimaal leereffect te bevorderen is het relevant om studenten na afloop van de formatieve toets toegang te geven tot de resultaten en model antwoorden.
 
-Voor de docent kunnen bieden de resultaten inzicht in waar de kennishiaten zich bevinden. Deze inzichten kunnen vervolgens tijdens de lopende cursus gebruikt worden om het onderwijs te sturen.
+Voor de docent bieden de resultaten inzicht in waar de kennishiaten zich bevinden. Deze inzichten kunnen vervolgens tijdens de lopende cursus gebruikt worden om het onderwijs te sturen.
 
 ### Aandachtspunten
 
-De waardering van formatieve toetsen kan van invloed zijn op de inzet van studenten. Met name bij grote groepen kan dit een rol spelen. 
+* De waardering van formatieve toetsen kan van invloed zijn op de inzet van studenten. Met name bij grote groepen kan dit een rol spelen. 
 
-Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negatief effect hebben (zie [dit artikel van SURF](https://communities.surf.nl/digitaal-toetsen/artikel/voorspellende-waarde-van-formatieve-toetsen). Overweeg eens een ander beloningssysteem. Zoals een [strafstaffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d), zoals ook beschreven in [Klinkenberg (2017)](https://link.springer.com/chapter/10.1007/978-3-319-57744-9_6).
+* Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negatief effect hebben (zie [dit artikel van SURF](https://communities.surf.nl/digitaal-toetsen/artikel/voorspellende-waarde-van-formatieve-toetsen). Overweeg eens een ander beloningssysteem. Zoals een [strafstaffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d), zoals ook beschreven in [Klinkenberg (2017)](https://link.springer.com/chapter/10.1007/978-3-319-57744-9_6).
 
 > Bij een vak waarvan de leerstof ook op een later moment in de opleiding getoetst werd, hebben we een summatieve meerkeuzetoets omgezet naar een formatieve toets. Deze toets wordt door de studenten in drietallen gemaakt. De onderlinge discussie zorgde voor een groot leereffect en wij hoeven geen proctoring meer te gebruiken.
 
@@ -64,6 +64,15 @@ Als er gebruik is gemaakt van ‘recorded proctoring’ of ‘automated proctori
 De verwerking van de toetsresultaten verloopt verder analoog aan het digitaal toetsen op de campus.
 
 ### Aandachtspunten
+
+* Neem maatregelen om de betrouwbaarheid en validiteit van de toetsen met open en gesloten vragen te borgen, zoals (zie ook: [Van Berkel et al., 2017]): 
+    * Zorg ervoor (bijv. m.b.v. een specificatietabel) dat de verschillende kennis- en vaardigheidsaspecten die de toets beoogt te meten worden gedekt door de toetsvragen, om de inhoudsvaliditeit te borgen. 
+    * Doorgaans geldt dat hoe meer vragen in de toets worden opgenomen, hoe hoger de betrouwbaarheid is. Voor een toets met gesloten vragen is het aan te bevelen om veertig (in het geval van vierkeuzevragen) à zestig (in het geval van driekeuzevragen) vragen op te nemen, voor het bereiken van een acceptabele betrouwbaarheid. 
+  * Pas het vier-ogenprincipe toe: leg de toetsvragen voor aan een collega en vraag om feedback. 
+  * Verzamel en analyseer psychometrische gegevens van de toets en toetsvragen, zoals de betrouwbaarheidscoëfficiënt en de rit-waarden (doorgaans bieden toetsapplicaties hiervoor mogelijkheden). Gebruik deze gegevens voor het verbeteren van de kwaliteit van de toets(vragen). 
+  * Specifiek voor toetsen met open vragen geldt de aanbeveling om een tweede beoordelaar in te schakelen. Laat de beoordelaars de antwoorden onafhankelijk van elkaar beoordelen met behulp van een vooraf geconstrueerd correctievoorschrift. 
+  * Draag er zorg voor dat de omstandigheden waaronder de toets wordt afgenomen zo gelijk mogelijk zijn voor alle studenten. 
+  * Zorg bij afname van de toets voor authenticatie, door een bewijs van inschrijving in combinatie met het vragen naar een identificatiebewijs. Maak voor de studenten de gedragsregels en de toegestane bronnen en hulpmiddelen tijdens de afname van de toets bekend, evenals de wijze van behandeling van onregelmatigheden waaronder fraude, de wijze waarop uitslagen worden gecommuniceerd, en de mogelijkheden voor inzage. Draag ook zorg voor een goede surveillance en laat (in het bijzonder bij toetsen op afstand) de examencommissie onderzoeken of, en zo ja, in welke mate de inherente beperkingen van de surveillance een bedreiging vormen voor de betrouwbaarheid van de meting. Het dient aanbeveling om een verslag te laten schrijven van de toetsafname waarin melding gemaakt wordt van relevant geachte voorvallen, storingen, onregelmatigheden, vermeende pogingen tot fraude, vragen van studenten om verduidelijking, pogingen om in discussie te gaan met surveillanten, frequent toiletbezoek, massaal vroegtijdig vertrek van studenten of juist het massaal benutten van de laatste secondes. Voor examinatoren levert deze informatie mogelijke aanknopingspunten voor de definitieve normering en voor een evaluatie van de kwaliteit van de betreffende toets. 
 
 ```{r, child="../../snippets/knowledge/know_how_fraud.md"} 
 ```
