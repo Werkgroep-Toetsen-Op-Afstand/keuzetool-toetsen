@@ -501,10 +501,12 @@ main {
   font-weight: normal;
 }
 .card__text > ol, .card__text > ul {
-  padding-left: 18px;
+  padding-left: 4px;
 }
 .card__text > ol > li, .card__text > ul > li {
   padding-bottom: 4px;
+  margin-left: 18px;
+  padding-left: 18px;
 }
 .card__text > p {
   padding-bottom: 12px;
