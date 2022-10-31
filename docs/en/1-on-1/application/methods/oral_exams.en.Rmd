@@ -1,7 +1,7 @@
 ---
 title: "Oral Exam"
 subtitle: "none"
-link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/en/methods/oral_exam/"
+link: "https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/oral_exam/"
 date: '2021-12-08'
 weight: 3
 category: "tool"

@@ -1,7 +1,7 @@
 ---
 title: "Mondeling"
 subtitle: "none"
-link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/oral_exam/"
+link: "https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/oral_exam/"
 date: '2021-12-08'
 weight: 3
 category: "tool"

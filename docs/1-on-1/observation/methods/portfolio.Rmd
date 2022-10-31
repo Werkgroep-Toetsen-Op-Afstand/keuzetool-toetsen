@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 subtitle: "none"
-link: "https://werkgroep-toetsen-op-afstand.github.io/assessment-selection-tool/methods/portfolio/"
+link: "https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/"
 date: '2021-12-08'
 weight: 5
 category: "tool"
