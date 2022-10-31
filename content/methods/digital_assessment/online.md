@@ -39,13 +39,13 @@ Online proctoring biedt hier een uitkomst, maar de effectiviteit hangt sterk af 
 
 Afhankelijk van het belang van de toets moet een afweging gemaakt worden welke vorm van online proctoring ingezet moeten worden. Informeer binnen je eigen instelling welke voorzieningen beschikbaar zijn en wat het beleid is omtrent de inzet van online proctoring.
 
-## Voordelen
+### Voordelen
 
 + Kan een alternatief zijn voor capaciteitsgebrek op de campus;
 + Geeft studenten met een functiebeperking de mogelijkheid om thuis het tentamen te maken, waar ze wellicht betere voorzieningen hebben;
 + Legt minder druk op het openbaar vervoer;
 
-## Nadelen 
+### Nadelen 
 
 - Technisch uitdagend. Als er iets misgaat is dat zeer vervelend;
 - Hogere druk op examencommissies;
