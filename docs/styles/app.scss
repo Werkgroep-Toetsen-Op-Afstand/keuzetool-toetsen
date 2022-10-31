@@ -7,7 +7,7 @@
 
 /* Temporary */
 .section {
-  margin-bottom: 58px;
+  margin-bottom: 10px;
 
   & .title {
     display: flex;
@@ -611,6 +611,8 @@ main {
 
       & > li {
         padding-bottom: 4px;
+        margin-left: 18px;
+        padding-left: 18px;
       }
     }
 

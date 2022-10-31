@@ -1,7 +1,7 @@
 baseURL = "https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/"
 publishDir = "docs"
 languageCode = "nl-NL"
-title = "Keuzetoot Toetsen"
+title = "Keuzetool Toetsen"
 theme = "Selection-Theme"
 defaultContentLanguage = "nl"
 
@@ -11,7 +11,7 @@ defaultContentLanguage = "nl"
   author = "Werkgroep Toetsen op Afstand"
   description = "Beschrijving tekst"
   siteLogo = "images/VO_alg_NL.png"
-  landingpageTitle = "Breng je toetsing online"
+  landingpageTitle = "Kies de juiste toetsvorm"
   landingpageSubtitle = "De werkgroep toetsen op afstand heeft deze keuze tool voor toetsen ontwikkeld. Op basis van jouw onderwijssituatie kom je snel tot de geschikte toetsmethoden."
   landingpageBannerImage = "images/landing-no-logo-2.jpg"
   landingpageLogoImage = "images/toetsendiap.png"
@@ -59,7 +59,8 @@ defaultContentLanguage = "nl"
   # Footer parameters
   footer = """
   **Credits:** [Marjoleine Dobbelear](https://www.linkedin.com/in/marjoleine-dobbelaer-28946330/), 
-            [Sharon Klinkenberg](https://www.linkedin.com/in/sharonklinkenberg/), 
+            [Edwin Buijs](https://www.linkedin.com/in/edwin-buijs-2a340120/),
+            [Sharon Klinkenberg](https://www.linkedin.com/in/sharonklinkenberg/),
             [Rochelle Hurenkamp](https://www.linkedin.com/in/rochelle-hurenkamp/), 
             [Peter Schouten](https://www.linkedin.com/in/schoutenp/), 
             [Irene Biemond](https://www.linkedin.com/in/irene-biemond-61622081/), 
@@ -76,7 +77,7 @@ defaultContentLanguage = "nl"
  [languages.en]
    languageName = "English"
    weight = 2
-   landingpageTitle = "Bring your assessment online"
+   landingpageTitle = "Select the appropriate assessment method"
    landingpageSubtitle = "The Working group Remote digital assessment created this Assessment Selection Tool. Based on your education setting, you will quickly come to the appropriate assessment method "
    
    # Homepage parameters
