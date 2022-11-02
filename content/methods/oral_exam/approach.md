@@ -16,9 +16,9 @@ Hoe meer vragen er tijdens het mondeling worden gesteld, hoe betrouwbaarder de b
 
 Gebruik een specificatietabel waarin per onderwerp aangegeven is hoeveel tijd eraan mag worden besteed. Besteed meer tijd aan de belangrijkere onderwerpen ([Van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)). Een andere manier is om gebruik te maken van een kaartenbak met vragen (de ‘hoge-hoedmethode’), waarin het aantal vragen rond een bepaald onderwerp afhangt van het belang van dat onderwerp. Studenten mogen blindelings kaarten trekken uit deze bak; elke getrokken kaart dienen zij te beantwoorden ([Van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)). 
 
-Zorg voor transparantie: Studenten vinden (online) mondelinge toetsen vaak spannend. Geef de studenten van tevoren informatie over wat zij kunnen verwachten., Informeer hen tijdig en volledig over inhoud, procedures, deelnemende beoordelaars en de wijze van beoordeling. Geef hen zoals ook voorbeelden van vragen die zouden kunnen worden gesteld ([Van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)). Door voorafgaand aan een mondelinge toets een aantal representatieve oefenopgaven te delen is het voor de studenten duidelijker wat voor soort toetsvragen ze kunnen verwachten. Ze kunnen de oefenopgaven gebruiken om te evalueren of ze de studiestof voldoende beheersen. 
+Zorg voor transparantie: Studenten vinden (online) mondelinge toetsen vaak spannend. Geef de studenten van tevoren informatie over wat zij kunnen verwachten. Informeer hen tijdig en volledig over inhoud, procedures, deelnemende beoordelaars en de wijze van beoordeling. Geef hen ook voorbeelden van vragen die zouden kunnen worden gesteld ([Van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)). Door voorafgaand aan een mondelinge toets een aantal representatieve oefenopgaven te delen is het voor de studenten duidelijker wat voor soort toetsvragen ze kunnen verwachten. Ze kunnen de oefenopgaven gebruiken om te evalueren of ze de studiestof voldoende beheersen. 
 
-Het is bij een mondeling belangrijk om een groot aantal vragen te hebben. Als je een toets met open en/of gesloten vragen omzet in een mondeling, houd dan rekening met het volgende: 
+Als je een toets met open en/of gesloten vragen omzet in een mondeling, houd dan rekening met het volgende: 
 
 *	Gesloten vragen zijn niet aan te raden bij mondelinge toetsen voor grote groepen. De vragen kunnen snel uitlekken terwijl het afnemen van verschillende vragen voor alle studenten ten koste gaat van de al geringere betrouwbaarheid. Daarnaast doet het afbreuk aan de mogelijkheden van mondelinge toetsen om diepgaande vragen te stellen. 
 
@@ -67,14 +67,14 @@ Als je een bestaande schriftelijke toets met open vragen hebt, dan kun je het oo
 
 ### In het geval van toetsen op afstand: 
 
-#### **Vragenlijst**
+#### Vragenlijst
 
 Het opstellen van vragen voor zowel een online assessmentgesprek als mondeling is niet anders dan voor op locatie. Ook kun je afbeeldingen zoals een anatomische afbeelding, een technische tekening of een model gebruiken als basis voor een vraag.  
 
-#### **Anticiperen op technische problemen** 
+#### Anticiperen op technische problemen 
 Het organiseren verschilt iets van mondelinge toetsen op locatie. Naast de 'reguliere' informatie (over planning, procedure, eventuele benodigdheden, verwachtingen, beoordeling) maak je ook afspraken over het werken in de online omgeving. Denk aan het delen van het scherm, het in- en uitschakelen van camera en microfoon, de wijze waarop vragen kunnen worden gesteld en de handelswijze bij technische problemen. Veel studenten vinden het een fijn idee als ze vooraf weten dat ze het assessmentgesprek opnieuw mogen doen als er technische problemen optreden. Ook kun je stimuleren dat studenten vooraf bij elkaar oefenen. Bij sommige instellingen kan de student apparatuur lenen of kun je een fysieke locatie aanbieden. Zorg er in ieder geval voor dat je tijdig en helder communiceert over de afspraken.  
 
-#### **Opname**
+#### Opname
 Een andere oplossing om de betrouwbaarheid van de beoordeling te vergroten is het opnemen van het assessmentgesprek tijdens de uitvoering. Bij twijfel over de beoordeling kan deze dan teruggekeken worden. Informeer de student vooraf over een eventuele opname. Het verwerken, opslaan en verwijderen van opnames moet plaatsvinden binnen de wettelijke kaders. Informeer bij je instelling wat hiervoor de regels zijn.  
 
 ## Tijdens afname 
