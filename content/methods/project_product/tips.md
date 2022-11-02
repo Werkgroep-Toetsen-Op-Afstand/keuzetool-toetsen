@@ -20,8 +20,6 @@ weight: 4
 
 *	Kijk voor meer inspiratie over schriftelijke opdrachten op [deze informatiepagina van de VU](https://sites.google.com/vu.nl/vu-teaching-learning-tips/assessment-for-learning/variations-on-written-assignments).  
 
-*	Bij schrijfopdrachten kan er fraude worden gepleegd als teksten worden overgenomen van studenten van voorgaande jaren of van internet. Als docent doe je er goed aan om gebruik te maken van antiplagiaatsoftware. Een bredere diversiteit van projecten en producten maakt het lastiger om elkaars werk te gebruiken. Mocht je gebruikmaken van een onderwerpenlijst, vernieuw de lijst dan regelmatig.  
-
 *	Vraag de studenten aan te geven op welk (deel)aspect ze in ieder geval graag feedback zouden willen krijgen. Dit bevordert het zelfsturend vermogen. Je kunt er als beoordelaar natuurlijk voor kiezen ook op andere aspecten feedback te geven.  
 
 *	Geef de studenten de opdracht bij het project of product ook een zelfbeoordeling in te leveren op basis van het beoordelingsformulier. Ze leren zo te reflecteren op hun eigen werk. Als je hen daarbij vraagt om bij elk beoordelingscriterium aan te geven waar dit uit blijkt (bijvoorbeeld een verwijzing te maken naar de plek in het verslag), dan kan dat jou als beoordelaar tijd besparen tijdens het nakijken. 
