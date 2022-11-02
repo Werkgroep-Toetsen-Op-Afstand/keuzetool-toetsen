@@ -90,18 +90,20 @@ Een andere oplossing om de betrouwbaarheid van de beoordeling te vergroten is he
 
 ### Start
 
-*	Stel de student gerust.  
-*	Controleer of de regels en afspraken duidelijk zijn en herhaal ze zo nodig. 
-*	Geef aan wanneer de student de beoordeling en/of feedback kan verwachten.  
-*	Geef zo nodig aan dat er een opname wordt gemaakt. 
+*	Vraag de student een identiteitskaart of studentenpas te tonen als je als beoordelaar onbekend bent met de student. 
+*	Stel de student gerust.   
+*	Controleer of de regels en afspraken duidelijk zijn en herhaal ze zo nodig.  
+*	Geef aan wanneer de student de beoordeling en/of feedback kan verwachten.   
+*	Geef zo nodig aan dat er een opname wordt gemaakt.  
 
-### Afname
+### Afname 
 
-*	Speel zo nodig in op technische problemen.
+* Begin met meer eenvoudige vragen, om studenten op hun gemak te stellen. 
+*	Op afstand: Speel zo nodig in op technische problemen. 
 
-### Afsluiting
+### Afsluiting 
 
-*	Als je met meerdere beoordelaars werkt en direct feedback wil geven, kun je de student vragen om even uit de videovergadering te gaan of in een breakout room te zetten. Na het bespreken van de bevindingen kan je de student weer terug laten komen. 
+*	Als je met meerdere beoordelaars werkt en direct feedback wilt geven, kun je de student vragen om even de ruimte of, in het geval van toetsen op afstand, even de videovergadering te verlaten of hem/haar in een breakoutroom zetten. Na het bespreken van de bevindingen kun je de student weer terug laten komen.
 
 ## Na afloop
 
@@ -109,5 +111,5 @@ Geef direct na afloop van het assessmentgesprek en (ruim) voor het delen van het
 
 ## Aandachtspunten
 
-*	Studenten vinden (online) mondelinge toetsen spannend. Duidelijkheid over wat ze kunnen verwachten helpt. Informeer de studenten daarom tijdig en volledig over inhoud, procedures, deelnemende beoordelaars en wijze van beoordeling en maak afspraken over het werken in de online omgeving.
-*	Voor studenten met autisme is een online assessmentgesprek soms extra lastig. Zorg ervoor dat deze studenten zich goed kunnen voorbereiden op het gesprek door extra duidelijk te communiceren over verwachtingen, de procedure en de beoordeling. Vraag daarnaast aan de student wat je kunt doen om het gesprek gemakkelijker te laten verlopen.
+* Laat het mondeling altijd beoordelen en eventueel ook afnemen door twee docenten, om het risico op beoordelaarseffecten (dat zeker bij een mondeling hoog is) zoveel mogelijk te beperken. Deze kunnen live aanwezig zijn of achteraf de video-opname beoordelen.
+*	Voor studenten met autisme is een online assessmentgesprek soms extra lastig. Zorg ervoor dat deze studenten zich goed kunnen voorbereiden op het gesprek door extra duidelijk te communiceren over verwachtingen, de procedure en de beoordeling. Vraag daarnaast aan de student wat je kunt doen om het gesprek gemakkelijker te laten verlopen. 
