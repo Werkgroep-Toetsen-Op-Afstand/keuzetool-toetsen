@@ -29,5 +29,3 @@ Observeren op afstand kan op drie manieren:
 ### Belangrijkste nadeel
 
 * Mogelijk beperktere informatie als beoordelaar
-
-**Combineren** Een observatie kan worden uitgevoerd in combinatie met een assessmentgesprek om de student de gemaakte keuzes te laten motiveren. 
