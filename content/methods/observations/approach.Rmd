@@ -10,7 +10,7 @@ weight: 3
 
 ## Voorbereiding
 
-Voor een valide observatie is het ten eerste belangrijk om ervoor te zorgen dat de te observeren taken representatief zijn: volledig en natuurgetrouw (van Berkel et al., 2017). ‘Volledig’ houdt in dat de taken een goede afspiegeling zijn van het assessmentdomein (alle verschillende taken die in het assessment aangeboden hadden kunnen worden). ‘Natuurgetrouw’ houdt in dat de taken ook representatief moeten zijn voor de beoogde vervolgsituatie, bijvoorbeeld in de beroepsuitoefening (het criteriumdomein). Tussen volledigheid en natuurgetrouwheid bestaat echter een spanningsveld: met beperkte tijd en middelen is het niet mogelijk om beide volledig te realiseren. Er zal daarom altijd een afweging moeten worden gemaakt.  
+Voor een valide observatie is het ten eerste belangrijk om ervoor te zorgen dat de te observeren taken representatief zijn: volledig en natuurgetrouw ([van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)). ‘Volledig’ houdt in dat de taken een goede afspiegeling zijn van het assessmentdomein (alle verschillende taken die in het assessment aangeboden hadden kunnen worden). ‘Natuurgetrouw’ houdt in dat de taken ook representatief moeten zijn voor de beoogde vervolgsituatie, bijvoorbeeld in de beroepsuitoefening (het criteriumdomein). Tussen volledigheid en natuurgetrouwheid bestaat echter een spanningsveld: met beperkte tijd en middelen is het niet mogelijk om beide volledig te realiseren. Er zal daarom altijd een afweging moeten worden gemaakt.  
 
 Stel voor een valide en betrouwbare beoordeling beheersing van een competentie niet vast op basis van één of enkele uitgevoerde assessmenttaken, maar op basis van een assessmentprogramma.  
 
@@ -20,7 +20,7 @@ Zorg ervoor dat de verschillende kennis-, vaardigheids-, en houdingsaspecten die
 
 Pas het vier-ogenprincipe toe: construeer het beoordelingsmodel samen met collega’s.  
 
-Omdat het de vraag is in hoeverre uit getoond gedrag conclusies kunnen worden geformuleerd over kennis, is het aan te bevelen om gebruik te maken van een aanvullend instrument, zoals een criteriumgericht interview dat voorafgaand aan of na de observatie wordt afgenomen. Als dit interview naderhand wordt afgenomen, dan kan de student bijvoorbeeld om een argumentatie worden gevraagd voor de gevolgde taakuitvoering (van Berkel et al., 2017).  
+Omdat het de vraag is in hoeverre uit getoond gedrag conclusies kunnen worden geformuleerd over kennis, is het aan te bevelen om gebruik te maken van een aanvullend instrument, zoals een criteriumgericht interview dat voorafgaand aan of na de observatie wordt afgenomen. Als dit interview naderhand wordt afgenomen, dan kan de student bijvoorbeeld om een argumentatie worden gevraagd voor de gevolgde taakuitvoering ([van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)).  
 
 
 ### In het geval van toetsen op afstand:
@@ -51,7 +51,7 @@ Welke regels spreek je af bij het bekijken van de opname, zodat observaties zove
 
 ## Tijdens afname
 
-Draag er ten behoeve van de betrouwbaarheid van de toets zorg voor dat de omstandigheden van de observatie zo gelijk mogelijk zijn voor alle studenten, met behoud van volledigheid en natuurgetrouwheid (van Berkel et al., 2017).
+Draag er ten behoeve van de betrouwbaarheid van de toets zorg voor dat de omstandigheden van de observatie zo gelijk mogelijk zijn voor alle studenten, met behoud van volledigheid en natuurgetrouwheid ([van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)).
 
 Als je met meerdere beoordelaars werkt en direct feedback wilt geven, kun je de student vragen om even de ruimte te verlaten. Na het bespreken van de bevindingen kun je de student vragen om weer terug te komen.
 
