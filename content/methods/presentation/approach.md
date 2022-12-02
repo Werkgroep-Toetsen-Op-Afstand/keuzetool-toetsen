@@ -12,17 +12,17 @@ weight: 3
 
 Gebruik voor de beoordeling van de presentatie vooraf vastgelegde en naar de studenten gecommuniceerde criteria, bijvoorbeeld in een rubric. 
 
-*	Studenten vinden (online) presentaties vaak spannend. Duidelijkheid over wat ze kunnen verwachten helpt. Informeer de studenten daarom tijdig en volledig over inhoud, procedures, deelnemende beoordelaars en de wijze van beoordeling en, in het geval van toetsen op afstand, maak afspraken over het werken in de online omgeving. Zeker voor studenten met een studiebeperking zoals autisme is dit belangrijk. Vraag aan deze studenten wat je kunt doen om het gesprek gemakkelijker te laten verlopen. 
+Studenten vinden (online) presentaties vaak spannend. Duidelijkheid over wat ze kunnen verwachten helpt. Informeer de studenten daarom tijdig en volledig over inhoud, procedures, deelnemende beoordelaars en de wijze van beoordeling en, in het geval van toetsen op afstand, maak afspraken over het werken in de online omgeving. Zeker voor studenten met een studiebeperking zoals autisme is dit belangrijk. Vraag aan deze studenten wat je kunt doen om het gesprek gemakkelijker te laten verlopen. 
 
 ### In het geval van toetsen op afstand: 
 
-#### **Beoordelingsformulier** 
+#### Beoordelingsformulier
 Houd er bij online afname rekening mee dat je het beoordelingsformulier misschien moet aanpassen omdat niet alle beoordelingscriteria op afstand te beoordelen zijn. Zo is behouden van de aandacht van het publiek online slecht te beoordelen.
 
-#### **Anticiperen op technische problemen** 
+#### Anticiperen op technische problemen 
 Het organiseren van online presentaties verschilt iets van presentaties op locatie. Naast de 'reguliere' informatie (over planning, procedure, eventuele benodigdheden, verwachtingen, beoordeling) maak je ook afspraken over het werken in de online omgeving. Denk aan het delen van het scherm, het in- en uitschakelen van camera en microfoon, de wijze waarop vragen kunnen worden gesteld en de handelswijze bij technische problemen. Veel studenten vinden het een fijn idee als ze vooraf weten dat ze de presentatie opnieuw mogen doen als er technische problemen optreden. Ook kun je stimuleren dat studenten hun presentatie vooraf bij elkaar oefenen. Bij sommige instellingen kan de student apparatuur lenen of kun je een fysieke locatie aanbieden. Zorg er in ieder geval voor dat je tijdig en helder communiceert over de afspraken. 
 
-#### **Opname** 
+#### Opname
 Een oplossing om de betrouwbaarheid van de beoordeling te vergroten is het opnemen van de presentatie tijdens de uitvoering. Bij twijfel over de beoordeling kan deze dan teruggekeken worden. Informeer de student vooraf over een eventuele opname. Het verwerken, opslaan en verwijderen van opnames moet plaatsvinden binnen de wettelijke kaders. Informeer bij je instelling wat hiervoor de regels zijn. 
 
 ## Tijdens afname

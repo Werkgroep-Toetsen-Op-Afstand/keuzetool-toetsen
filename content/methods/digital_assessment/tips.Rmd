@@ -8,10 +8,12 @@ instructions: false
 weight: 4
 ---
 
-> Ik laat studenten zelf toetsvragen ontwikkelen en maak deze beschikbaar als oefenmateriaal. Een deel van de door de student ontwikkelde vragen kan gebruikt worden in de toets.
+*	Koppel je leerdoelen met tags aan de formatieve en summatieve digitale toetsen en maak deze resultaten inzichtelijk voor studenten en voor jezelf als docent. Zie [deze SURF uitgave](https://www.surf.nl/good-practice-feedback-op-basis-van-digitale-toetsresultaten).
 
-*	Koppel je leerdoelen met tags aan de formatieve en summatieve digitale toetsen en rapporteer deze resultaten aan studenten en aan jezelf als docent. Zie [deze SURF uitgave](https://www.surf.nl/good-practice-feedback-op-basis-van-digitale-toetsresultaten).
-*	Benadruk voor de formatieve toetsing dat fouten maken is toegestaan, maar dat je als student middels de formatieve toets kunt zien waar je staat in het leerproces. Daarom dient er wel veel energie gestoken te worden in het oefenen.
-*	Zorg dat de formatieve toetsing en de summatieve toetsing goed op elkaar aansluiten.
+*	Benadruk voor de formatieve toetsing dat fouten maken is toegestaan, maar dat je als student middels de formatieve toets kunt zien waar je staat in het leerproces. Daarom is het van belang dat studenten de formatieve oefentoetsen serieus en met inzet maken.
+
 *	Stel bij open vragen beperkingen aan de antwoorden van studenten, bijvoorbeeld in het aantal woorden of in de inhoud van de antwoorden, om te uitgebreide antwoorden te voorkomen.
-* Wanneer zowel kennis als toepassing worden getoetst, kan de werkdruk verlicht worden door een mix van multiple choice- of invulvragen en open vragen te gebruiken. Er kan gebruik worden gemaakt van itembanken of gestandaardiseerde antwoordmodellen waarbij er bijvoorbeeld door de beoordelaar gescand wordt op het voorkomen van bepaalde termen.
+
+*	Wanneer zowel kennis als toepassing worden getoetst, kan de werkdruk verlicht worden door een mix van multiple choice- of invulvragen en open vragen te gebruiken. Er kan ook gebruik worden gemaakt van itembanken of gestandaardiseerde antwoordmodellen waarbij er bijvoorbeeld door de beoordelaar gescand wordt op het voorkomen van bepaalde termen.
+
+*	Lees als je interesse hebt [het gesprek van SURF over publieke waarden in de praktijk met het ethiekkompas in gesprek over online proctoring](https://communities.surf.nl/publieke-waarden/artikel/publieke-waarden-in-de-praktijk-met-het-ethiekkompas-in-gesprek-over)
