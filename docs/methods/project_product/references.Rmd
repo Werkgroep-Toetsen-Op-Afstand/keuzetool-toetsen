@@ -11,11 +11,16 @@ link-citations: TRUE
 bilbio-style: "apalike"
 ---
 
-* [Handreiking van de VU waarin variaties in geschreven toetsproducten worden gegeven](https://sites.google.com/vu.nl/vu-teaching-learning-tips/assessment-for-learning/variations-on-written-assignments).
-* Toetsen in het hoger onderwijs [@van2017toetsen], weergave van het belang van feedback op het leerproces.
-* [Toetswijzer competentiegericht begeleiden & beoordelen in het hoger onderwijs](https://hbo-kennisbank.nl/details/sharekit_fontys:oai:surfsharekit.nl:b2ba5e91-b067-41a1-bce6-bd368c1c1675). Fontys Facilitair Bedrijf, afdeling Onderwijs: Centrum voor onderwijsinnovatie en onderzoek. 
-* Peer assessment als leermiddel. Voorbeelden uit het hoger onderwijs [@van2005peer].
-* Projectonderwijs als innovatie in het hoger onderwijs [@van1985projectonderwijs].
-* [Van Berkel, H., Bax, A., & Joosten-ten Brinke, D. (2017). Toetsen in het hoger onderwijs. Bohn Stafleu van Loghum.](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf) 
+*	 [Handreiking van de VU waarin variaties in geschreven toetsproducten worden gegeven](https://sites.google.com/vu.nl/vu-teaching-learning-tips/assessment-for-learning/variations-on-written-assignments).
+
+* 	[Publicatie van Inholland voor meer informatie over het organiseren van peerfeedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf)
+
+*	 [Toetswijzer competentiegericht begeleiden & beoordelen in het hoger onderwijs](https://hbo-kennisbank.nl/details/sharekit_fontys:oai:surfsharekit.nl:b2ba5e91-b067-41a1-bce6-bd368c1c1675). Fontys Facilitair Bedrijf, afdeling Onderwijs: Centrum voor onderwijsinnovatie en onderzoek.
+
+* 	Peer assessment als leermiddel. Voorbeelden uit het hoger onderwijs [@van2005peer].
+
+* 	Projectonderwijs als innovatie in het hoger onderwijs [@van1985projectonderwijs].
+
+* 	[Van Berkel, H., Bax, A., & Joosten-ten Brinke, D. (2017). Toetsen in het hoger onderwijs. Bohn Stafleu van Loghum.](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)
 
 ## Bibliografie
