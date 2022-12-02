@@ -8,3 +8,6 @@ instructions: false
 weight: 5
 ---
 
+* [Van Berkel, H., Bax, A., & Joosten-ten Brinke, D. (2017). Toetsen in het hoger onderwijs. Bohn Stafleu van Loghum.](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf) 
+
+# Bibliografie 

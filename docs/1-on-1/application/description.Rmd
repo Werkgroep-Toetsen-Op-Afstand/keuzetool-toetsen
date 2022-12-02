@@ -9,8 +9,5 @@ weight: 1
 ---
 ```{r, child="../../snippets/application/app_description_presentations.md"}
 ```
-Deze toetsvorm is dan ook zeer geschikt voor afname op individueel niveau. 
 
-```{r, child="../../snippets/application/app_description_distance.md"}
-```
-  
+Op individuele schaal zijn er veel mogelijkheden voor het toetsen van hogere cognitieve vaardigheden op afstand. Kies voor de vorm die het beste past bij de leerdoelen van het vak en het gegeven onderwijs. 

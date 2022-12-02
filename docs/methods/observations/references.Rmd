@@ -11,7 +11,8 @@ link-citations: TRUE
 bilbio-style: "apalike"
 ---
 
-* Toetsen in het hoger onderwijs [@van2017toetsen] is een algemeen boek over toetsen waarin in het hoofdstuk performance assessment verder wordt ingegaan op het toetsen van observeerbare handelingen. Zeer nuttige informatie over het waarborgen van de betrouwbaarheid en validiteit bij deze toetsvorm.
+* Toetsen in het hoger onderwijs [@van2017toetsen] is een algemeen boek over toetsen waarin in het hoofdstuk performance assessment verder wordt ingegaan op het toetsen van observeerbare handelingen. Zeer nuttige informatie over het waarborgen van de betrouwbaarheid en validiteit bij deze toetsvorm. 
 
+* [Van Berkel, H., Bax, A., & Joosten-ten Brinke, D. (2017). Toetsen in het hoger onderwijs. Bohn Stafleu van Loghum.](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf) 
 
 ## Bibliografie

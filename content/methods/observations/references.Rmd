@@ -11,8 +11,10 @@ link-citations: TRUE
 bilbio-style: "apalike"
 ---
 
-* Toetsen in het hoger onderwijs [@van2017toetsen] is een algemeen boek over toetsen waarin in het hoofdstuk performance assessment verder wordt ingegaan op het toetsen van observeerbare handelingen. Zeer nuttige informatie over het waarborgen van de betrouwbaarheid en validiteit bij deze toetsvorm. 
+*	[Dobbelaer, M. J. (2019). The quality and qualities of classroom observation systems. Universiteit Twente.](https://ris.utwente.nl/ws/portalfiles/portal/88769970/Dobbelaer_The_quality_and_qualities_of_classroom_observation_systems.pdf)
 
-* [Van Berkel, H., Bax, A., & Joosten-ten Brinke, D. (2017). Toetsen in het hoger onderwijs. Bohn Stafleu van Loghum.](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf) 
+* [Publicatie van Inholland voor meer informatie over het organiseren van peerfeedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf)
+
+* 	[Toetsen in het hoger onderwijs](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf) is een algemeen boek over toetsen waarin in het hoofdstuk performance assessment verder wordt ingegaan op het toetsen van observeerbare handelingen. Zeer nuttige informatie over het waarborgen van de betrouwbaarheid en validiteit bij deze toetsvorm.
 
 ## Bibliografie
