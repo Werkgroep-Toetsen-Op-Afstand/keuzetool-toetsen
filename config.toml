@@ -44,9 +44,9 @@ defaultContentLanguage = "nl"
   listTitle = ": kies je toetsdoel"
   listSubtitle = """
   En lees over de geschikte online toetsmethoden.
-  
-  Of lees de algemene [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
   """
+  # Of lees de algemene [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
+  
 
   # Single page parameters
   singleShowEverything = "Toon meer"
