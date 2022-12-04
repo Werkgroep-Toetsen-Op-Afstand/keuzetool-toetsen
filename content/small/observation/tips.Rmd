@@ -1,5 +1,5 @@
 ---
-title: "Tips"
+title: "Tips bij toetsen op afstand"
 icon: /icons/tips.png
 menuicon: /icons/tips-menu.png
 date: 2020-07-31T11:05:44+02:00
@@ -12,9 +12,6 @@ weight: 4
 ```
 
 ```{r, child="../../snippets/observation/obs_tips_visibility.md"}
-```
-
-```{r, child="../../snippets/observation/obs_tips_peerfeedback.md"}
 ```
 
 ```{r, child="../../snippets/observation/obs_how_live.md"}

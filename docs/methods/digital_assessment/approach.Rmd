@@ -8,85 +8,94 @@ instructions: false
 weight: 3
 --- 
 
-Afhankelijk van de inzet van **formatieve** of **summatieve** toetsing zijn er verschillende stappen te zetten in de aanpak. Tevens bepalen de hoeveelheid studenten in je onderwijs en de hoeveelheid beschikbare nakijktijd de mogelijkheid om meer of minder vragen op te nemen die niet geautomatiseerd nagekeken kunnen worden. 
+Afhankelijk van de inzet van **formatieve** of **summatieve** toetsing zijn er verschillende stappen te zetten in de aanpak. Tevens bepalen de hoeveelheid studenten in je onderwijs en de hoeveelheid beschikbare nakijktijd de mogelijkheid om meer of minder vragen op te nemen die niet geautomatiseerd nagekeken kunnen worden.
 
-## Formatief 
+## Formatief
 
+### Voorbereiding
 
-### Voor aanvang
+Gebruik bij voorkeur hetzelfde toetssysteem als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.
 
-Keuze van het toetssysteem: gebruik bij voorkeur hetzelfde systeem als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.
+Daarbij is het aan te bevelen om het ontwerpen van vragen of didactisch leermateriaal ruim voor aanvang van het onderwijs te doen. Dit is namelijk erg tijdrovend. De inzet van studentassistenten kan hier echter een uitkomst bieden. Zie ook [dit interview](https://youtu.be/Z6Ie_ELBq40?t=1219) waarin dit ter sprake komt.
 
-Ontwerpen van vragen of didactisch leermateriaal: het advies is om dit ruim voor aanvang van het onderwijs te doen.
+### Tijdens afname
 
-Het maken van formatieve toetsen, met name de inzet van een oefentoets als didactisch leermiddel kan erg tijdrovend zijn. De inzet van studentassistenten kan hier echter een uitkomst bieden. Zie ook [dit interview](https://youtu.be/Z6Ie_ELBq40?t=1219) waarin dit ter sprake komt. 
-
-### Tijdens
-
-De afname van een formatieve toets hoeft zich niet te beperken tot een specifiek moment. Opdrachten kunnen ook gedurende een week opengezet worden of juist ter voorbereiding op een college of werkgroep. 
+De afname van een formatieve toets hoeft zich niet te beperken tot een specifiek moment. Opdrachten kunnen ook gedurende een week opengezet worden of juist ter voorbereiding op een college of werkgroep.
 
 ### Na afloop
 
-Om een optimaal leereffect te bevorderen is het relevant om studenten na afloop van de formatieve toets toegang te geven tot de resultaten en model antwoorden.
+Om een optimaal leereffect te bevorderen is het relevant om studenten na afloop van de formatieve toets toegang te geven tot de resultaten en modelantwoorden.
 
 Voor de docent bieden de resultaten inzicht in waar de kennishiaten zich bevinden. Deze inzichten kunnen vervolgens tijdens de lopende cursus gebruikt worden om het onderwijs te sturen.
 
 ### Aandachtspunten
 
-* De waardering van formatieve toetsen kan van invloed zijn op de inzet van studenten. Met name bij grote groepen kan dit een rol spelen. 
+*   Het wel of niet meewegen van formatieve toetsen in de beoordeling en de manier waarop deze worden meegewogen kan van invloed zijn op de inzet van studenten. Met name bij grote groepen kan dit een rol spelen. Overweeg eens een ander beloningssysteem. Zoals een [strafstaffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d), zoals ook beschreven in [klinkenberg2016role]. 
 
-* Het mee laten tellen van de formatieve toetsen voor het eindcijfer kan een negatief effect hebben (zie [dit artikel van SURF](https://communities.surf.nl/digitaal-toetsen/artikel/voorspellende-waarde-van-formatieve-toetsen). Overweeg eens een ander beloningssysteem. Zoals een [strafstaffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d), zoals ook beschreven in [Klinkenberg (2017)](https://link.springer.com/chapter/10.1007/978-3-319-57744-9_6).
 
-> Bij een vak waarvan de leerstof ook op een later moment in de opleiding getoetst werd, hebben we een summatieve meerkeuzetoets omgezet naar een formatieve toets. Deze toets wordt door de studenten in drietallen gemaakt. De onderlinge discussie zorgde voor een groot leereffect en wij hoeven geen proctoring meer te gebruiken.
+> Bij een vak waarvan de leerstof ook op een later moment in de opleiding getoetst werd, hebben we een summatieve meerkeuzetoets omgezet naar een formatieve toets. Deze toets wordt door de studenten in drietallen gemaakt. De onderlinge discussie zorgde voor een groot leereffect en wij hoeven geen proctoring meer te gebruiken.  
 
 ## Summatief
 
-> Sinds we een oefentoets met proctoring aanbieden, ervaren we veel minder technische problemen bij de echte afname van de online toetsen met digitale toetsen. 
+> Sinds we een oefentoets met proctoring aanbieden, ervaren we veel minder technische problemen bij de echte afname van de online toetsen.  
 
-### Voor aanvang
+### Voorbereiding
 
-Het opstellen van je tentamenvagen doen je bij voorkeur door gebruik te maken van een persoonlijke of gedeelde itembank, zodat je later vragen kunt hergebruiken. Meer informatie hierover vind je in het [Handboek Itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/) en in de [SURF thema-uitgave Digitale toets- en vragenbanken in het onderwijs]( https://www.surf.nl/files/2019-02/thema-uitgave-itembanken_-webversie_def.pdf). 
+Stel voordat je begint aan de constructie van de tentamenvragen eerst een toetsmatrijs/specificatietabel op, om te verzekeren dat de verschillende kennis- en vaardigheidsaspecten die de toets beoogt te meten worden gedekt en daarmee de inhoudsvaliditeit wordt geborgd [@van2017toetsen]. Zie hiervoor bijvoorbeeld [deze handreiking van Hogeschool Utrecht](https://husite.nl/toetsing-nieuw/toetscyclus/constructie/het-opstellen-van-een-toetsmatrijs/).
 
-Afhankelijk van de inrichting van het toetsprocess binnen je instelling worden sommige taken zoals het plannen van de afname, het toevoegen van studenten aan de afname en het informeren van studenten in meer of mindere mate voor je gedaan. 
+Het opstellen van je tentamenvragen doe je bij voorkeur door gebruik te maken van een persoonlijke of gedeelde itembank, zodat je later vragen kunt hergebruiken. Meer informatie hierover vind je in het [Handboek Itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/) en in de [SURF thema-uitgave Digitale toets- en vragenbanken in het onderwijs](https://www.surf.nl/files/2019-02/thema-uitgave-itembanken_-webversie_def.pdf).
 
-Communiceer duidelijk en goed over de inzet van online proctoringmethode. Niet alle studenten hebben thuis een geschikte ruimte of hebben de beschikking tot de benodigde apparatuur. Geef vroegtijdig aan wat je van de studenten verwacht, wat ze nodig hebben, op welke manier ze ondersteuning kunnen krijgen vanuit de instelling (bijvoorbeeld leenapparatuur) en hoe ze voorafgaand aan de toetsafname kunnen oefenen.
+Doorgaans geldt dat hoe meer vragen in de toets worden opgenomen, hoe hoger de betrouwbaarheid is. Voor een toets met gesloten vragen is het aan te bevelen om veertig (in het geval van vierkeuzevragen) à zestig (in het geval van driekeuzevragen) vragen op te nemen, voor het bereiken van een acceptabele betrouwbaarheid [@van2017toetsen].
 
-### Tijdens
+Pas het vier-ogenprincipe toe: leg de toetsvragen voor aan een collega en vraag om feedback [@van2017toetsen].
 
-Afhankelijk van de gekozen proctoringmethode kan het zijn dat je als docent virtueel aanwezig bent in de conferencing software, live meekijkt met de beelden of enkel standby bent. Bij sommige instellingen hebben de docenten expliciet geen rol in het meekijken met de beelden. 
+Bied, om fraude te voorkomen, vragen en antwoordopties in willekeurige volgorde aan of geef studenten verschillende toetsvragen. Het gebruik van itembanken maakt het gemakkelijker om meerdere toetsversies met een verschillende set van vragen te maken. Meer informatie hierover vind je in het [Handboek Itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/). Het aanbieden van vragen en antwoordopties in een willekeurige volgorde kan gemakkelijk met een digitale toetsapplicatie.
+
+Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van [Berkel (1999)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjKnODgsO_zAhVH7rsIHageBcQQFnoECAUQAQ&url=https%3A%2F%2Fwww.uu.nl%2Fsites%2Fdefault%2Ffiles%2Finschatting_beantwoordingstijd_naar_vraagtype_van_berkel_1999_ot.pdf&usg=AOvVaw0QbDntv3c6E8vkehprB403) voor tijdsindicaties.
+
+Afhankelijk van de inrichting van het toetsproces binnen je instelling worden sommige taken zoals het plannen van de afname, het toevoegen van studenten aan de afname en het informeren van studenten in meer of mindere mate voor je gedaan.
+
+#### In het geval van toetsen op afstand:
+
+Communiceer duidelijk en goed over de inzet van een online proctoringmethode. Niet alle studenten hebben thuis een geschikte ruimte of beschikken over de benodigde apparatuur; zeker bij toetsen met proctoring kan dit een probleem vormen. Geef vroegtijdig aan wat je van de studenten verwacht, wat ze nodig hebben, op welke manier ze ondersteuning kunnen krijgen vanuit de instelling (bijvoorbeeld leenapparatuur of een alternatieve afnamelocatie) en hoe ze voorafgaand aan de toetsafname kunnen oefenen.
+
+Bied bij een toets met proctoring een oefentoets aan waarmee de student met het systeem kan oefenen. Dit is ook van belang voor studenten die door een visuele of auditieve beperking gebruikmaken van spraak- of voorleessoftware.
+
+### Tijdens afname
+
+Draag er ten behoeve van de betrouwbaarheid van de toets zorg voor dat de omstandigheden waaronder de toets wordt afgenomen zo gelijk mogelijk zijn voor alle studenten.
+
+Zorg bij afname van de toets voor authenticatie, door een bewijs van inschrijving in combinatie met het vragen naar een identificatiebewijs. Maak voor de studenten de gedragsregels en de toegestane bronnen en hulpmiddelen tijdens de afname van de toets bekend, evenals de wijze van behandeling van onregelmatigheden waaronder fraude, de wijze waarop uitslagen worden gecommuniceerd, en de mogelijkheden voor inzage. Draag ook zorg voor een goede surveillance en laat (in het bijzonder bij toetsen op afstand) de examencommissie onderzoeken of, en zo ja, in welke mate de inherente beperkingen van de surveillance een bedreiging vormen voor de betrouwbaarheid van de meting. Het dient aanbeveling om een verslag te laten schrijven van de toetsafname waarin melding gemaakt wordt van relevant geachte voorvallen, storingen, onregelmatigheden, vermeende pogingen tot fraude, vragen van studenten om verduidelijking, pogingen om in discussie te gaan met surveillanten, frequent toiletbezoek, massaal vroegtijdig vertrek van studenten of juist het massaal benutten van de laatste secondes. Voor examinatoren levert deze informatie mogelijke aanknopingspunten voor de definitieve normering en voor een evaluatie van de kwaliteit van de betreffende toets [@van2017toetsen].
+
+Het digitaal afnemen van kennistoetsen is relatief fraudegevoelig. Daarom is het nodig om maatregelen te nemen die dit tegengaan. Digitale toetssystemen kunnen mogelijkheden bieden om fraude zoveel mogelijk te voorkomen. Zo kan een toetssysteem bijvoorbeeld bepaalde computerfuncties uitschakelen, zodat studenten bijvoorbeeld tijdelijk geen externe webpagina’s kunnen openen.
+
+#### In het geval van toetsen op afstand:
+
+Ter preventie van fraude kan bij toetsen op afstand online surveillance worden toegepast. Live monitoring houdt in dat er een docent aanwezig is in een videoconferentie waarbij studenten in real-time, via bijvoorbeeld een webcam of telefoon, worden bekeken. Bij recorded proctoring worden er video-opnames gemaakt die na afloop steekproefsgewijs worden bekeken. Geautomatiseerde proctoring betekent dat speciale detectiesoftware automatische controles uitvoert op opvallendheden zoals onverwachte bewegingen of omgevingsgeluiden. Meer informatie over online proctoring vind je [hier](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand).
 
 ### Na afloop
 
+Verwerk en analyseer de resultaten van de toets. Kijk hierbij ook naar de kwaliteit van de items, met behulp van psychometrische gegevens zoals de rit-waarde. Als uit de analyse blijkt dat er items zijn waarvan de kwaliteit tekortschiet, neem dan maatregelen om deze te verbeteren, hetzij voor de reeds afgenomen toets (zoals in het geval van een antwoordsleutel die verkeerd is ingevoerd), hetzij voor afname in een toekomstige toets. Zie bijvoorbeeld [deze handreiking van Hogeschool Utrecht voor meer informatie over toetsanalyse](https://husite.nl/toetsing-nieuw/toetscyclus/evalueren-en-verbeteren/). Als gekozen is voor een relatieve cesuur of voor een compromismethode [@van2017toetsen], bepaal dan nu op basis van de toetsresultaten de definitieve cesuur.
+
+#### In het geval van toetsen op afstand:
+
 De verwerking van de proctoringsresultaten is na afloop niet alleen afhankelijk van de gekozen proctoringmethode, maar ook van de procesafspraken die er binnen de instelling gemaakt zijn. Informeer dus naar het beleid en de werkwijze.
 
-Als er gebruik is gemaakt van ‘recorded proctoring’ of ‘automated proctoring’ moeten de opnames geanalyseerd worden. Mogelijke fraudegevallen worden vervolgens ter beoordeling voorgelegd aan de examinator of examencommissie. 
+Als er gebruik is gemaakt van ‘recorded proctoring’ of ‘automated proctoring’ moeten de opnames geanalyseerd worden. Mogelijke fraudegevallen worden vervolgens ter beoordeling voorgelegd aan de examinator of examencommissie. Als gebruik is gemaakt van recorded proctoring, leg de resultaten dan pas vast als er geen problemen zijn gebleken.
 
-De verwerking van de toetsresultaten verloopt verder analoog aan het digitaal toetsen op de campus.
+De verwerking van de toetsresultaten verloopt verder op dezelfde manier als het digitaal toetsen op de campus.
 
 ### Aandachtspunten
 
-* Neem maatregelen om de betrouwbaarheid en validiteit van de toetsen met open en gesloten vragen te borgen, zoals (zie ook: [Van Berkel et al., 2017]): 
-    * Zorg ervoor (bijv. m.b.v. een specificatietabel) dat de verschillende kennis- en vaardigheidsaspecten die de toets beoogt te meten worden gedekt door de toetsvragen, om de inhoudsvaliditeit te borgen. 
-    * Doorgaans geldt dat hoe meer vragen in de toets worden opgenomen, hoe hoger de betrouwbaarheid is. Voor een toets met gesloten vragen is het aan te bevelen om veertig (in het geval van vierkeuzevragen) à zestig (in het geval van driekeuzevragen) vragen op te nemen, voor het bereiken van een acceptabele betrouwbaarheid. 
-  * Pas het vier-ogenprincipe toe: leg de toetsvragen voor aan een collega en vraag om feedback. 
-  * Verzamel en analyseer psychometrische gegevens van de toets en toetsvragen, zoals de betrouwbaarheidscoëfficiënt en de rit-waarden (doorgaans bieden toetsapplicaties hiervoor mogelijkheden). Gebruik deze gegevens voor het verbeteren van de kwaliteit van de toets(vragen). 
-  * Specifiek voor toetsen met open vragen geldt de aanbeveling om een tweede beoordelaar in te schakelen. Laat de beoordelaars de antwoorden onafhankelijk van elkaar beoordelen met behulp van een vooraf geconstrueerd correctievoorschrift. 
-  * Draag er zorg voor dat de omstandigheden waaronder de toets wordt afgenomen zo gelijk mogelijk zijn voor alle studenten. 
-  * Zorg bij afname van de toets voor authenticatie, door een bewijs van inschrijving in combinatie met het vragen naar een identificatiebewijs. Maak voor de studenten de gedragsregels en de toegestane bronnen en hulpmiddelen tijdens de afname van de toets bekend, evenals de wijze van behandeling van onregelmatigheden waaronder fraude, de wijze waarop uitslagen worden gecommuniceerd, en de mogelijkheden voor inzage. Draag ook zorg voor een goede surveillance en laat (in het bijzonder bij toetsen op afstand) de examencommissie onderzoeken of, en zo ja, in welke mate de inherente beperkingen van de surveillance een bedreiging vormen voor de betrouwbaarheid van de meting. Het dient aanbeveling om een verslag te laten schrijven van de toetsafname waarin melding gemaakt wordt van relevant geachte voorvallen, storingen, onregelmatigheden, vermeende pogingen tot fraude, vragen van studenten om verduidelijking, pogingen om in discussie te gaan met surveillanten, frequent toiletbezoek, massaal vroegtijdig vertrek van studenten of juist het massaal benutten van de laatste secondes. Voor examinatoren levert deze informatie mogelijke aanknopingspunten voor de definitieve normering en voor een evaluatie van de kwaliteit van de betreffende toets. 
+*	Maak een onderbouwde keuze voor de te hanteren cesuur. Zie voor richtlijnen bijvoorbeeld [Soeting en Haykens (z.d.)](https://husite.nl/toetsing-nieuw/wp-content/uploads/sites/299/2020/02/Cesuurbepaling.pdf)
 
-```{r, child="../../snippets/knowledge/know_how_fraud.md"} 
-```
+*	Verzamel en analyseer psychometrische gegevens van de toets en toetsvragen, zoals de betrouwbaarheidscoëfficiënt en de rit-waarden (doorgaans bieden toetsapplicaties hiervoor mogelijkheden). Gebruik deze gegevens voor het verbeteren van de kwaliteit van de toets(vragen).
+*	Specifiek voor toetsen met open vragen geldt de aanbeveling om een tweede beoordelaar in te schakelen. Laat de beoordelaars de antwoorden onafhankelijk van elkaar beoordelen met behulp van een vooraf geconstrueerd correctievoorschrift.
 
-```{r, child="../../snippets/knowledge/know_how_proctoring.md"} 
-```
+#### In het geval van toetsen op afstand:
 
-```{r, child="../../snippets/knowledge/know_how_itembanks.md"} 
-```
+*	Bij toetsen op afstand is er een groter risico op fraude dan bij toetsen op de campus, zeker bij gebruik van gesloten vragen. Naast maatregelen als online procotoring kun je overwegen of je zoveel mogelijk open vragen in kunt zetten. Bedenk wel dat dit de nakijktijd aanzienlijk vergroot.
 
-Niet alle studenten hebben een thuissituatie die geschikt is voor het maken van toetsen. Zeker bij toetsen met proctoring kan dit een probleem vormen. Wijs de studenten op een eventuele alternatieve afnamelocatie of ondersteuningsmogelijkheden (zoals het lenen van een laptop en/of webcam). 
-
-Biedt bij een toets met proctoring een oefentoets aan waarmee de student met het systeem kan oefenen. Dit is ook van belang voor studenten die door een visuele of auditieve beperking gebruik maken van spraak- of voorleessoftware. 
-
-Voor studenten die grote bezwaren hebben tegen de inzet van online proctoring bieden veel instellingen de mogelijkheid om de toets toch op de campus te maken.
+* 	Voor studenten die grote bezwaren hebben tegen de inzet van online proctoring bieden veel instellingen de mogelijkheid om de toets toch op de campus te maken.
 
 > Bij de landelijke opleiding tot klinisch perfusionist worden digitale toetsen met behulp van automated proctoring afgenomen. Sinds de introductie hoeven studenten niet meer uit Groningen of Maastricht naar Leiden te reizen voor het maken van een toets.

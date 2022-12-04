@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-boek en take-home tentamens on Keuzetool Toetsen</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/</link>
+    <description>Recent content in Open-boek en take-home tentamens on Keuzetool Toetsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Definitie</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/definition/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/definition/</guid>
+      <description>Open-boektentamens en take-hometentamens kunnen als alternatief worden ingezet voor (al dan niet op afstand afgenomen) ‘traditionele’ tentamens. Met ‘traditionele tentamens’ worden hier bedoeld: tentamens met open en/of gesloten vragen waarbij geen studiematerialen als hulpmiddel mogen worden gebruikt.
+Open-boektentamen Een open-boektentamen is een tentamen waarbij het studenten is toegestaan om bij het beantwoorden van de vragen gebruik te maken van eigen aantekeningen, samenvattingen, studieboeken en/of andere materialen. Er is sprake van een tijdlimiet van een paar uur en van surveillance of online proctoring.</description>
+    </item>
+    
+    <item>
+      <title>Toetsen op afstand</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/online/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/online/</guid>
+      <description>Open-boektentamen Open-boektentamens kunnen op locatie worden afgenomen of op afstand. Bij toetsen op afstand gelden dezelfde voordelen en nadelen als bij een digitale (gesloten-boek)toets.
+Voordelen   Kan een alternatief zijn voor capaciteitsgebrek op de campus.
+  Geeft studenten met een functiebeperking de mogelijkheid om thuis het tentamen te maken, waar ze wellicht betere voorzieningen hebben.
+  Legt minder druk op het openbaar vervoer.
+  Nadelen   Technisch uitdagend.</description>
+    </item>
+    
+    <item>
+      <title>Aanpak</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/approach/</guid>
+      <description>Open-boektentamen Voorbereiding Stel voordat je begint aan de constructie van de tentamenvragen eerst een toetsmatrijs/specificatietabel op, om te verzekeren dat de verschillende kennis- en vaardigheidsaspecten die de toets beoogt te meten worden gedekt en daarmee de inhoudsvaliditeit wordt geborgd [@van2017toetsen]. Zie hiervoor bijvoorbeeld deze handreiking van Hogeschool Utrecht.
+Construeer contextrijke open vragen die hogere orde vaardigheden toetsen. Vraag studenten altijd om hun antwoord te beargumenteren (CELT, 2020). Maak in de vragen gebruik van casussen, contexten en voorbeelden die nog niet bekend zijn bij de studenten (University of Twente, z.</description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/tips/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/tips/</guid>
+      <description>Koppel je leerdoelen met tags aan de formatieve en summatieve digitale toetsen en maak deze resultaten inzichtelijk voor studenten en voor jezelf als docent. Zie deze SURF uitgave.
+ Benadruk voor de formatieve toetsing dat fouten maken is toegestaan, maar dat je als student middels de formatieve toets kunt zien waar je staat in het leerproces. Daarom is het van belang dat studenten de formatieve oefentoetsen serieus en met inzet maken.</description>
+    </item>
+    
+    <item>
+      <title>Referenties</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/references/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/references/</guid>
+      <description>Bengtsson, L. (2019). Take-Home Exams in Higher Education: A Systematic Review. Education Sciences, 9(4), 267.
+ CELT (2020). How to design and execute an online open book exam. University of Twente.
+ Deneen, C. (2020). Assessment considerations in moving from closed-book to open-book exams. Melbourne centre fort he study of higher education. Handboek van de Universiteit van Melbourne met verschillende do’s and don’ts met betrekking tot open boek- en take-hometentamens.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,1 @@
-Wanneer live monitoring gewenst is, splits de studenten dan op in groepen. In dat geval kan er een surveillant aanwezig zijn per break-out room.
+Wanneer in het geval van toetsen op afstand live monitoring gewenst is, splits de studenten dan op in groepen. In dat geval kan er een surveillant aanwezig zijn per break-out room.

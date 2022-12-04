@@ -11,7 +11,10 @@ link-citations: TRUE
 bilbio-style: "apalike"
 ---
 
-* Paper van surf over de inzet van e-portfolio’s.	[Wat is een e-portfolio?
-E-portfolio in de praktijk, Tools voor e-portfolio, Conclusies en aanbevelingen](https://www.surf.nl/files/2019-01/inventarisatie-e-portfolios-in-het-hoger-onderwijs.pdf).
+* Paper van surf over de inzet van e-portfolio’s.	[Wat is een e-portfolio? E-portfolio in de praktijk, Tools voor e-portfolio, Conclusies en aanbevelingen](https://www.surf.nl/files/2019-01/inventarisatie-e-portfolios-in-het-hoger-onderwijs.pdf).
 
 * [Publicatie van Inholland voor meer informatie over het organiseren van peerfeedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf)
+
+* [Van Berkel, H., Bax, A., & Joosten-ten Brinke, D. (2017). Toetsen in het hoger onderwijs. Bohn Stafleu van Loghum.](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)
+
+# Bibliografie 
