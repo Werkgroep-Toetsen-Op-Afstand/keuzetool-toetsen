@@ -1,0 +1,12 @@
+---
+title: "Open-boek en take-home"
+subtitle: "none"
+link: "https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/"
+date: '2021-12-08'
+weight: 1
+category: "tool"
+---
+
+Open-boek- en take-hometentamens zijn geschikt voor het toetsen van hogere-orde cognitieve vaardigheden als toepassen, analyseren, evalueren en creëren. Zeker bij take-hometentamens is er, vanwege de ruime afnametijd, veel ruimte om (minder voorgestructureerde) vragen te stellen die een beroep doen op hogere-orde cognitieve vaardigheden.
+
+Open-boek en take-homententamens zijn op afstand minder fraudegevoelig dan toetsen met alleen gesloten vragen, maar wel arbeidsintensiever om te beoordelen. Bij het toetsen van één of enkele studenten is dit echter goed haalbaar.

@@ -44,9 +44,9 @@ defaultContentLanguage = "nl"
   listTitle = ": kies je toetsdoel"
   listSubtitle = """
   En lees over de geschikte online toetsmethoden.
-  
-  Of lees de algemene [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
   """
+  # Of lees de algemene [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
+  
 
   # Single page parameters
   singleShowEverything = "Toon meer"
@@ -68,6 +68,8 @@ defaultContentLanguage = "nl"
             [Ivan de Wolf](https://www.linkedin.com/in/ivandewolf/) (programmeur)
   
   **License:** This tool is offered under a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. All content can be considered under this license unless otherwise noted.
+
+  **Github:** This website is hosted on Github. [Issues can be registered in the repository](https://github.com/Werkgroep-Toetsen-Op-Afstand/keuzetool-toetsen/issues).
   """
 
 [languages]
@@ -106,9 +108,9 @@ defaultContentLanguage = "nl"
   listTitle = ": Choose your assesment goal"
   listSubtitle = """
   Read about appropriate online assessment methods.
-
-  Or read about [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
   """
+  # Or read about [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
+  
 
   # Single page parameters
   singleShowEverything = "Show more"
