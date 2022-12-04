@@ -68,6 +68,8 @@ defaultContentLanguage = "nl"
             [Ivan de Wolf](https://www.linkedin.com/in/ivandewolf/) (programmeur)
   
   **License:** This tool is offered under a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. All content can be considered under this license unless otherwise noted.
+
+  **Github:** This website is hosted on Github. [Issues can be registered in the repository](https://github.com/Werkgroep-Toetsen-Op-Afstand/keuzetool-toetsen/issues).
   """
 
 [languages]
