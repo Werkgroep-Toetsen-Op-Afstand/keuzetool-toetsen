@@ -108,9 +108,9 @@ defaultContentLanguage = "nl"
   listTitle = ": Choose your assesment goal"
   listSubtitle = """
   Read about appropriate online assessment methods.
-
-  Or read about [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
   """
+  # Or read about [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
+  
 
   # Single page parameters
   singleShowEverything = "Show more"
