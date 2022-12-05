@@ -14,7 +14,7 @@ Open-boektentamens en take-hometentamens kunnen als alternatief worden ingezet v
 
 Een open-boektentamen is een tentamen waarbij het studenten is toegestaan om bij het beantwoorden van de vragen gebruik te maken van eigen aantekeningen, samenvattingen, studieboeken en/of andere materialen. Er is sprake van een tijdlimiet van een paar uur en van surveillance of online proctoring. Waar een gesloten-boektentamen geschikt is voor het toetsen van kernstof, oftewel kennis die studenten moeten onthouden en kunnen reproduceren, is de open-boektoets meer geschikt om te toetsen of studenten in staat zijn met een grote hoeveelheid kennis om te gaan [@heijne2011directing]. Open-boektentamens kunnen worden gebruikt voor het toetsen van kennis die studenten op het juiste moment moeten kunnen vinden, begrijpen en toepassen, oftewel: de mantelstof [@heijne2011directing].
 
-Open-boek tentamens hebben een aantal voordelen (Heijne-Penninga et al., 2010):
+Open-boek tentamens hebben een aantal voordelen [@heijne2011directing]:
 
 *	De nadruk op stampen en reproductie wordt gereduceerd.
 

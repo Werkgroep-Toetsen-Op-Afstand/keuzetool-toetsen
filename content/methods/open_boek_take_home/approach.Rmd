@@ -88,4 +88,4 @@ Voer een plagiaatcontrole uit, als de gemaakte take-hometentamens online worden 
 
 *	Laat studenten hun werk digitaal inleveren, zodat er een plagiaatcontrole kan worden uitgevoerd [@bengtsson2019take].
 
-*	Maak een onderbouwde keuze voor de te hanteren cesuur. Zie voor richtlijnen bijvoorbeeld [Soeting en Haykens (z.d.)] (https://husite.nl/toetsing-nieuw/wp-content/uploads/sites/299/2020/02/Cesuurbepaling.pdf)
+*	Maak een onderbouwde keuze voor de te hanteren cesuur. Zie voor richtlijnen bijvoorbeeld [Soeting en Haykens (z.d.)](https://husite.nl/toetsing-nieuw/wp-content/uploads/sites/299/2020/02/Cesuurbepaling.pdf)
