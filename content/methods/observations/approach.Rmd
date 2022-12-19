@@ -14,7 +14,7 @@ Voor een valide observatie is het ten eerste belangrijk om ervoor te zorgen dat 
 
 Stel voor een valide en betrouwbare beoordeling beheersing van een competentie niet vast op basis van één of enkele uitgevoerde assessmenttaken, maar op basis van een assessmentprogramma.  
 
-Gebruik een beoordelingsmodel met vooraf vastgelegde criteria, bijvoorbeeld in de vorm van een rubric.  
+Gebruik een beoordelingsmodel met vooraf vastgelegde criteria, bijvoorbeeld in de vorm van een [rubric](https://husite.nl/toetsing-nieuw/toetscyclus/constructie/het-construeren-van-een-beoordelingsformulier/). 
 
 Zorg ervoor dat de verschillende kennis-, vaardigheids-, en houdingsaspecten die de toets beoogt te meten worden gedekt door de criteria in het beoordelingsmodel, om de inhoudsvaliditeit te borgen. Als competenties worden getoetst, formuleer de criteria dan wel zodanig dat deze verschillende aspecten niet afzonderlijk maar geïntegreerd worden beoordeeld.  
 
@@ -27,7 +27,7 @@ Omdat het de vraag is in hoeverre uit getoond gedrag conclusies kunnen worden ge
 
 #### Beoordelingsformulier
 
-Bij een observatie wordt meestal een beoordelingsformulier gebruikt. Bekijk goed of alle beoordelingscriteria ook op afstand valide gescoord kunnen worden; heb je straks als beoordelaar voor alle criteria voldoende informatie of kun je bepaalde criteria niet scoren doordat bepaalde informatie onvoldoende in beeld komt (bijvoorbeeld de reactie van een klant)?
+Bij een observatie wordt meestal een [beoordelingsformulier](https://husite.nl/toetsing-nieuw/toetscyclus/constructie/het-construeren-van-een-beoordelingsformulier/) gebruikt. Bekijk goed of alle beoordelingscriteria ook op afstand valide gescoord kunnen worden; heb je straks als beoordelaar voor alle criteria voldoende informatie of kun je bepaalde criteria niet scoren doordat bepaalde informatie onvoldoende in beeld komt (bijvoorbeeld de reactie van een klant)?
 
 #### Live of video-opname
 

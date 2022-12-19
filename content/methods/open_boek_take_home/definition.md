@@ -8,7 +8,7 @@ instructions: false
 weight: 1
 ---
 
-Open-boektentamens en take-hometentamens kunnen als alternatief worden ingezet voor (al dan niet op afstand afgenomen) ‘traditionele’ tentamens. Met ‘traditionele tentamens’ worden hier bedoeld: tentamens met open en/of gesloten vragen waarbij geen studiematerialen als hulpmiddel mogen worden gebruikt.
+Open-boektentamens en take-hometentamens kunnen als alternatief worden ingezet voor (al dan niet op afstand afgenomen) ‘traditionele’ tentamens. Met ‘traditionele tentamens’ worden hier bedoeld: tentamens met open en/of gesloten vragen waarbij geen studiematerialen als hulpmiddel mogen worden gebruikt. Open-boektentamens en take-hometentamens zijn geschikt voor het toetsen van de volgende cognitieve niveaus van [Bloom](https://www.utwente.nl/.uc/f84db0b51010284fa9c0174f5f903a6aaa8aeaf3a528a00/bloom-taxonomie-checklist.pdf): onthouden, begrijpen, toepassen, analyseren, en evalueren. 
 
 ## Open-boektentamen
 

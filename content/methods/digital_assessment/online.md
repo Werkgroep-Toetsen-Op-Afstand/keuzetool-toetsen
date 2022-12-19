@@ -22,9 +22,9 @@ De resultaten van de formatieve toetsen zijn zowel waardevol voor de student als
 
 *	 De beoordeling kan in sommige gevallen deels of geheel geautomatiseerd worden.
 
-*	 Antwoordmodellen kunnen van narratieve feedback is toe te voegen.
+*	 Antwoordmodellen kunnen van narratieve feedback worden voorzien.
 
-*	Er zijn geen problemen met moeilijk leesbare handschriften.
+*	 Er zijn geen problemen met moeilijk leesbare handschriften.
 
 *	 Toetsresultaten geven input in het leerproces en bieden de docent informatie over onderdelen die nog niet beheerst worden.  
 
