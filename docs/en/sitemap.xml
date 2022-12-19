@@ -104,19 +104,6 @@
     <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/observation/methods/presentation/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/open_boek_take_home/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/open_boek_take_home/"
-                />
-  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/digital_assessment/definition/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
@@ -362,19 +349,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/observation/description/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/digital_assessment/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/digital_assessment/"
                 />
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/glossary/</loc>
@@ -637,6 +611,19 @@
                 href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/application/"
                 />
   </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/digital_assessment/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/digital_assessment/"
+                />
+  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/1-on-1/application/how/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
@@ -684,19 +671,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/medium/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/observations/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/observations/"
                 />
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/digital_assessment/online/</loc>
@@ -1050,6 +1024,19 @@
                 href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/project_product/approach/"
                 />
   </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/observations/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/observations/"
+                />
+  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/application/methods/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
   </url><url>
@@ -1326,6 +1313,19 @@
                 href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/application/methods/observation/"
                 />
   </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/open_boek_take_home/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/open_boek_take_home/"
+                />
+  </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/1-on-1/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
@@ -1337,19 +1337,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/1-on-1/"
-                />
-  </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/portfolio/</loc>
-    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/portfolio/"
                 />
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/1-on-1/application/tips/</loc>
@@ -1638,17 +1625,17 @@
                 href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/application/methods/portfolio/"
                 />
   </url><url>
-    <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/presentation/</loc>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/portfolio/</loc>
     <lastmod>2020-07-31T11:05:44+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/presentation/"
+                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/portfolio/"
                 />
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/digital_assessment/references/</loc>
@@ -1779,6 +1766,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/application/methods/project_product/"
+                />
+  </url><url>
+    <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/presentation/</loc>
+    <lastmod>2020-07-31T11:05:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/presentation/"
                 />
   </url><url>
     <loc>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/methods/project_product/</loc>

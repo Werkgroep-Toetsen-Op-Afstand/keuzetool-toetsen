@@ -221,16 +221,6 @@ Met een digitale toets kan je gebruikmaken van diverse vraagvormen. Deze lopen u
     
     <item>
       <title>Definitie</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/definition/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/definition/</guid>
-      <description>Onder digitale toetsen verstaan we toetsen die worden afgenomen in een speciaal daarvoor ontworpen applicatie. Dit kan een functionaliteit van de elektronische leeromgeving zijn als Canvas, of een afzonderlijke toetsapplicatie zoals TestVision of Remindo.
-Met een digitale toets kan je gebruikmaken van diverse vraagvormen. Deze lopen uiteen van meerkeuzevragen, drag-and-drop vragen tot korte invulvragen. Digitale toetsen zijn geschikt voor het toetsen van de volgende cognitieve niveaus van Bloom:: onthouden, begrijpen, toepassen, analyseren, en evalueren.</description>
-    </item>
-    
-    <item>
-      <title>Definitie</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/definition/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
@@ -284,6 +274,15 @@ Een mondelinge toets wordt vaak gebruikt in combinatie met andere toetsvormen, b
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/definition/</guid>
       <description>Met projecten en producten past de student kennis toe op een actieve, praktische wijze binnen de gestelde kaders. Het toepassen van kennis leidt tot betere verwerking van de lesstof. Projecten en producten zijn geschikt om vast te stellen of de student kennis kan toepassen, analyseren, evalueren of creëren (zie deze [publicatie van SLO]((https://www.utwente.nl/.uc/f84db0b51010284fa9c0174f5f903a6aaa8aeaf3a528a00/bloom-taxonomie-checklist.pdf) voor meer informatie over de cognitieve niveaus van Bloom).
 Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt over een brede kennisbasis.</description>
+    </item>
+    
+    <item>
+      <title>Overzicht van alle toetsvormen</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/definition/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/definition/</guid>
+      <description>Digitale toetsen Digitaal examen Digitaal tentamen Digitale toets Kennistoets Online examen Online tentamen Online toets Toets met open/gesloten vragen Mondeling Assessmentgesprek Criterium gericht interview (CGI) Eindgesprek Mondeling Mondelinge toets Pitch Presentatie Verdediging Open-boek en take-home tentamens Open-boek tentamen Take-home tentamen Observaties Gedragsassessment Korte praktijkbeoordeling (KPB) Korte vaardigheid beoordeling (KVB) Observatie in de praktijk Performance-assessment Praktijkproef Proeve van bekwaamheid Simulatie Stationstoets (met een reeks handelingen) Vaardigheidstoets Voorstelling Portfolio Assessment portfolio Beoordelingsportfolio Competentieoverzicht Development portfolio Digitaal portfolio E-portfolio Leerwerkmap Ontwikkelingsportfolio Presentatieportfolio Showcase Showmap Vaardighedendossier Verrichtingenoverzicht Presentatie Pechakucha Pitch Posterpresentatie Video-essay Projecten en producten Advies Afstudeeropdracht Analyse Boekbeoordeling Casestudy Essay Fabricaat Groepsopdracht Meesterproef Onderzoeksopdracht Onderzoeksverslag Ontwerp Praktijkbeoordeling Procesbeoordeling Productbeoordeling Producttoets Projectopdracht Rapport Reflectie-opdracht Reflectieverslag Scriptie Stage-opdracht Thesis Verslag Werkstuk </description>
     </item>
     
     <item>
@@ -347,7 +346,7 @@ Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt 
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/large/application/methods/presentation-copy/</guid>
       <description>Tips voor deze toetsvorm
- Het beoordelen van presentaties, projecten of producten kan veel tijd kosten. Daarom lijkt deze vorm wellicht minder voor de hand liggend voor deze schaal. Echter kan het nakijken van deze toetsvormen in een formatieve setting behapbaarder worden gemaakt door de studenten op te delen in groepen en/of gebruik te maken van peer feedback, waarbij studenten elkaars werk beoordelen. Ook kan het praktisch zijn om de studenten hun presentaties op te laten nemen, zodat de beoordelaar deze tijd- en plaatsonafhankelijk kan beoordelen.</description>
+Het beoordelen van presentaties, projecten of producten kan veel tijd kosten. Daarom lijkt deze vorm wellicht minder voor de hand liggend voor deze schaal. Echter kan het nakijken van deze toetsvormen in een formatieve setting behapbaarder worden gemaakt door de studenten op te delen in groepen en/of gebruik te maken van peer feedback, waarbij studenten elkaars werk beoordelen. Ook kan het praktisch zijn om de studenten hun presentaties op te laten nemen, zodat de beoordelaar deze tijd- en plaatsonafhankelijk kan beoordelen.</description>
     </item>
     
     <item>
@@ -601,8 +600,8 @@ Hoewel gesprekken vaak op locatie plaatsvinden, zijn er ook mogelijkheden om dit
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/online/</guid>
       <description>Observeren op afstand kan op drie manieren:
-  Live meekijken naar een online handeling. Het kan gaan om een online handeling (bijvoorbeeld het werken met een digitaal computerprogramma) of een handeling die (anders dan normaal) voor de beoordeling online plaatsvindt (bijvoorbeeld het voeren van een gesprek). De observatie is plaatsonafhankelijk.
-  Live meekijken naar een handeling op locatie. De beoordelaar(s) kijken vanaf afstand live mee (bijvoorbeeld bij het gebruik van een machine op een stageplek).</description>
+Live meekijken naar een online handeling. Het kan gaan om een online handeling (bijvoorbeeld het werken met een digitaal computerprogramma) of een handeling die (anders dan normaal) voor de beoordeling online plaatsvindt (bijvoorbeeld het voeren van een gesprek). De observatie is plaatsonafhankelijk.
+Live meekijken naar een handeling op locatie. De beoordelaar(s) kijken vanaf afstand live mee (bijvoorbeeld bij het gebruik van een machine op een stageplek).</description>
     </item>
     
     <item>
@@ -612,10 +611,10 @@ Hoewel gesprekken vaak op locatie plaatsvinden, zijn er ook mogelijkheden om dit
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/online/</guid>
       <description>Open-boektentamen Open-boektentamens kunnen op locatie worden afgenomen of op afstand. Bij toetsen op afstand gelden dezelfde voordelen en nadelen als bij een digitale (gesloten-boek)toets.
-Voordelen   Kan een alternatief zijn voor capaciteitsgebrek op de campus.
-  Geeft studenten met een functiebeperking de mogelijkheid om thuis het tentamen te maken, waar ze wellicht betere voorzieningen hebben.
-  Legt minder druk op het openbaar vervoer.
-  Nadelen   Technisch uitdagend.</description>
+Voordelen Kan een alternatief zijn voor capaciteitsgebrek op de campus.
+Geeft studenten met een functiebeperking de mogelijkheid om thuis het tentamen te maken, waar ze wellicht betere voorzieningen hebben.
+Legt minder druk op het openbaar vervoer.
+Nadelen Technisch uitdagend. Als er iets misgaat is dat zeer vervelend.</description>
     </item>
     
     <item>
@@ -645,7 +644,7 @@ Beoordelingsportfolio Een beoordelingsportfolio is een portfolio voor summatief 
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/online/</guid>
       <description>Online presenteren vereist van studenten soms een andere vaardigheid. Naast het kunnen omgaan met de videoconferenctiesoftware zal in sommige gevallen ook de presentatie zelf aangepast moeten worden om deze digitaal te kunnen aanbieden. Een posterpresentatie is fysiek toch een andere activiteit dan online.
-Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaatsonafhankelijk kan, en bij een video-opname ook tijdsonafhankelijk. Dit maakt observeren voor een beoordelaar minder tijdrovend door het ontbreken van bijvoorbeeld reistijd.</description>
+Voordelen Het grootste voordeel van een presentatie op afstand is dat het plaatsonafhankelijk kan, en bij een video-opname ook tijdsonafhankelijk. Dit maakt observeren voor een beoordelaar minder tijdrovend door het ontbreken van bijvoorbeeld reistijd.</description>
     </item>
     
     <item>
@@ -655,8 +654,8 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/online/</guid>
       <description>Bij een project of product voert de student een afgebakende opdracht uit. Projecten hebben vaak een product als een analyse, advies, ontwerp, fabricaat of essay als resultaat:
-  Analyse Een student analyseert een situatie, probleem of vraagstuk, onderscheidt hierbij hoofd- en bijzaken en/of identificeert hierbij voor- en nadelen.
-  Advies Een advies volgt vaak op een analyse. De student integreert informatie uit verschillende bronnen om tot een onderbouwd advies te komen en een mogelijke oplossing te presenteren.</description>
+Analyse Een student analyseert een situatie, probleem of vraagstuk, onderscheidt hierbij hoofd- en bijzaken en/of identificeert hierbij voor- en nadelen.
+Advies Een advies volgt vaak op een analyse. De student integreert informatie uit verschillende bronnen om tot een onderbouwd advies te komen en een mogelijke oplossing te presenteren.</description>
     </item>
     
     <item>
@@ -693,8 +692,8 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/large/application/tips/</guid>
       <description>Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
- Zorg voor een goede communicatie met studenten.
- Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
+Zorg voor een goede communicatie met studenten.
+Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
     </item>
     
     <item>
@@ -704,7 +703,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/large/observation/tips/</guid>
       <description>Voor het maken van de opnames is vaak apparatuur nodig zoals een goede camera, een statief en één of meerdere microfoons. Deze apparatuur moet voor de student beschikbaar worden gesteld. Er is apparatuur beschikbaar die speciaal ontwikkeld is voor het opnemen van vaardigheden, bijvoorbeeld apparatuur om lessen op te nemen.
- Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is.</description>
+Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is.</description>
     </item>
     
     <item>
@@ -714,8 +713,8 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/medium/application/tips/</guid>
       <description>Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
- Zorg voor een goede communicatie met studenten.
- Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
+Zorg voor een goede communicatie met studenten.
+Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
     </item>
     
     <item>
@@ -725,9 +724,9 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/medium/knowledge/tips/</guid>
       <description>Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van Berkel (1999) voor tijdsindicaties.
- Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
- Zorg voor een goede communicatie met studenten.
- Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten.</description>
+Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
+Zorg voor een goede communicatie met studenten.
+Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera).</description>
     </item>
     
     <item>
@@ -737,7 +736,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/tips/</guid>
       <description>Koppel je leerdoelen met tags aan de formatieve en summatieve digitale toetsen en maak deze resultaten inzichtelijk voor studenten en voor jezelf als docent. Zie deze SURF uitgave.
- Benadruk voor de formatieve toetsing dat fouten maken is toegestaan, maar dat je als student middels de formatieve toets kunt zien waar je staat in het leerproces. Daarom is het van belang dat studenten de formatieve oefentoetsen serieus en met inzet maken.</description>
+Benadruk voor de formatieve toetsing dat fouten maken is toegestaan, maar dat je als student middels de formatieve toets kunt zien waar je staat in het leerproces. Daarom is het van belang dat studenten de formatieve oefentoetsen serieus en met inzet maken.</description>
     </item>
     
     <item>
@@ -756,7 +755,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/tips/</guid>
       <description>Koppel je leerdoelen met tags aan de formatieve en summatieve digitale toetsen en maak deze resultaten inzichtelijk voor studenten en voor jezelf als docent. Zie deze SURF uitgave.
- Benadruk voor de formatieve toetsing dat fouten maken is toegestaan, maar dat je als student middels de formatieve toets kunt zien waar je staat in het leerproces. Daarom is het van belang dat studenten de formatieve oefentoetsen serieus en met inzet maken.</description>
+Benadruk voor de formatieve toetsing dat fouten maken is toegestaan, maar dat je als student middels de formatieve toets kunt zien waar je staat in het leerproces. Daarom is het van belang dat studenten de formatieve oefentoetsen serieus en met inzet maken.</description>
     </item>
     
     <item>
@@ -775,7 +774,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/tips/</guid>
       <description>Faciliteer en stimuleer zelfsturend leren bij de totstandkoming van het portfolio. Laat studenten persoonlijke leerdoelen opstellen en hierop reflecteren. Vraag de studenten aan te geven op welk (deel)aspect ze in ieder geval graag feedback zouden willen krijgen. Je kunt er als beoordelaar natuurlijk voor kiezen ook op andere aspecten feedback te geven.
-  Bied de mogelijkheid tot peerfeedback. Laat studenten bijvoorbeeld zelf vragen bedenken en stellen bij elkaars portfolio.</description>
+Bied de mogelijkheid tot peerfeedback. Laat studenten bijvoorbeeld zelf vragen bedenken en stellen bij elkaars portfolio. Op deze manier bevorder je niet alleen dat studenten leren om op een constructieve manier kritisch te zijn en feedback te geven, maar krijgt de student ook zicht op vragen die er nog leven bij anderen na het lezen van het portfolio.</description>
     </item>
     
     <item>
@@ -785,7 +784,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/tips/</guid>
       <description>Het kan praktisch zijn om de studenten hun presentaties op te laten nemen. Zo kunnen deze achteraf teruggekeken worden, bijvoorbeeld door de beoordelaar zelf bij twijfelgevallen, of door een tweede beoordelaar. Ook voor de student kan het leerzaam zijn om de opname zelf of samen met de beoordelaar terug te kijken, om te reflecteren op de presentatie of om de beoordeling te bespreken.
-  Faciliteer het oefenen van een onlinepresentatie door het inroosteren van een online bijeenkomst waarin studenten onderling kunnen oefenen.</description>
+Faciliteer het oefenen van een onlinepresentatie door het inroosteren van een online bijeenkomst waarin studenten onderling kunnen oefenen.</description>
     </item>
     
     <item>
@@ -795,7 +794,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/tips/</guid>
       <description>Ruim voor de inleverdatum van de laatste conceptversie van de scriptie organiseer ik een online peerfeedbacksessie. Aan de hand van een beoordelingsformulier geven studenten feedback op elkaars product. Ik merk dat het mij als docent tijd scheelt bij het geven van feedback. Veelvoorkomende fouten worden door de studenten zelf opgemerkt en aangepast. Ook krijgen ze goed zicht op het beoordelingsformulier.
-   Faciliteer en stimuleer zelfsturend leren binnen een project.</description>
+Faciliteer en stimuleer zelfsturend leren binnen een project. Laat studenten persoonlijke doelen stellen binnen het project en hierop reflecteren.</description>
     </item>
     
     <item>
@@ -805,8 +804,8 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/1-on-1/application/tips/</guid>
       <description>Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
- Zorg voor een goede communicatie met studenten.
- Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
+Zorg voor een goede communicatie met studenten.
+Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
     </item>
     
     <item>
@@ -816,8 +815,8 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/1-on-1/knowledge/tips/</guid>
       <description>Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
- Zorg voor een goede communicatie met studenten.
- Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
+Zorg voor een goede communicatie met studenten.
+Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
     </item>
     
     <item>
@@ -827,7 +826,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/1-on-1/observation/tips/</guid>
       <description>Voor het maken van de opnames is vaak apparatuur nodig zoals een goede camera, een statief en één of meerdere microfoons. Deze apparatuur moet voor de student beschikbaar worden gesteld. Er is apparatuur beschikbaar die speciaal ontwikkeld is voor het opnemen van vaardigheden, bijvoorbeeld apparatuur om lessen op te nemen.
- Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is.</description>
+Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is.</description>
     </item>
     
     <item>
@@ -837,8 +836,8 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/large/knowledge/tips/</guid>
       <description>Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
- Zorg voor een goede communicatie met studenten.
- Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
+Zorg voor een goede communicatie met studenten.
+Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
     </item>
     
     <item>
@@ -848,7 +847,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/medium/observation/tips/</guid>
       <description>Voor het maken van de opnames is vaak apparatuur nodig zoals een goede camera, een statief en één of meerdere microfoons. Deze apparatuur moet voor de student beschikbaar worden gesteld. Er is apparatuur beschikbaar die speciaal ontwikkeld is voor het opnemen van vaardigheden, bijvoorbeeld apparatuur om lessen op te nemen.
- Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is.</description>
+Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is.</description>
     </item>
     
     <item>
@@ -858,8 +857,8 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/application/tips/</guid>
       <description>Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
- Zorg voor een goede communicatie met studenten.
- Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
+Zorg voor een goede communicatie met studenten.
+Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
     </item>
     
     <item>
@@ -869,8 +868,8 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/knowledge/tips/</guid>
       <description>Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.
- Zorg voor een goede communicatie met studenten.
- Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
+Zorg voor een goede communicatie met studenten.
+Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
     </item>
     
     <item>
@@ -880,7 +879,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/observation/tips/</guid>
       <description>Voor het maken van de opnames is vaak apparatuur nodig zoals een goede camera, een statief en één of meerdere microfoons. Deze apparatuur moet voor de student beschikbaar worden gesteld. Er is apparatuur beschikbaar die speciaal ontwikkeld is voor het opnemen van vaardigheden, bijvoorbeeld apparatuur om lessen op te nemen.
- Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is.</description>
+Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is.</description>
     </item>
     
     <item>
@@ -907,7 +906,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/application/methods/portfolio/</guid>
-      <description>Een portfolio is een verzameling documenten/bestanden die aantonen dat de student bepaalde competenties bezit en/of zich ontwikkelt en die vaak over een langere tijd wordt opgebouwd. In het portfolio kunnen dus ook andere toetsvormen opgenomen zijn. Zo kan een student in een beoordelingsportfolio onder meer video-opnames van observaties, producten van projecten en de resultaten van de beoordeling hiervan opnemen als bewijzen van de beheersing van hij specifieke toepassingsvaardigheden worden.</description>
+      <description>Een portfolio is een verzameling documenten/bestanden die aantonen dat de student bepaalde competenties bezit en/of zich ontwikkelt en die vaak over een langere tijd wordt opgebouwd. In het portfolio kunnen dus ook andere toetsvormen opgenomen zijn. Zo kan een student in een beoordelingsportfolio onder meer video-opnames van observaties, producten van projecten en de resultaten van de beoordeling hiervan opnemen als bewijzen van de beheersing van hij specifieke toepassingsvaardigheden worden. In een ontwikkelingsportfolio zou de student daarnaast ook eigen reflecties hierop kunnen opnemen waarin na wordt gegaan welke (deel)competenties onvoldoende beheerst worden en waar dus nog aan moet worden gewerkt.</description>
     </item>
     
     <item>
@@ -917,9 +916,9 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/references/</guid>
       <description>Het minimalizeren van fraude bij kennistoetsen op afstand (zonder inzet van online proctoring) Nguyen (2020).
- Handboek itembanken SURF: Introductie, stappenplan en verdiepende informatie over het opbouwen van een relevante, beheersbare en bruikbare itembank.
- Handboek proctoring SURF: 1) Een uitleg over online proctoring 2) Een toelichting over het privacy aspect van online proctoring 3) Een toelichting over fraudepreventie door middel van online proctoring.
- Handreiking van Hogeschool Utrecht voor het doorlopen van de verschillende fasen van de toetscyclus</description>
+Handboek itembanken SURF: Introductie, stappenplan en verdiepende informatie over het opbouwen van een relevante, beheersbare en bruikbare itembank.
+Handboek proctoring SURF: 1) Een uitleg over online proctoring 2) Een toelichting over het privacy aspect van online proctoring 3) Een toelichting over fraudepreventie door middel van online proctoring.
+Handreiking van Hogeschool Utrecht voor het doorlopen van de verschillende fasen van de toetscyclus</description>
     </item>
     
     <item>
@@ -928,7 +927,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/references/</guid>
-      <description>   Toetsen in het hoger onderwijs (Van Berkel, Bax, and Joosten-ten Brinke 2017) is een algemeen boek over toetsen waarin in het hoofdstuk performance assessment verder wordt ingegaan op het toetsen van observeerbare handelingen. Zeer nuttige informatie over het waarborgen van de betrouwbaarheid en validiteit bij deze toetsvorm.  Bibliografie Van Berkel, Henk, Anneke Bax, and Desirée Joosten-ten Brinke. 2017. Toetsen in Het Hoger Onderwijs. Springer.    </description>
+      <description> Toetsen in het hoger onderwijs (Van Berkel, Bax, and Joosten-ten Brinke 2017) is een algemeen boek over toetsen waarin in het hoofdstuk performance assessment verder wordt ingegaan op het toetsen van observeerbare handelingen. Zeer nuttige informatie over het waarborgen van de betrouwbaarheid en validiteit bij deze toetsvorm. Bibliografie Van Berkel, Henk, Anneke Bax, and Desirée Joosten-ten Brinke. 2017. Toetsen in Het Hoger Onderwijs. Springer. </description>
     </item>
     
     <item>
@@ -938,8 +937,9 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/references/</guid>
       <description>Bengtsson, L. (2019). Take-Home Exams in Higher Education: A Systematic Review. Education Sciences, 9(4), 267.
- CELT (2020). How to design and execute an online open book exam. University of Twente.
- Deneen, C. (2020). Assessment considerations in moving from closed-book to open-book exams. Melbourne centre fort he study of higher education. Handboek van de Universiteit van Melbourne met verschillende do’s and don’ts met betrekking tot open boek- en take-hometentamens.</description>
+CELT (2020). How to design and execute an online open book exam. University of Twente.
+Deneen, C. (2020). Assessment considerations in moving from closed-book to open-book exams. Melbourne centre fort he study of higher education. Handboek van de Universiteit van Melbourne met verschillende do’s and don’ts met betrekking tot open boek- en take-hometentamens.
+Handboek van het Trinity College Dublin over open boek tentamens.</description>
     </item>
     
     <item>
@@ -949,8 +949,8 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/oral_exam/references/</guid>
       <description>Publicatie van Inholland voor meer informatie over het organiseren van peerfeedback
- When old becomes new (Akimov and Malin 2020), in dit artikel staat beschreven hoe een online mondeling kan worden ingezet als toetsvorm op afstand of als aanvulling op andere toetsvorm. Het online mondeling wordt vooral gebruikt als interview. Er worden tips gegeven om de betrouwbaarheid en validiteit van deze toetsvorm op afstand te kunnen waarborgen.
- Een artikel van de open universiteit over online mondelinge toetsen.</description>
+When old becomes new (Akimov and Malin 2020), in dit artikel staat beschreven hoe een online mondeling kan worden ingezet als toetsvorm op afstand of als aanvulling op andere toetsvorm. Het online mondeling wordt vooral gebruikt als interview. Er worden tips gegeven om de betrouwbaarheid en validiteit van deze toetsvorm op afstand te kunnen waarborgen.
+Een artikel van de open universiteit over online mondelinge toetsen.</description>
     </item>
     
     <item>
@@ -959,10 +959,10 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/references/</guid>
-      <description>  Paper van surf over de inzet van e-portfolio’s. Wat is een e-portfolio? E-portfolio in de praktijk, Tools voor e-portfolio, Conclusies en aanbevelingen.
- Publicatie van Inholland voor meer informatie over het organiseren van peerfeedback
- Van Berkel, H., Bax, A., &amp;amp; Joosten-ten Brinke, D. (2017). Toetsen in het hoger onderwijs. Bohn Stafleu van Loghum.
-  Bibliografie  </description>
+      <description> Paper van surf over de inzet van e-portfolio’s. Wat is een e-portfolio? E-portfolio in de praktijk, Tools voor e-portfolio, Conclusies en aanbevelingen.
+Publicatie van Inholland voor meer informatie over het organiseren van peerfeedback
+Van Berkel, H., Bax, A., &amp;amp; Joosten-ten Brinke, D. (2017). Toetsen in het hoger onderwijs. Bohn Stafleu van Loghum.
+Bibliografie </description>
     </item>
     
     <item>
@@ -971,7 +971,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/references/</guid>
-      <description>  </description>
+      <description> </description>
     </item>
     
     <item>
@@ -1034,7 +1034,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/application/app_how_itembanks/</guid>
-      <description> Wanneer zowel kennis als toepassing worden getoetst, kan de werkdruk verlicht worden door een mix van multiple choice- of invulvragen en open vragen te gebruiken. Er kan gebruik worden gemaakt van itembanken of gestandaardiseerde antwoordmodellen waarbij er bijvoorbeeld door de beoordelaar gescand wordt op het voorkomen van bepaalde termen.  </description>
+      <description> Wanneer zowel kennis als toepassing worden getoetst, kan de werkdruk verlicht worden door een mix van multiple choice- of invulvragen en open vragen te gebruiken. Er kan gebruik worden gemaakt van itembanken of gestandaardiseerde antwoordmodellen waarbij er bijvoorbeeld door de beoordelaar gescand wordt op het voorkomen van bepaalde termen. </description>
     </item>
     
     <item>
@@ -1043,7 +1043,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/application/app_methods_groups/</guid>
-      <description> Deel de studenten op in groepen om de beoordelingstijd te beperken.  </description>
+      <description> Deel de studenten op in groepen om de beoordelingstijd te beperken. </description>
     </item>
     
     <item>
@@ -1115,7 +1115,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/knowledge/know_methods_groups-oral/</guid>
-      <description> Deel de studenten op in groepen en houd mondelinge groepsgesprekken om de beoordelingstijd te beperken.  </description>
+      <description> Deel de studenten op in groepen en houd mondelinge groepsgesprekken om de beoordelingstijd te beperken. </description>
     </item>
     
     <item>
@@ -1124,7 +1124,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/knowledge/know_methods_groups-presentations/</guid>
-      <description> Deel de studenten wanneer mogelijk op in groepen en laat ze per groep presenteren om de beoordelingstijd te beperken.  </description>
+      <description> Deel de studenten wanneer mogelijk op in groepen en laat ze per groep presenteren om de beoordelingstijd te beperken. </description>
     </item>
     
     <item>
@@ -1133,7 +1133,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/knowledge/know_methods_id/</guid>
-      <description> Vraag de student een identiteitskaart of studentenpas te tonen als de beoordelaar onbekend is met de student.  </description>
+      <description> Vraag de student een identiteitskaart of studentenpas te tonen als de beoordelaar onbekend is met de student. </description>
     </item>
     
     <item>
@@ -1151,7 +1151,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/knowledge/know_methods_limitations/</guid>
-      <description> Stel bij open vragen beperkingen aan de antwoorden van studenten, bijvoorbeeld in het aantal woorden of in de inhoud van de antwoorden, om te uitgebreide antwoorden te voorkomen.  </description>
+      <description> Stel bij open vragen beperkingen aan de antwoorden van studenten, bijvoorbeeld in het aantal woorden of in de inhoud van de antwoorden, om te uitgebreide antwoorden te voorkomen. </description>
     </item>
     
     <item>
@@ -1160,7 +1160,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/knowledge/know_methods_mc/</guid>
-      <description> Wanneer het aantal studenten te groot is om gebruik te maken van veel open vragen, kan er gebruik worden gemaakt van gesloten vragen die automatisch gescoord kunnen worden. Denk bijvoorbeeld aan meerkeuzevragen, drag-and-drop vragen of korte essayvragen. Het belang van de overige genoemde maatregelen om fraude tegen te gaan wordt dan groter.  </description>
+      <description> Wanneer het aantal studenten te groot is om gebruik te maken van veel open vragen, kan er gebruik worden gemaakt van gesloten vragen die automatisch gescoord kunnen worden. Denk bijvoorbeeld aan meerkeuzevragen, drag-and-drop vragen of korte essayvragen. Het belang van de overige genoemde maatregelen om fraude tegen te gaan wordt dan groter. </description>
     </item>
     
     <item>
@@ -1169,7 +1169,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/knowledge/know_methods_peerfeedback/</guid>
-      <description> Bij formatief evalueren kan er gebruik worden gemaakt van peerfeedback.  </description>
+      <description> Bij formatief evalueren kan er gebruik worden gemaakt van peerfeedback. </description>
     </item>
     
     <item>
@@ -1187,7 +1187,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/knowledge/know_methods_video/</guid>
-      <description> Het kan een goed idee zijn om video-opnames te maken. Zo kunnen deze achteraf teruggekeken worden, bijvoorbeeld door de beoordelaar zelf bij twijfelgevallen, of door een tweede beoordelaar. Ook voor de student kan het leerzaam zijn om de opname zelf of samen met de beoordelaar terug te kijken, om te reflecteren op de presentatie of om de beoordeling te bespreken.  </description>
+      <description> Het kan een goed idee zijn om video-opnames te maken. Zo kunnen deze achteraf teruggekeken worden, bijvoorbeeld door de beoordelaar zelf bij twijfelgevallen, of door een tweede beoordelaar. Ook voor de student kan het leerzaam zijn om de opname zelf of samen met de beoordelaar terug te kijken, om te reflecteren op de presentatie of om de beoordeling te bespreken. </description>
     </item>
     
     <item>
@@ -1196,7 +1196,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/knowledge/know_tips_communication/</guid>
-      <description>Zorg voor een goede communicatie met studenten.  Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
+      <description>Zorg voor een goede communicatie met studenten. Bied vooraf transparantie over manier waarop de toets op afstand wordt afgenomen, zodat studenten weten wat ze kunnen verwachten. Denk bijvoorbeeld aan welke persoonlijke gegevens er worden gevraagd, wat hiermee wordt gedaan en wat ze bij de hand moeten houden (bijvoorbeeld een collegekaart, een telefoon of camera). Mocht je gebruik maken van online proctoring, wees dan duidelijk over wat er te verwachten valt, en wat de regels zijn.</description>
     </item>
     
     <item>
@@ -1205,7 +1205,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/knowledge/know_tips_environment/</guid>
-      <description> Niet elke student heeft een leefomgeving die geschikt is om in alle rust een toets te maken. Bied waar mogelijk alternatieven aan, bijvoorbeeld een ruimte op de campus waar studenten kunnen zitten.  </description>
+      <description> Niet elke student heeft een leefomgeving die geschikt is om in alle rust een toets te maken. Bied waar mogelijk alternatieven aan, bijvoorbeeld een ruimte op de campus waar studenten kunnen zitten. </description>
     </item>
     
     <item>
@@ -1214,7 +1214,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/knowledge/know_tips_ethics/</guid>
-      <description> Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen.  </description>
+      <description> Benadruk de ethische verantwoordelijkheid die de student heeft om niet te frauderen. </description>
     </item>
     
     <item>
@@ -1241,7 +1241,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/knowledge/know_tips_timelimit/</guid>
-      <description> Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van Berkel (1999) voor tijdsindicaties.  </description>
+      <description> Stel een passende tijdslimiet: teveel tijd vergroot de kans op fraude, maar tijdsnood zorgt voor stress bij studenten en minder valide toetsresultaten. Zie van Berkel (1999) voor tijdsindicaties. </description>
     </item>
     
     <item>
@@ -1304,7 +1304,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/observation/obs_methods_groups/</guid>
-      <description> Op deze schaal is deze toetsvorm vooral haalbaar bij presentaties of voorstellingen in groepen.  </description>
+      <description> Op deze schaal is deze toetsvorm vooral haalbaar bij presentaties of voorstellingen in groepen. </description>
     </item>
     
     <item>
@@ -1313,7 +1313,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/observation/obs_methods_live/</guid>
-      <description> Gebruik live opnames als het nodig is om in te grijpen of direct na te bespreken, of als de taak in één keer goed of binnen een bepaalde tijd moet worden uitgevoerd. Anders is het makkelijker om een video-opname te maken.  </description>
+      <description> Gebruik live opnames als het nodig is om in te grijpen of direct na te bespreken, of als de taak in één keer goed of binnen een bepaalde tijd moet worden uitgevoerd. Anders is het makkelijker om een video-opname te maken. </description>
     </item>
     
     <item>
@@ -1322,7 +1322,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/observation/obs_methods_videoaudio/</guid>
-      <description> Zorg voor duidelijke eisen omtrent een video-opname. Vergeet hierbij ook de audio niet.  </description>
+      <description> Zorg voor duidelijke eisen omtrent een video-opname. Vergeet hierbij ook de audio niet. </description>
     </item>
     
     <item>
@@ -1331,7 +1331,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/observation/obs_tips_equipment/</guid>
-      <description> Voor het maken van de opnames is vaak apparatuur nodig zoals een goede camera, een statief en één of meerdere microfoons. Deze apparatuur moet voor de student beschikbaar worden gesteld. Er is apparatuur beschikbaar die speciaal ontwikkeld is voor het opnemen van vaardigheden, bijvoorbeeld apparatuur om lessen op te nemen.  </description>
+      <description> Voor het maken van de opnames is vaak apparatuur nodig zoals een goede camera, een statief en één of meerdere microfoons. Deze apparatuur moet voor de student beschikbaar worden gesteld. Er is apparatuur beschikbaar die speciaal ontwikkeld is voor het opnemen van vaardigheden, bijvoorbeeld apparatuur om lessen op te nemen. </description>
     </item>
     
     <item>
@@ -1340,7 +1340,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/observation/obs_tips_peerfeedback/</guid>
-      <description> Bij formatieve evaluatie kan gebruik worden gemaakt van peerfeedback. Zie deze publicatie van Inholland voor meer informatie over het organiseren van peerfeedback.  </description>
+      <description> Bij formatieve evaluatie kan gebruik worden gemaakt van peerfeedback. Zie deze publicatie van Inholland voor meer informatie over het organiseren van peerfeedback. </description>
     </item>
     
     <item>
@@ -1349,7 +1349,7 @@ Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/snippets/observation/obs_tips_visibility/</guid>
-      <description> Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is. Laat de student deze ergens neerzetten waar er geen andere mensen voor langs lopen.  </description>
+      <description> Indien de studenten zelf filmapparatuur neer moeten zetten, geef ze dan een checklist met duidelijke eisen mee om ervoor te zorgen dat alles goed zichtbaar is. Laat de student deze ergens neerzetten waar er geen andere mensen voor langs lopen. </description>
     </item>
     
     <item>
