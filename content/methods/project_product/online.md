@@ -5,7 +5,7 @@ menuicon: /icons/why-do-this-menu.png
 date: 2020-07-31T11:05:44+02:00
 expandable: true
 instructions: false
-weight: 2
+weight: 3
 ---
 
 Bij een project of product voert de student een afgebakende opdracht uit. Projecten hebben vaak een product als een analyse, advies, ontwerp, fabricaat of essay als resultaat:

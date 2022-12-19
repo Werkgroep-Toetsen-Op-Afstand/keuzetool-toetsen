@@ -5,7 +5,7 @@ menuicon: /icons/tools-menu.png
 date: 2020-07-31T11:05:44+02:00
 expandable: true
 instructions: false
-weight: 3
+weight: 2
 ---
 
 De voorbereiding voor online projecten en producten verschilt nauwelijks van de voorbereiding bij campusonderwijs. Eerst inventariseer je welke leerdoelen behaald moeten worden door de student. Daarna ontwerp je een opdracht die ervoor zorgt dat het behalen van deze leerdoelen aangetoond kan worden, bijvoorbeeld in de vorm van producten. Ook schets je de kaders waarbinnen het project of product moet worden afgerond.

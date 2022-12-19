@@ -5,7 +5,7 @@ menuicon: /icons/what-to-do-menu.png
 date: 2020-07-31T11:05:44+02:00
 expandable: true
 instructions: false
-weight: 2
+weight: 3
 ---
 
 Digitale toetsen kunnen zowel op de campus als online (plaatsonafhankelijk) worden afgenomen. Een keuze die hierbij echter nog te maken valt is of de afname ook tijdonafhankelijk kan. Maken alle studenten de toets tegelijkertijd of kunnen ze dit op verschillende momenten doen? Voor formatieve toetsing kleven hier relatief weinig bezwaren aan. Voor summatieve toetsen heeft dat echter wel implicaties. De vragen van een eerdere afname kunnen immers uitlekken. Voor zowel plaats- als tijdsonafhankelijke summatieve toetsing is het raadzaam om de online proctoring goed op orde te hebben (zie ook [Klinkenberg, 2021](https://www.onderwijskennis.nl/sites/onderwijskennis/files/media-files/Thema%205%20-%20Sharon%20Klinkenberg.pdf)).
