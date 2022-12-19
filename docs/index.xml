@@ -50,7 +50,7 @@ Als het vaak voorkomt dat individuele studenten moeten worden getoetst, bijvoorb
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/medium/knowledge/methods/digital_assessment/</guid>
-      <description>Een voor de hand liggende vorm van een kennistoets is een multiple choice-toets of een toets met open vragen. Op locatie wordt een dergelijke toets vaak afgenomen in een grote sport- of collegezaal. Voor het toetsen van feitenkennis en/of begrip kan het beste (voornamelijk) gebruikgemaakt worden van gesloten vragen. Op dit cognitieve niveau zijn gesloten vragen relatief gemakkelijk te construeren. Het voordeel van gesloten vragen is dat deze sneller te beantwoorden zijn door studenten, waardoor meer vragen kunnen worden opgenomen in de toets, wat de representativiteit ervan verhoogt (Van Berkel, 1999).</description>
+      <description>Een voor de hand liggende vorm van een kennistoets is een multiple choice-toets of een toets met open vragen. Op locatie wordt een dergelijke toets vaak afgenomen in een grote sport- of collegezaal. Voor het toetsen van feitenkennis en/of begrip kan het beste (voornamelijk) gebruikgemaakt worden van gesloten vragen. Op dit cognitieve niveau zijn gesloten vragen relatief gemakkelijk te construeren. Het voordeel van gesloten vragen is dat deze sneller te beantwoorden zijn door studenten, waardoor meer vragen kunnen worden opgenomen in de toets, wat de representativiteit ervan verhoogt [@van1999zicht].</description>
     </item>
     
     <item>
@@ -121,6 +121,15 @@ Open-boek en take-homententamens zijn op afstand minder fraudegevoelig dan toets
     
     <item>
       <title>Beschrijving</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/1-on-1/observation/description/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/1-on-1/observation/description/</guid>
+      <description>Bij fysieke handelingen gaat het om de vaardigheid van een student in specifieke (beroeps)taken; hierbij kan bijvoorbeeld worden gedacht aan klinische handelingen, lesgeven of optreden in een voorstelling. Hoewel deze handelingen vaak op een specifieke locatie moeten worden uitgevoerd (zoals een voorstelling in een theater of een handeling die op de stageplek plaatsvindt), kan de beoordeling wel plaats- en tijdsonafhankelijk plaatsvinden. Wanneer het niet mogelijk of te tijdrovend is voor de beoordelaar om op locatie aanwezig te zijn, dan kan de beoordelaar toch live meekijken met behulp van videoconferencing of live streaming.</description>
+    </item>
+    
+    <item>
+      <title>Beschrijving</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/large/application/description/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
@@ -183,13 +192,32 @@ Open-boek en take-homententamens zijn op afstand minder fraudegevoelig dan toets
     </item>
     
     <item>
+      <title>Beschrijving</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/observation/description/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/small/observation/description/</guid>
+      <description>Bij fysieke handelingen gaat het om de vaardigheid van een student in specifieke (beroeps)taken; hierbij kan bijvoorbeeld worden gedacht aan klinische handelingen, lesgeven of optreden in een voorstelling. Hoewel deze handelingen vaak op een specifieke locatie moeten worden uitgevoerd (zoals een voorstelling in een theater of een handeling die op de stageplek plaatsvindt), kan de beoordeling wel plaats- en tijdsonafhankelijk plaatsvinden. Wanneer het niet mogelijk of te tijdrovend is voor de beoordelaar om op locatie aanwezig te zijn, dan kan de beoordelaar toch live meekijken met behulp van videoconferencing of live streaming.</description>
+    </item>
+    
+    <item>
       <title>Definitie</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/definition/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/definition/</guid>
       <description>Onder digitale toetsen verstaan we toetsen die worden afgenomen in een speciaal daarvoor ontworpen applicatie. Dit kan een functionaliteit van de elektronische leeromgeving zijn als Canvas, of een afzonderlijke toetsapplicatie zoals TestVision of Remindo.
-Met een digitale toets kan je gebruikmaken van diverse vraagvormen. Deze lopen uiteen van meerkeuzevragen, drag-and-drop vragen tot korte invulvragen. Digitale toetsen zijn geschikt voor toetsen van de volgende cognitieve niveaus: onthouden, begrijpen, toepassen, analyseren, evalueren. Digitale toetsen kunnen zowel formatief als summatief ingezet worden.</description>
+Met een digitale toets kan je gebruikmaken van diverse vraagvormen. Deze lopen uiteen van meerkeuzevragen, drag-and-drop vragen tot korte invulvragen. Digitale toetsen zijn geschikt voor het toetsen van de volgende cognitieve niveaus van Bloom:: onthouden, begrijpen, toepassen, analyseren, en evalueren.</description>
+    </item>
+    
+    <item>
+      <title>Definitie</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/definition/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/definition/</guid>
+      <description>Onder digitale toetsen verstaan we toetsen die worden afgenomen in een speciaal daarvoor ontworpen applicatie. Dit kan een functionaliteit van de elektronische leeromgeving zijn als Canvas, of een afzonderlijke toetsapplicatie zoals TestVision of Remindo.
+Met een digitale toets kan je gebruikmaken van diverse vraagvormen. Deze lopen uiteen van meerkeuzevragen, drag-and-drop vragen tot korte invulvragen. Digitale toetsen zijn geschikt voor het toetsen van de volgende cognitieve niveaus van Bloom:: onthouden, begrijpen, toepassen, analyseren, en evalueren.</description>
     </item>
     
     <item>
@@ -207,8 +235,8 @@ Met een digitale toets kan je gebruikmaken van diverse vraagvormen. Deze lopen u
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/definition/</guid>
-      <description>Open-boektentamens en take-hometentamens kunnen als alternatief worden ingezet voor (al dan niet op afstand afgenomen) ‘traditionele’ tentamens. Met ‘traditionele tentamens’ worden hier bedoeld: tentamens met open en/of gesloten vragen waarbij geen studiematerialen als hulpmiddel mogen worden gebruikt.
-Open-boektentamen Een open-boektentamen is een tentamen waarbij het studenten is toegestaan om bij het beantwoorden van de vragen gebruik te maken van eigen aantekeningen, samenvattingen, studieboeken en/of andere materialen. Er is sprake van een tijdlimiet van een paar uur en van surveillance of online proctoring.</description>
+      <description>Open-boektentamens en take-hometentamens kunnen als alternatief worden ingezet voor (al dan niet op afstand afgenomen) ‘traditionele’ tentamens. Met ‘traditionele tentamens’ worden hier bedoeld: tentamens met open en/of gesloten vragen waarbij geen studiematerialen als hulpmiddel mogen worden gebruikt. Open-boektentamens en take-hometentamens zijn geschikt voor het toetsen van de volgende cognitieve niveaus van Bloom: onthouden, begrijpen, toepassen, analyseren, en evalueren.
+Open-boektentamen Een open-boektentamen is een tentamen waarbij het studenten is toegestaan om bij het beantwoorden van de vragen gebruik te maken van eigen aantekeningen, samenvattingen, studieboeken en/of andere materialen.</description>
     </item>
     
     <item>
@@ -217,7 +245,7 @@ Open-boektentamen Een open-boektentamen is een tentamen waarbij het studenten is
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/oral_exam/definition/</guid>
-      <description>Onder mondelinge toetsen worden alle toetsen verstaan waarbij de student mondeling antwoorden of een pitch/presentatie geeft. Mondelinge toetsen zijn geschikt voor het toetsen van de volgende cognitieve niveaus: onthouden, begrijpen, toepassen, analyseren, evalueren en creëren.
+      <description>Onder mondelinge toetsen worden alle toetsen verstaan waarbij de student mondeling antwoorden of een pitch/presentatie geeft. Mondelinge toetsen zijn geschikt voor het toetsen van de volgende cognitieve niveaus van Bloom: onthouden, begrijpen, toepassen, analyseren, evalueren en creëren.
 Een mondelinge toets wordt vaak gebruikt in combinatie met andere toetsvormen, bijvoorbeeld naar aanleiding van een portfolio, project, product, presentatie en/of observatie. Het geeft de beoordelaar de kans om verder door te vragen en de student de gelegenheid om handelingen of keuzes verder toe te lichten.</description>
     </item>
     
@@ -236,7 +264,7 @@ Een mondelinge toets wordt vaak gebruikt in combinatie met andere toetsvormen, b
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/definition/</guid>
-      <description>Bij een online presentatie geeft de student individueel of in groepsverband via videoconferentiesoftware een presentatie of pitch over een bepaald onderwerp. Daarbij kunnen bijvoorbeeld presentatietools, posters, tekeningen, ontwerpen of maquettes worden gebruikt. De presentatie kan live (synchroon) verzorgd worden of vooraf opgenomen zijn. Na en/of tijdens de presentatie kan er gelegenheid zijn om vragen te stellen. Presentaties zijn geschikt voor toetsen van de volgende cognitieve niveaus: onthouden, begrijpen, toepassen, analyseren, evalueren en creëren.</description>
+      <description>Bij een online presentatie geeft de student individueel of in groepsverband via videoconferentiesoftware een presentatie of pitch over een bepaald onderwerp. Daarbij kunnen bijvoorbeeld presentatietools, posters, tekeningen, ontwerpen of maquettes worden gebruikt. De presentatie kan live (synchroon) verzorgd worden of vooraf opgenomen zijn. Na en/of tijdens de presentatie kan er gelegenheid zijn om vragen te stellen. Presentaties zijn geschikt voor toetsen van de volgende cognitieve niveaus van Bloom: onthouden, begrijpen, toepassen, analyseren, evalueren en creëren.</description>
     </item>
     
     <item>
@@ -245,8 +273,8 @@ Een mondelinge toets wordt vaak gebruikt in combinatie met andere toetsvormen, b
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/definition/</guid>
-      <description>Met projecten en producten past de student kennis toe op een actieve, praktische wijze binnen de gestelde kaders. Het toepassen van kennis leidt tot betere verwerking van de lesstof. Projecten en producten zijn geschikt om vast te stellen of de student kennis kan toepassen, analyseren, evalueren of creëren.
-Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt over een brede kennisbasis. In de praktijk worden projecten en producten dan ook vaak gecombineerd met toetsvormen die hiervoor wel geschikt zijn, zoals toetsen met open en/of gesloten vragen.</description>
+      <description>Met projecten en producten past de student kennis toe op een actieve, praktische wijze binnen de gestelde kaders. Het toepassen van kennis leidt tot betere verwerking van de lesstof. Projecten en producten zijn geschikt om vast te stellen of de student kennis kan toepassen, analyseren, evalueren of creëren (zie deze [publicatie van SLO]((https://www.utwente.nl/.uc/f84db0b51010284fa9c0174f5f903a6aaa8aeaf3a528a00/bloom-taxonomie-checklist.pdf) voor meer informatie over de cognitieve niveaus van Bloom).
+Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt over een brede kennisbasis.</description>
     </item>
     
     <item>
@@ -315,11 +343,20 @@ Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt 
     
     <item>
       <title>Presentaties</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/large/application/methods/presentation/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/large/application/methods/presentation/</guid>
+      <description>Hogere cognitieve vaardigheden kunnen ook worden getoetst met een (groeps)presentatie. Een presentatie biedt studenten ruimte voor originaliteit en creativiteit. Daarnaast kunnen hiermee ook presentatievaardigheden worden getoetst. De gelegenheid die een presentatie biedt voor interactie, bijvoorbeeld het stellen van vragen na afloop van de presentatie, biedt de beoordelaar extra mogelijkheden voor het toetsen van het inzicht van de student. In het geval van een grote groep studenten verdient het aanbeveling om, wanneer mogelijk, de studenten in groepen op te delen en ze per groep te laten presenteren, om de beoordelingstijd te beperken.</description>
+    </item>
+    
+    <item>
+      <title>Presentaties</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/medium/application/methods/presentation/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/medium/application/methods/presentation/</guid>
-      <description>Hogere cognitieve vaardigheden kunnen ook worden getoetst met een (groeps)presentatie. Een presentatie biedt studenten ruimte voor originaliteit en creativiteit. Daarnaast kunnen hiermee ook presentatievaardigheden worden getoetst. De gelegenheid die een presentatie biedt voor interactie, bijvoorbeeld het stellen van vragen na afloop van de presentatie, biedt de beoordelaar extra mogelijkheden voor het toetsen van het inzicht van de student. In het geval van een gemiddeld grote groep studenten dient het aanbeveling om, wanneer mogelijk, de studenten in groepen op te delen en ze per groep te laten presenteren, om de beoordelingstijd te beperken.</description>
+      <description>Hogere cognitieve vaardigheden kunnen ook worden getoetst met een (groeps)presentatie. Een presentatie biedt studenten ruimte voor originaliteit en creativiteit. Daarnaast kunnen hiermee ook presentatievaardigheden worden getoetst. De gelegenheid die een presentatie biedt voor interactie, bijvoorbeeld het stellen van vragen na afloop van de presentatie, biedt de beoordelaar extra mogelijkheden voor het toetsen van het inzicht van de student. In het geval van een gemiddeld grote groep studenten verdient het aanbeveling om, wanneer mogelijk, de studenten in groepen op te delen en ze per groep te laten presenteren, om de beoordelingstijd te beperken.</description>
     </item>
     
     <item>
@@ -350,6 +387,77 @@ Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt 
     </item>
     
     <item>
+      <title>Aanpak</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/approach/</guid>
+      <description>Afhankelijk van de inzet van formatieve of summatieve toetsing zijn er verschillende stappen te zetten in de aanpak. Tevens bepalen de hoeveelheid studenten in je onderwijs en de hoeveelheid beschikbare nakijktijd de mogelijkheid om meer of minder vragen op te nemen die niet geautomatiseerd nagekeken kunnen worden.
+Formatief Voorbereiding Gebruik bij voorkeur hetzelfde toetssysteem als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.
+Daarbij is het aan te bevelen om het ontwerpen van vragen of didactisch leermateriaal ruim voor aanvang van het onderwijs te doen.</description>
+    </item>
+    
+    <item>
+      <title>Aanpak</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/approach/</guid>
+      <description>Voorbereiding Voor een valide observatie is het ten eerste belangrijk om ervoor te zorgen dat de te observeren taken representatief zijn: volledig en natuurgetrouw (van Berkel et al., 2017). ‘Volledig’ houdt in dat de taken een goede afspiegeling zijn van het assessmentdomein (alle verschillende taken die in het assessment aangeboden hadden kunnen worden). ‘Natuurgetrouw’ houdt in dat de taken ook representatief moeten zijn voor de beoogde vervolgsituatie, bijvoorbeeld in de beroepsuitoefening (het criteriumdomein).</description>
+    </item>
+    
+    <item>
+      <title>Aanpak</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/approach/</guid>
+      <description>Open-boektentamen Voorbereiding Stel voordat je begint aan de constructie van de tentamenvragen eerst een toetsmatrijs/specificatietabel op, om te verzekeren dat de verschillende kennis- en vaardigheidsaspecten die de toets beoogt te meten worden gedekt en daarmee de inhoudsvaliditeit wordt geborgd [@van2017toetsen]. Zie hiervoor bijvoorbeeld deze handreiking van Hogeschool Utrecht.
+Construeer contextrijke open vragen die hogere orde vaardigheden toetsen. Vraag studenten altijd om hun antwoord te beargumenteren (CELT, 2020). Maak in de vragen gebruik van casussen, contexten en voorbeelden die nog niet bekend zijn bij de studenten (University of Twente, z.</description>
+    </item>
+    
+    <item>
+      <title>Aanpak</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/oral_exam/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/oral_exam/approach/</guid>
+      <description>Voorbereiding Voor een goede inhoudsvaliditeit is het belangrijk dat elk van de beoogde leerdoelen gedekt wordt door een gespreksonderwerp (Van Berkel et al., 2017).
+Hoe meer vragen er tijdens het mondeling worden gesteld, hoe betrouwbaarder de beoordeling. Een mondeling duurt echter doorgaans niet langer dan één uur en de ruimte voor het stellen van vragen is daarom beperkt, zeker gezien mondelinge vragen doorgaans niet zo to-the-point kunnen worden beantwoord als schriftelijke vragen (Van Berkel et al.</description>
+    </item>
+    
+    <item>
+      <title>Aanpak</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/approach/</guid>
+      <description>De online aanpak van de verschillende portfoliotoepassingen verschilt nauwelijks van de reguliere aanpak.
+Vooraf Vooraf dienen de verschillende competenties helder geformuleerd en digitaal beschikbaar gesteld te worden. De competenties kunnen in sommige gevallen al in de gespecialiseerde portfoliosoftware worden opgenomen.
+Het is belangrijk om studenten goed voor te lichten over en te begeleiden bij het samenstellen van het portfolio, om te voorkomen dat studenten die wel over de competenties beschikken maar die minder bedreven zijn in het samenstellen van een portfolio en het aandragen van bewijzen te laag worden beoordeeld.</description>
+    </item>
+    
+    <item>
+      <title>Aanpak</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/approach/</guid>
+      <description>Voorbereiding Gebruik voor de beoordeling van de presentatie vooraf vastgelegde en naar de studenten gecommuniceerde criteria, bijvoorbeeld in een rubric.
+Studenten vinden (online) presentaties vaak spannend. Duidelijkheid over wat ze kunnen verwachten helpt. Informeer de studenten daarom tijdig en volledig over inhoud, procedures, deelnemende beoordelaars en de wijze van beoordeling. In het geval van toetsen op afstand: maak afspraken over het werken in de online omgeving. Dit is zeker belangrijk voor studenten met een studiebeperking zoals autisme.</description>
+    </item>
+    
+    <item>
+      <title>Aanpak</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/approach/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/approach/</guid>
+      <description>De voorbereiding voor online projecten en producten verschilt nauwelijks van de voorbereiding bij campusonderwijs. Eerst inventariseer je welke leerdoelen behaald moeten worden door de student. Daarna ontwerp je een opdracht die ervoor zorgt dat het behalen van deze leerdoelen aangetoond kan worden, bijvoorbeeld in de vorm van producten. Ook schets je de kaders waarbinnen het project of product moet worden afgerond.
+Maak gebruik van een rubric waarin de beoordelingscriteria helder uiteengezet zijn, en representatief voor de doelstellingen, het beoogde cognitieve niveau, en (indien relevant) de afzonderlijke vakgebieden.</description>
+    </item>
+    
+    <item>
       <title>Canvas assessments</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/large/knowledge/tools/canvas_assessments/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
@@ -357,80 +465,6 @@ Projecten en producten zijn minder geschikt om te beoordelen of iemand beschikt 
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/large/knowledge/tools/canvas_assessments/</guid>
       <description>Here are the instructions to set up an assessment in Canvas.
 hoi</description>
-    </item>
-    
-    <item>
-      <title>Toetsen op afstand</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/online/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/online/</guid>
-      <description>Digitale toetsen kunnen zowel op de campus als online (plaatsonafhankelijk) worden afgenomen. Een keuze die hierbij echter nog te maken valt is of de afname ook tijdonafhankelijk kan. Maken alle studenten de toets tegelijkertijd of kunnen ze dit op verschillende momenten doen? Voor formatieve toetsing kleven hier relatief weinig bezwaren aan. Voor summatieve toetsen heeft dat echter wel implicaties. De vragen van een eerdere afname kunnen immers uitlekken. Voor zowel plaats- als tijdsonafhankelijke summatieve toetsing is het raadzaam om de online proctoring goed op orde te hebben (zie ook Klinkenberg, 2021).</description>
-    </item>
-    
-    <item>
-      <title>Toetsen op afstand</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/online/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/online/</guid>
-      <description>Observeren op afstand kan op drie manieren:
-  Live meekijken naar een online handeling. Het kan gaan om een online handeling (bijvoorbeeld het werken met een digitaal computerprogramma) of een handeling die (anders dan normaal) voor de beoordeling online plaatsvindt (bijvoorbeeld het voeren van een gesprek). De observatie is plaatsonafhankelijk.
-  Live meekijken naar een handeling op locatie. De beoordelaar(s) kijken vanaf afstand live mee (bijvoorbeeld bij het gebruik van een machine op een stageplek).</description>
-    </item>
-    
-    <item>
-      <title>Toetsen op afstand</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/online/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/online/</guid>
-      <description>Open-boektentamen Open-boektentamens kunnen op locatie worden afgenomen of op afstand. Bij toetsen op afstand gelden dezelfde voordelen en nadelen als bij een digitale (gesloten-boek)toets.
-Voordelen   Kan een alternatief zijn voor capaciteitsgebrek op de campus.
-  Geeft studenten met een functiebeperking de mogelijkheid om thuis het tentamen te maken, waar ze wellicht betere voorzieningen hebben.
-  Legt minder druk op het openbaar vervoer.
-  Nadelen   Technisch uitdagend.</description>
-    </item>
-    
-    <item>
-      <title>Toetsen op afstand</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/oral_exam/online/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/oral_exam/online/</guid>
-      <description>Online assessmentgesprek Bij een online assessmentgesprek stelt de examinator via videoconferentiesoftware vragen aan de student op basis van vooraf opgestelde criteria. Hierbij kan gevraagd worden naar situaties waaruit blijkt dat de student bepaalde competenties bezit. De examinator kan hierop vervolgens doorvragen. Vaak wordt een online assessmentgesprek gehouden naar aanleiding van een portfolio, project/product, presentatie of observatie. Soms start het online assessmentgesprek met een presentatie door de student.
-Online mondeling In een online mondeling beantwoordt de student vragen mondeling.</description>
-    </item>
-    
-    <item>
-      <title>Toetsen op afstand</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/online/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/online/</guid>
-      <description>Als online toetsvorm kan het portfolio op dezelfde manier ingezet worden als in de reguliere setting. De drie vormen zijn daarbij:
-Beoordelingsportfolio Een beoordelingsportfolio is een portfolio voor summatief gebruik. In een beoordelingsportfolio (ook wel assessmentportfolio) verzamelt de student werk dat aantoont dat een bepaalde (set) competentie(s) of vaardigheden beheerst wordt . Vaak wordt ook feedback van medestudenten, docenten, begeleiders en/of externen bijgevoegd; dit geeft de assessoren nog rijkere informatie. Dit type portfolio wordt voornamelijk gebruikt bij formele beoordelingsmomenten.</description>
-    </item>
-    
-    <item>
-      <title>Toetsen op afstand</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/online/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/online/</guid>
-      <description>Online presenteren vereist van studenten soms een andere vaardigheid. Naast het kunnen omgaan met de videoconferenctiesoftware zal in sommige gevallen ook de presentatie zelf aangepast moeten worden om deze digitaal te kunnen aanbieden. Een posterpresentatie is fysiek toch een andere activiteit dan online.
-Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaatsonafhankelijk kan, en bij een video-opname ook tijdsonafhankelijk. Dit maakt observeren voor een beoordelaar minder tijdrovend door het ontbreken van bijvoorbeeld reistijd.</description>
-    </item>
-    
-    <item>
-      <title>Toetsen op afstand</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/online/</link>
-      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/online/</guid>
-      <description>Bij een project of product voert de student een afgebakende opdracht uit. Projecten hebben vaak een product als een analyse, advies, ontwerp, fabricaat of essay als resultaat:
-  Analyse Een student analyseert een situatie, probleem of vraagstuk, onderscheidt hierbij hoofd- en bijzaken en/of identificeert hierbij voor- en nadelen.
-  Advies Een advies volgt vaak op een analyse. De student integreert informatie uit verschillende bronnen om tot een onderbouwd advies te komen en een mogelijke oplossing te presenteren.</description>
     </item>
     
     <item>
@@ -543,74 +577,77 @@ Hoewel gesprekken vaak op locatie plaatsvinden, zijn er ook mogelijkheden om dit
     </item>
     
     <item>
-      <title>Aanpak</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/approach/</link>
+      <title>Toetsen op afstand</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/online/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/approach/</guid>
-      <description>Afhankelijk van de inzet van formatieve of summatieve toetsing zijn er verschillende stappen te zetten in de aanpak. Tevens bepalen de hoeveelheid studenten in je onderwijs en de hoeveelheid beschikbare nakijktijd de mogelijkheid om meer of minder vragen op te nemen die niet geautomatiseerd nagekeken kunnen worden.
-Formatief Voorbereiding Gebruik bij voorkeur hetzelfde toetssysteem als voor de summatieve toets, zodat studenten kunnen wennen aan de omgeving.
-Daarbij is het aan te bevelen om het ontwerpen van vragen of didactisch leermateriaal ruim voor aanvang van het onderwijs te doen.</description>
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/digital_assessment/online/</guid>
+      <description>Digitale toetsen kunnen zowel op de campus als online (plaatsonafhankelijk) worden afgenomen. Een keuze die hierbij echter nog te maken valt is of de afname ook tijdonafhankelijk kan. Maken alle studenten de toets tegelijkertijd of kunnen ze dit op verschillende momenten doen? Voor formatieve toetsing kleven hier relatief weinig bezwaren aan. Voor summatieve toetsen heeft dat echter wel implicaties. De vragen van een eerdere afname kunnen immers uitlekken. Voor zowel plaats- als tijdsonafhankelijke summatieve toetsing is het raadzaam om de online proctoring goed op orde te hebben (zie ook Klinkenberg, 2021).</description>
     </item>
     
     <item>
-      <title>Aanpak</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/approach/</link>
+      <title>Toetsen op afstand</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/online/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/approach/</guid>
-      <description>Voorbereiding Voor een valide observatie is het ten eerste belangrijk om ervoor te zorgen dat de te observeren taken representatief zijn: volledig en natuurgetrouw (van Berkel et al., 2017). ‘Volledig’ houdt in dat de taken een goede afspiegeling zijn van het assessmentdomein (alle verschillende taken die in het assessment aangeboden hadden kunnen worden). ‘Natuurgetrouw’ houdt in dat de taken ook representatief moeten zijn voor de beoogde vervolgsituatie, bijvoorbeeld in de beroepsuitoefening (het criteriumdomein).</description>
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/observations/online/</guid>
+      <description>Observeren op afstand kan op drie manieren:
+  Live meekijken naar een online handeling. Het kan gaan om een online handeling (bijvoorbeeld het werken met een digitaal computerprogramma) of een handeling die (anders dan normaal) voor de beoordeling online plaatsvindt (bijvoorbeeld het voeren van een gesprek). De observatie is plaatsonafhankelijk.
+  Live meekijken naar een handeling op locatie. De beoordelaar(s) kijken vanaf afstand live mee (bijvoorbeeld bij het gebruik van een machine op een stageplek).</description>
     </item>
     
     <item>
-      <title>Aanpak</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/approach/</link>
+      <title>Toetsen op afstand</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/online/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/approach/</guid>
-      <description>Open-boektentamen Voorbereiding Stel voordat je begint aan de constructie van de tentamenvragen eerst een toetsmatrijs/specificatietabel op, om te verzekeren dat de verschillende kennis- en vaardigheidsaspecten die de toets beoogt te meten worden gedekt en daarmee de inhoudsvaliditeit wordt geborgd [@van2017toetsen]. Zie hiervoor bijvoorbeeld deze handreiking van Hogeschool Utrecht.
-Construeer contextrijke open vragen die hogere orde vaardigheden toetsen. Vraag studenten altijd om hun antwoord te beargumenteren (CELT, 2020). Maak in de vragen gebruik van casussen, contexten en voorbeelden die nog niet bekend zijn bij de studenten (University of Twente, z.</description>
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/open_boek_take_home/online/</guid>
+      <description>Open-boektentamen Open-boektentamens kunnen op locatie worden afgenomen of op afstand. Bij toetsen op afstand gelden dezelfde voordelen en nadelen als bij een digitale (gesloten-boek)toets.
+Voordelen   Kan een alternatief zijn voor capaciteitsgebrek op de campus.
+  Geeft studenten met een functiebeperking de mogelijkheid om thuis het tentamen te maken, waar ze wellicht betere voorzieningen hebben.
+  Legt minder druk op het openbaar vervoer.
+  Nadelen   Technisch uitdagend.</description>
     </item>
     
     <item>
-      <title>Aanpak</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/oral_exam/approach/</link>
+      <title>Toetsen op afstand</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/oral_exam/online/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/oral_exam/approach/</guid>
-      <description>Voorbereiding Voor een goede inhoudsvaliditeit is het belangrijk dat elk van de beoogde leerdoelen gedekt wordt door een gespreksonderwerp (Van Berkel et al., 2017).
-Hoe meer vragen er tijdens het mondeling worden gesteld, hoe betrouwbaarder de beoordeling. Een mondeling duurt echter doorgaans niet langer dan één uur en de ruimte voor het stellen van vragen is daarom beperkt, zeker gezien mondelinge vragen doorgaans niet zo to-the-point kunnen worden beantwoord als schriftelijke vragen (Van Berkel et al.</description>
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/oral_exam/online/</guid>
+      <description>Online assessmentgesprek Bij een online assessmentgesprek stelt de examinator via videoconferentiesoftware vragen aan de student op basis van vooraf opgestelde criteria. Hierbij kan gevraagd worden naar situaties waaruit blijkt dat de student bepaalde competenties bezit. De examinator kan hierop vervolgens doorvragen. Vaak wordt een online assessmentgesprek gehouden naar aanleiding van een portfolio, project/product, presentatie of observatie. Soms start het online assessmentgesprek met een presentatie door de student.
+Online mondeling In een online mondeling beantwoordt de student vragen mondeling.</description>
     </item>
     
     <item>
-      <title>Aanpak</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/approach/</link>
+      <title>Toetsen op afstand</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/online/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/approach/</guid>
-      <description>De online aanpak van de verschillende portfoliotoepassingen verschilt nauwelijks van de reguliere aanpak.
-Vooraf Vooraf dienen de verschillende competenties helder geformuleerd en digitaal beschikbaar gesteld te worden. De competenties kunnen in sommige gevallen al in de gespecialiseerde portfoliosoftware worden opgenomen.
-Het is belangrijk om studenten goed voor te lichten over en te begeleiden bij het samenstellen van het portfolio, om te voorkomen dat studenten die wel over de competenties beschikken maar die minder bedreven zijn in het samenstellen van een portfolio en het aandragen van bewijzen te laag worden beoordeeld.</description>
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/portfolio/online/</guid>
+      <description>Als online toetsvorm kan het portfolio op dezelfde manier ingezet worden als in de reguliere setting. De drie vormen zijn daarbij:
+Beoordelingsportfolio Een beoordelingsportfolio is een portfolio voor summatief gebruik. In een beoordelingsportfolio (ook wel assessmentportfolio) verzamelt de student werk dat aantoont dat een bepaalde (set) competentie(s) of vaardigheden beheerst wordt . Vaak wordt ook feedback van medestudenten, docenten, begeleiders en/of externen bijgevoegd; dit geeft de assessoren nog rijkere informatie. Dit type portfolio wordt voornamelijk gebruikt bij formele beoordelingsmomenten.</description>
     </item>
     
     <item>
-      <title>Aanpak</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/approach/</link>
+      <title>Toetsen op afstand</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/online/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/approach/</guid>
-      <description>Voorbereiding Gebruik voor de beoordeling van de presentatie vooraf vastgelegde en naar de studenten gecommuniceerde criteria, bijvoorbeeld in een rubric.
-Studenten vinden (online) presentaties vaak spannend. Duidelijkheid over wat ze kunnen verwachten helpt. Informeer de studenten daarom tijdig en volledig over inhoud, procedures, deelnemende beoordelaars en de wijze van beoordeling. In het geval van toetsen op afstand: maak afspraken over het werken in de online omgeving. Dit is zeker belangrijk voor studenten met een studiebeperking zoals autisme.</description>
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/presentation/online/</guid>
+      <description>Online presenteren vereist van studenten soms een andere vaardigheid. Naast het kunnen omgaan met de videoconferenctiesoftware zal in sommige gevallen ook de presentatie zelf aangepast moeten worden om deze digitaal te kunnen aanbieden. Een posterpresentatie is fysiek toch een andere activiteit dan online.
+Voordelen   Het grootste voordeel van een presentatie op afstand is dat het plaatsonafhankelijk kan, en bij een video-opname ook tijdsonafhankelijk. Dit maakt observeren voor een beoordelaar minder tijdrovend door het ontbreken van bijvoorbeeld reistijd.</description>
     </item>
     
     <item>
-      <title>Aanpak</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/approach/</link>
+      <title>Toetsen op afstand</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/online/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/approach/</guid>
-      <description>De voorbereiding voor online projecten en producten verschilt nauwelijks van de voorbereiding bij campusonderwijs. Eerst inventariseer je welke leerdoelen behaald moeten worden door de student. Daarna ontwerp je een opdracht die ervoor zorgt dat het behalen van deze leerdoelen aangetoond kan worden, bijvoorbeeld in de vorm van producten. Ook schets je de kaders waarbinnen het project of product moet worden afgerond.
-Maak gebruik van een rubric waarin de beoordelingscriteria helder uiteengezet zijn, en representatief voor de doelstellingen, het beoogde cognitieve niveau, en (indien relevant) de afzonderlijke vakgebieden.</description>
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/project_product/online/</guid>
+      <description>Bij een project of product voert de student een afgebakende opdracht uit. Projecten hebben vaak een product als een analyse, advies, ontwerp, fabricaat of essay als resultaat:
+  Analyse Een student analyseert een situatie, probleem of vraagstuk, onderscheidt hierbij hoofd- en bijzaken en/of identificeert hierbij voor- en nadelen.
+  Advies Een advies volgt vaak op een analyse. De student integreert informatie uit verschillende bronnen om tot een onderbouwd advies te komen en een mogelijke oplossing te presenteren.</description>
     </item>
     
     <item>
