@@ -13,4 +13,4 @@ Als het vaak voorkomt dat individuele studenten moeten worden getoetst, bijvoorb
 
 Een voor de hand liggende vorm van een kennistoets is een multiple choice-toets of een toets met open vragen. Voor het toetsen van feitenkennis en/of begrip kan het beste (voornamelijk) gebruikgemaakt worden van gesloten vragen. Op dit cognitieve niveau zijn gesloten vragen relatief gemakkelijk te construeren. Het voordeel van gesloten vragen is dat deze sneller te beantwoorden zijn door studenten, waardoor meer vragen kunnen worden opgenomen in de toets, wat de representativiteit ervan verhoogt [@van1999zicht]. 
 
-In het geval van toetsen op afstand is het bij toetsen op individueel niveau goed haalbaar om live proctoring toe te passen. Dit houdt in dat studenten in real-time, via bijvoorbeeld een webcam of telefoon, worden bekeken.
+In het geval van toetsen op afstand is het bij toetsen op individueel niveau goed haalbaar om live proctoring toe te passen. Dit houdt in dat studenten in real-time, via bijvoorbeeld een webcam of telefoon, worden bekeken. 

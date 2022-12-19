@@ -5,12 +5,12 @@ menuicon: /icons/tools-menu.png
 date: 2020-07-31T11:05:44+02:00
 expandable: true
 instructions: false
-weight: 3
+weight: 2
 ---
 
 De voorbereiding voor online projecten en producten verschilt nauwelijks van de voorbereiding bij campusonderwijs. Eerst inventariseer je welke leerdoelen behaald moeten worden door de student. Daarna ontwerp je een opdracht die ervoor zorgt dat het behalen van deze leerdoelen aangetoond kan worden, bijvoorbeeld in de vorm van producten. Ook schets je de kaders waarbinnen het project of product moet worden afgerond.
 
-Maak gebruik van een rubric waarin de beoordelingscriteria helder uiteengezet zijn, en representatief voor de doelstellingen, het beoogde cognitieve niveau, en (indien relevant) de afzonderlijke vakgebieden. Als het om een project of product gaat met doelstellingen vanuit verschillende vakgebieden, maak in de beoordeling dan ook onderscheid tussen die vakgebieden ([Van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)).
+Maak gebruik van een [rubric](https://husite.nl/toetsing-nieuw/toetscyclus/constructie/het-construeren-van-een-beoordelingsformulier/) waarin de beoordelingscriteria helder uiteengezet zijn, en representatief voor de doelstellingen, het beoogde cognitieve niveau, en (indien relevant) de afzonderlijke vakgebieden. Als het om een project of product gaat met doelstellingen vanuit verschillende vakgebieden, maak in de beoordeling dan ook onderscheid tussen die vakgebieden ([Van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)).
 
 Het is belangrijk dat de kaders zoals de beoordelingscriteria/rubric, feedbackmomenten en de inleverdatum vooraf duidelijk zijn gecommuniceerd met de student. Het is verstandig om een aantal uitgewerkte voorbeeldprojecten of -producten te delen en te bespreken met de studenten, zodat zij een duidelijk beeld hebben van de normen die worden gehanteerd.
 
@@ -38,7 +38,7 @@ Wat doen studenten met de feedback die je ze hebt gegeven tijdens de eindbeoorde
 * 	Maak een onderbouwde keuze voor de te hanteren cesuur.
 
 * 	Neem bij projecten en producten waarbij sprake is van groepswerk aanvullende maatregelen om de betrouwbaarheid en validiteit van de beoordeling te borgen, zoals [Van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)):
-- Besluit of je één beoordeling geeft voor de hele groep, of je ieder groepslid afzonderlijk beoordeelt, of dat je kiest voor een combinatie van beoordeling van een groeps- en een individueel aspect.
-- Houd gedurende het proces in de gaten of er geen sprake is van ‘meeliftgedrag’, bijvoorbeeld door observaties van de inbreng van de studenten tijdens groepsbijeenkomsten of door bij een groepsgesprek of groepspresentatie individueel gerichte vragen te stellen.
-- Overweeg om gebruik te maken van peer assessment (bijvoorbeeld in de vorm van peer nominations of peer rating), waarin de groepsleden elkaars prestaties beoordelen, en waarin het ook mogelijk is om deze beoordelingen mee te laten wegen in de cijfers van de individuele studenten.
-- Als er gerede twijfel bestaat over of de prestatie of bijdrage van één van de groepsleden wel voldoende is geweest, ga hierover in gesprek en overweeg om deze een aanvullende opdracht te laten maken.
+    * Besluit of je één beoordeling geeft voor de hele groep, of je ieder groepslid afzonderlijk beoordeelt, of dat je kiest voor een combinatie van beoordeling van een groeps- en een individueel aspect.
+    * Houd gedurende het proces in de gaten of er geen sprake is van ‘meeliftgedrag’, bijvoorbeeld door observaties van de inbreng van de studenten tijdens groepsbijeenkomsten of door bij een groepsgesprek of groepspresentatie individueel gerichte vragen te stellen.
+    * Overweeg om gebruik te maken van peer assessment (bijvoorbeeld in de vorm van peer nominations of peer rating), waarin de groepsleden elkaars prestaties beoordelen, en waarin het ook mogelijk is om deze beoordelingen mee te laten wegen in de cijfers van de individuele studenten.
+    * Als er gerede twijfel bestaat over of de prestatie of bijdrage van één van de groepsleden wel voldoende is geweest, ga hierover in gesprek en overweeg om deze een aanvullende opdracht te laten maken.

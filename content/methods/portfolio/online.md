@@ -5,7 +5,7 @@ menuicon: /icons/why-do-this-menu.png
 date: 2020-07-31T11:05:44+02:00
 expandable: true
 instructions: false
-weight: 2
+weight: 3
 ---
 
 Als online toetsvorm kan het portfolio op dezelfde manier ingezet worden als in de reguliere setting. De drie vormen zijn daarbij:

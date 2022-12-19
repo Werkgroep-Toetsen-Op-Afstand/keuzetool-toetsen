@@ -8,5 +8,7 @@ category: "tool"
 ---
 Een voor de hand liggende vorm van een kennistoets is een multiple choice-toets of een toets met open vragen. Op locatie wordt een dergelijke toets vaak afgenomen in een grote sport- of collegezaal. Voor het toetsen van feitenkennis en/of begrip kan het beste (voornamelijk) gebruikgemaakt worden van gesloten vragen. Op dit cognitieve niveau zijn gesloten vragen relatief gemakkelijk te construeren. Het voordeel van gesloten vragen is dat deze sneller te beantwoorden zijn door studenten, waardoor meer vragen kunnen worden opgenomen in de toets, wat de representativiteit ervan verhoogt [@van1999zicht].
 
+Het opstellen van je tentamenvragen doe je bij voorkeur door gebruik te maken van een persoonlijke of gedeelde itembank, zodat je later vragen kunt hergebruiken. Meer informatie hierover vind je in het [Handboek Itembanken](https://werkgroep-toetsen-op-afstand.github.io/Handboek-Itembanken/) en in de [SURF thema-uitgave Digitale toets- en vragenbanken in het onderwijs](https://www.surf.nl/files/2019-02/thema-uitgave-itembanken_-webversie_def.pdf). 
+
 ```{r, child="../../../snippets/knowledge/know_methods_breakoutrooms.md"} 
 ```

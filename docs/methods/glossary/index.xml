@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitale Toetsen on Keuzetool Toetsen</title>
+    <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/</link>
+    <description>Recent content in Digitale Toetsen on Keuzetool Toetsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Definitie</title>
+      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/definition/</link>
+      <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
+      
+      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/definition/</guid>
+      <description>Onder digitale toetsen verstaan we toetsen die worden afgenomen in een speciaal daarvoor ontworpen applicatie. Dit kan een functionaliteit van de elektronische leeromgeving zijn als Canvas, of een afzonderlijke toetsapplicatie zoals TestVision of Remindo.
+Met een digitale toets kan je gebruikmaken van diverse vraagvormen. Deze lopen uiteen van meerkeuzevragen, drag-and-drop vragen tot korte invulvragen. Digitale toetsen zijn geschikt voor het toetsen van de volgende cognitieve niveaus van Bloom:: onthouden, begrijpen, toepassen, analyseren, en evalueren.</description>
+    </item>
+    
+  </channel>
+</rss>

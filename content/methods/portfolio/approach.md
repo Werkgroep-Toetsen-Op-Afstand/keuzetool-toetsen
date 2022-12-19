@@ -5,7 +5,7 @@ menuicon: /icons/tools-menu.png
 date: 2020-07-31T11:05:44+02:00
 expandable: true
 instructions: false
-weight: 3
+weight: 2
 ---
 
 De online aanpak van de verschillende portfoliotoepassingen verschilt nauwelijks van de reguliere aanpak.
@@ -16,7 +16,7 @@ Vooraf dienen de verschillende competenties helder geformuleerd en digitaal besc
 
 Het is belangrijk om studenten goed voor te lichten over en te begeleiden bij het samenstellen van het portfolio, om te voorkomen dat studenten die wel over de competenties beschikken maar die minder bedreven zijn in het samenstellen van een portfolio en het aandragen van bewijzen te laag worden beoordeeld. Geef studenten een globaal format voor het portfolio, om te voorkomen dat studenten ongestructureerd informatie verzamelen ([Van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)).
 
-Maak gebruik van een holistische rubric en train docenten voor het gebruik van deze rubric, zodat er sprake is van overeenstemming in interpretatie ([Van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)).
+Maak gebruik van een holistische [rubric](https://husite.nl/toetsing-nieuw/toetscyclus/constructie/het-construeren-van-een-beoordelingsformulier/) en train docenten voor het gebruik van deze rubric, zodat er sprake is van overeenstemming in interpretatie ([Van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)).
 
 Zorg ervoor dat studenten overtuigd zijn van het nut van het portfolio, dat zij inzien dat zij het zowel binnen als buiten de opleiding kunnen gebruiken om aan te tonen welke competenties zij hebben verworven en dat het hen ook kan helpen bij het reflecteren ([Van Berkel et al., 2017](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)).
 
