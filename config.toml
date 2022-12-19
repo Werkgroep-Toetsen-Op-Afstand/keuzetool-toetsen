@@ -12,7 +12,7 @@ defaultContentLanguage = "nl"
   description = "Beschrijving tekst"
   siteLogo = "images/VO_alg_NL.png"
   landingpageTitle = "Kies de juiste toetsvorm"
-  landingpageSubtitle = "De werkgroep toetsen op afstand heeft deze keuze tool voor toetsen ontwikkeld. Op basis van jouw onderwijssituatie kom je snel tot de geschikte toetsmethoden."
+  landingpageSubtitle = "De werkgroep toetsen op afstand heeft deze keuzetool voor toetsen ontwikkeld. Op basis van jouw onderwijssituatie kom je snel tot de geschikte toetsmethoden."
   landingpageBannerImage = "images/landing-no-logo-2.jpg"
   landingpageLogoImage = "images/toetsendiap.png"
   landingpageLogoImageSmall = "images/toetsendiap.png"
@@ -21,7 +21,7 @@ defaultContentLanguage = "nl"
   # Homepage parameters
   homeChoiceTitle = "Kies je groepsgrootte"
   homeChoiceSubtitle = """
-  Voor online toetsadvies, voorbeelden en tips.
+  Voor (online) toetsadvies, voorbeelden en tips.
   
   Of lees over de verschillende [toetsvormen](#methods) ![dropdown icon](icons/dropdown-arrow.png)
   """
@@ -43,7 +43,7 @@ defaultContentLanguage = "nl"
   listMenuBackHomeText = "Andere groepsgrootte"
   listTitle = ": kies je toetsdoel"
   listSubtitle = """
-  En lees over de geschikte online toetsmethoden.
+  En lees over de geschikte (online) toetsmethoden.
   """
   # Of lees de algemene [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
   
@@ -85,7 +85,7 @@ defaultContentLanguage = "nl"
    # Homepage parameters
    homeChoiceTitle = "Choose your groupsize"
    homeChoiceSubtitle = """
-   For advice on online assessment, examples and tips.
+   For advice on (online) assessment, examples and tips.
    
    Or read about the different [assessment methods](#methods) ![dropdown icon](icons/dropdown-arrow.png)
    """
@@ -107,7 +107,7 @@ defaultContentLanguage = "nl"
   listMenuBackHomeText = "Different groupsize"
   listTitle = ": Choose your assesment goal"
   listSubtitle = """
-  Read about appropriate online assessment methods.
+  Read about appropriate (online) assessment methods.
   """
   # Or read about [best practices & tips](#tips) ![dropdown icon](../icons/dropdown-arrow.png)
   
