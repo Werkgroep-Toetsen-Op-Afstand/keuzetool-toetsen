@@ -12,9 +12,7 @@ weight: 4
 
 *	Je kunt de studenten ook vragen of zij een opgenomen (online) observatie willen delen waarin een (deels) mislukte handeling was uitgevoerd. Dat biedt aanknopingspunten voor zowel de student zelf als voor medestudenten om te leren van fouten. 
 
-*	Faciliteer het oefenen van de handeling door het inroosteren van een fysieke of online bijeenkomst. Zorg ervoor dat het beoordelingsformulier beschikbaar is en laat studenten elkaar feedback geven aan de hand van het beoordelingsformulier. Door het geven van peerfeedback leren studenten veel over de eigen prestatie, het stimuleert hun zelfbeoordelingsvermogen en ze doen inspiratie bij elkaar op. Zie  
-
-[deze publicatie van Inholland voor meer informatie over het organiseren van peerfeedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf). 
+*	Faciliteer het oefenen van de handeling door het inroosteren van een fysieke of online bijeenkomst. Zorg ervoor dat het beoordelingsformulier beschikbaar is en laat studenten elkaar feedback geven aan de hand van het beoordelingsformulier. Door het geven van peerfeedback leren studenten veel over de eigen prestatie, het stimuleert hun zelfbeoordelingsvermogen en ze doen inspiratie bij elkaar op. Zie [deze publicatie van Inholland voor meer informatie over het organiseren van peerfeedback](https://www.inholland.nl/onderzoek/publicaties/handreiking-voor-het-scripten-van-peerreview/). 
 
 *	Vraag de student bij een vooraf opgenomen observatie aan te geven op welk (deel)aspect ze in ieder geval graag feedback zouden willen krijgen. Dit bevordert het zelfsturend vermogen. 
 
