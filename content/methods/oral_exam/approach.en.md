@@ -20,30 +20,18 @@ Multiple examiners The reliability of the assessment can also be improved by usi
 
 Topic list It is important to have a lot of questions for an online oral exam. If you have converted an exam with open- and closed-ended questions into an oral exam, you need to take the following into account:
 
-*Closed-ended questions are not recommended in oral exams for a large group of students as the questions might easily be leaked, while asking students different questions further reduces the already impacted reliability. It also makes it more difficult to ask in-depth questions, which is the advantage of an oral exam.
-*You can also ask questions about an image such as an anatomical or technical drawing or a model during an oral exam. 
-*Estimate how many questions you will be able to ask in the time available. 
-*Make a note of the learning objectives, corresponding questions and follow-up questions in a table. For example:  
+* Closed-ended questions are not recommended in oral exams for a large group of students as the questions might easily be leaked, while asking students different questions further reduces the already impacted reliability. It also makes it more difficult to ask in-depth questions, which is the advantage of an oral exam.
+* You can also ask questions about an image such as an anatomical or technical drawing or a model during an oral exam. 
+* Estimate how many questions you will be able to ask in the time available. 
+* Make a note of the learning objectives, corresponding questions and follow-up questions in a table. For example:  
 
-Table below is not showing [To-Do]
-
-<table id="table">
-<tr>
-<td>Learning objective and maximum time</td>
-<td>Question (and cognitive level)*</td>
-<td>Model answer</td>
-<td>Points</td>
-</tr>
-
-<tr>
-<td>5 minutes
-
-Conceptual Statistical understanding of null hypothesis testing</td>
-<td>Why, in the case of null hypothesis testing, do we first need to determine how many participants are required? (evaluate)</td>
-<td>To ensure that the intended alpha level (1pt) and power (1pt) can be achieved (1pt).</td>
-<td>3</td>
-</tr>
-</table>
+ | 
+-|-
+Maximum time | 5 minutes
+Learning objective | Conceptual Statistical understanding of null hypothesis testing
+Question (and cognitive level)* | Why, in the case of null hypothesis testing, do we first need to determine how many participants are required? (evaluate)
+Model answer | To ensure that the intended alpha level (1pt) and power (1pt) can be achieved (1pt).
+Points | 3
 
 If the oral exam is based on a written exam with open-ended questions, you can also use the original assessment table, after making a few adjustments.
 
@@ -51,27 +39,27 @@ If the oral exam is based on a written exam with open-ended questions, you can a
 
 ### Just before the assessment interview
 
-*Make sure that all the equipment is charged.  
-*Make sure that the interview can take place in a quiet location where you will not be disturbed.   
-*Test the equipment before the interview, and use a headset where necessary. 
-*Make sure that you have the required documents to hand (rubric, assessment form, etc.), either printed out or on a second screen. 
-*Log into the video conference a few minutes before the exam.
-*Make sure that any documents such as images to accompany questions are ready. 
+* Make sure that all the equipment is charged.  
+* Make sure that the interview can take place in a quiet location where you will not be disturbed.   
+* Test the equipment before the interview, and use a headset where necessary. 
+* Make sure that you have the required documents to hand (rubric, assessment form, etc.), either printed out or on a second screen. 
+* Log into the video conference a few minutes before the exam.
+* Make sure that any documents such as images to accompany questions are ready. 
 
 ### Start
 
-*Reassure the student.  
-*Check that the rules are clear, and repeat them if necessary. 
-*Tell the student when they can expect the grade and/or feedback.  
-*If necessary, explain that the exam will be recorded. 
+* Reassure the student.  
+* Check that the rules are clear, and repeat them if necessary. 
+* Tell the student when they can expect the grade and/or feedback.  
+* If necessary, explain that the exam will be recorded. 
 
 ### Exam
 
-*Deal with any technical problems.
+* Deal with any technical problems.
 
 ### End of exam
 
-*If you are working with other examiners and would like to provide direct feedback, you could ask the student to leave the online session for a moment or put them in a breakout room. You can then invite the student to return to the session once you have discussed the observations with the others. 
+* If you are working with other examiners and would like to provide direct feedback, you could ask the student to leave the online session for a moment or put them in a breakout room. You can then invite the student to return to the session once you have discussed the observations with the others. 
 
 ## After the exam
 
@@ -79,5 +67,5 @@ Provide the student with feedback immediately after the assessment interview and
 
 ## Points to note
 
-*Students find oral exams stressful, and being clear about what they can expect can help. Make sure therefore to inform the students in full and in plenty of time about the content of the exam, the procedures, the examiners taking part and the assessment method, and set out the ground rules for use of the online platform.
-*Students with autism may find an online assessment interview particularly difficult. Make sure that these students can prepare properly for the interview, by being very clear about the procedure and the assessment method and about what is expected. You could also ask the students what you can do to make it easier for them.
+* Students find oral exams stressful, and being clear about what they can expect can help. Make sure therefore to inform the students in full and in plenty of time about the content of the exam, the procedures, the examiners taking part and the assessment method, and set out the ground rules for use of the online platform.
+* Students with autism may find an online assessment interview particularly difficult. Make sure that these students can prepare properly for the interview, by being very clear about the procedure and the assessment method and about what is expected. You could also ask the students what you can do to make it easier for them.

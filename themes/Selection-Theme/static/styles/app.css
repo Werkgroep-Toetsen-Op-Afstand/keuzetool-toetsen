@@ -3,8 +3,34 @@
  * ----------------------------
  * Made by Ivan de Wolf
  */
-/* Temporary */
+/**
+ * The colors used on the site.
+ */
+/**
+ * Extended stuff on the colors.
+ */
+/**
+ * Variables for the outlining of the elements.
+ */
+/**
+ * The font of the website.
+ */
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400;1,700&display=swap");
+/** customisations */
+.card__text h2 {
+  margin-bottom: 12px;
+  color: #00668e;
+}
+
+.card__text h3, h4, h5, p {
+  margin-bottom: 8px;
+}
+
+.card__text ul {
+  margin: 10px 0 10px 0;
+}
+
+/* Temporary */
 .section {
   margin-bottom: 10px;
 }
@@ -18,18 +44,7 @@
   margin-right: 16px;
 }
 
-/**
- * The colors used on the site.
- */
-/**
- * Extended stuff on the colors.
- */
-/**
- * Variables for the outlining of the elements.
- */
-/**
- * The font of the website.
- */
+/** customisations */
 /**
  * The main classes for the application.
  */
@@ -501,7 +516,7 @@ main {
   font-weight: normal;
 }
 .card__text > ol, .card__text > ul {
-  padding-left: 4px;
+  padding-left: 18px;
 }
 .card__text > ol > li, .card__text > ul > li {
   padding-bottom: 4px;
@@ -796,11 +811,11 @@ main {
 }
 
 blockquote {
-  margin: 10px 0 10px 20px;
+  margin: 20px 0 20px 20px;
   width: 95%;
   padding: 10px;
   position: relative;
-  background: #ddd;
+  background: #f4fcff;
 }
 
 blockquote:before {
