@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Digitale Toetsen on Keuzetool Toetsen</title>
+    <title>Glossary on Keuzetool Toetsen</title>
     <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/</link>
-    <description>Recent content in Digitale Toetsen on Keuzetool Toetsen</description>
+    <description>Recent content in Glossary on Keuzetool Toetsen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-NL</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Definitie</title>
+      <title>Overzicht van alle toetsvormen</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/definition/</link>
       <pubDate>Fri, 31 Jul 2020 11:05:44 +0200</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/methods/glossary/definition/</guid>
-      <description>Onder digitale toetsen verstaan we toetsen die worden afgenomen in een speciaal daarvoor ontworpen applicatie. Dit kan een functionaliteit van de elektronische leeromgeving zijn als Canvas, of een afzonderlijke toetsapplicatie zoals TestVision of Remindo.
-Met een digitale toets kan je gebruikmaken van diverse vraagvormen. Deze lopen uiteen van meerkeuzevragen, drag-and-drop vragen tot korte invulvragen. Digitale toetsen zijn geschikt voor het toetsen van de volgende cognitieve niveaus van Bloom:: onthouden, begrijpen, toepassen, analyseren, en evalueren.</description>
+      <description>Digitale toetsen Digitaal examen Digitaal tentamen Digitale toets Kennistoets Online examen Online tentamen Online toets Toets met open/gesloten vragen Mondeling Assessmentgesprek Criterium gericht interview (CGI) Eindgesprek Mondeling Mondelinge toets Pitch Presentatie Verdediging Open-boek en take-home tentamens Open-boek tentamen Take-home tentamen Observaties Gedragsassessment Korte praktijkbeoordeling (KPB) Korte vaardigheid beoordeling (KVB) Observatie in de praktijk Performance-assessment Praktijkproef Proeve van bekwaamheid Simulatie Stationstoets (met een reeks handelingen) Vaardigheidstoets Voorstelling Portfolio Assessment portfolio Beoordelingsportfolio Competentieoverzicht Development portfolio Digitaal portfolio E-portfolio Leerwerkmap Ontwikkelingsportfolio Presentatieportfolio Showcase Showmap Vaardighedendossier Verrichtingenoverzicht Presentatie Pechakucha Pitch Posterpresentatie Video-essay Projecten en producten Advies Afstudeeropdracht Analyse Boekbeoordeling Casestudy Essay Fabricaat Groepsopdracht Meesterproef Onderzoeksopdracht Onderzoeksverslag Ontwerp Praktijkbeoordeling Procesbeoordeling Productbeoordeling Producttoets Projectopdracht Rapport Reflectie-opdracht Reflectieverslag Scriptie Stage-opdracht Thesis Verslag Werkstuk </description>
     </item>
     
   </channel>
