@@ -28,37 +28,13 @@ Als je een toets met open vragen omzet in een mondeling, houd dan rekening met h
 
 *	Noteer leerdoelen, bijbehorende vragen en doorvraag-vragen in een (beoordelings)tabel. Bijvoorbeeld:
 
-Table below is not showing [To-Do]
-
-<table id="table">
-
-<tr>
-
-<td>Leerdoel en maximale tijdsduur</td>
-
-<td>Vraag (met cognitief niveau)*</td>
-
-<td>Antwoordmodel</td>
-
-<td>Punten</td>
-
-</tr>
-
-<tr>
-
-<td>5 minuten
-
-Conceptueel Statistisch begrip over nul hypothese toetsing</td>
-
-<td>Waarom is het bij nul hypothese toetsing noodzakelijk om vooraf te bepalen hoeveel proefpersonen je nodig hebt. (evalueren)</td>
-
-<td>Om te garanderen dat de beoogde alpha (1pt) en Power (1pt) behaald kunnen worden (1pt).</td>
-
-<td>3</td>
-
-</tr>
-
-</table>
+ |
+-|-
+Maximale tijdsduur | 5 minuten
+Leerdoel | Conceptueel Statistisch begrip over nul hypothese toetsing
+Vraag (met cognitief niveau)* | Waarom is het bij nul hypothese toetsing noodzakelijk om vooraf te bepalen hoeveel proefpersonen je nodig hebt. (evalueren)
+Antwoordmodel | Om te garanderen dat de beoogde alpha (1pt) en Power (1pt) behaald kunnen worden (1pt).
+Punten | 3
 
 Als je een bestaande schriftelijke toets met open vragen hebt, dan kun je het oorspronkelijke beoordelingsmodel (eventueel met enige aanpassing) ook gebruiken bij het (online) mondeling.
 
