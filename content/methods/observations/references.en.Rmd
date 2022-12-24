@@ -11,7 +11,10 @@ link-citations: TRUE
 bilbio-style: "apalike"
 ---
 
-* Toetsen in het hoger onderwijs [@van2017toetsen] (Assessment in higher education) is a general book about assessment with a chapter on assessment of performance that deals in more detail with the assessment of observable activities. It contains very useful information on ensuring reliability and validity during this form of assessment.
+*	[Dobbelaer, M. J. (2019). The quality and qualities of classroom observation systems. Universiteit Twente.](https://ris.utwente.nl/ws/portalfiles/portal/88769970/Dobbelaer_The_quality_and_qualities_of_classroom_observation_systems.pdf)
 
+* [Inholland publication for more information about organizing peer feedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf)
+
+* 	[Assessment in higher education](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf) is a general book about assessment with a chapter on assessment of performance that deals in more detail with the assessment of observable activities. It contains very useful information on ensuring reliability and validity during this form of assessment.
 
 ## Bibliography

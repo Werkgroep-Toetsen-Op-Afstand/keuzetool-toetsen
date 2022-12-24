@@ -1,5 +1,5 @@
 ---
-title: "Online"
+title: "Remote assessment"
 icon: /icons/why-do-this.png
 menuicon: /icons/why-do-this-menu.png
 date: 2020-07-31T11:05:44+02:00
@@ -8,27 +8,20 @@ instructions: false
 weight: 2
 ---
 
-An online observation can be carried out in three ways:
+Remote observation can be carried out in three ways:
 
-1. Watch an online activity live. This could be an activity that needs to be done online (e.g. using a computer programme) or an activity that takes place online for the purpose of assessment (e.g. conducting an interview). The observation can take place at any location.
-2. Watch an activity live on-location. The observers watch an activity live at another location (e.g. a student using a machine while on an internship). The observation can take place at any location. 
-3. Watch a video recording. The student records the activity (e.g. a teacher training student giving a lesson is recorded with equipment intended for the purpose).
+1. Watching an online action live. It can be an online action (for example, working with a digital computer program) or an action that (unlike normal) takes place online before the assessment (for example, conducting a conversation). The observation is location independent.
 
-## Advantages and disadvantages
+2. Watching an action on location live. The assessor(s) watch live from a distance (for example when using a machine at an internship). The observation is location independent.
 
-The main advantage of online observation is that it can be done from any location, and in the case of a video recording, at any time. This is less time-consuming for the observer, for example because travel to the location is not required. Assessment by a group of observers is also easier to arrange. Research shows that the validity of observations often increases considerably with an increase in the number of observations or observers, and this is made easier using online observation. 
-Another advantage of using a video recording is that the examiner can review the recording together with the student, for example to explain the reasoning for the final grade. The student can also use the video to reflect on the activity.
+3. View a video recording. The student records the action on video (for example, teaching during an internship is recorded with appropriate equipment).
 
-However, online observation may mean that the observer has less information available than if they were on-location. For example, when observing a lesson given by a teacher training student at a primary school, the observer cannot walk around the classroom, or the view may be limited if children are working in the corridor. It may also be more difficult to interpret non-verbal communication. If not enough information is available, this can affect the validity of the observation. The advantages and disadvantages must therefore be carefully considered in each situation.  
+## Advantages
 
-### Main advantages	
+* The biggest advantage of remote observation is that it can be done independent of location, and also independent of time in the case of a video recording. This makes observing less time-consuming for an assessor due to the lack of travel time, for example. It is also easier to organize assessment by several assessors. Research shows that the validity of observations often increases greatly by adding extra observations or assessors, something that is facilitated by remote observation.
 
-* Less time-consuming for the observer
-* Easier to organise multiple observers 
-* Possible to watch recording with student
+* Another advantage of a video recording is that the assessor can watch the video together with the student to reflect or substantiate an assessment.
 
-### Main disadvantage
+## Disadvantages
 
-* May limit information available to observer
-
-Combination An observation can be combined with an assessment interview to allow the student to explain why they made certain choices. 
+* When observing remotely, the information for the assessor may be more limited than on location. For example, when observing a lesson given by a student at his primary education internship school, the assessor does not have the opportunity to walk around the children or the view through the image may be limited if, for example, there are children on the screen out of sight. going to work. It can also be more difficult to properly interpret non-verbal communication. If the information for the assessor is too limited, the validity of the assessment may be compromised. The pros and cons must therefore be carefully weighed in each assessment context.

@@ -8,9 +8,14 @@ instructions: false
 weight: 4
 ---
 
-* Show the students a few examples of a recorded online observation before they have theirs (e.g. previously submitted recordings), so that they know what is expected, both in terms of content and the recording. This also allows students to compare themselves with what they see in the recording, so that they can judge whether they are ready. 
-* You could ask the students to hand in an unsuccessful version of the activity with the recorded online observation, so that they can learn from their mistakes.
-* Give students the opportunity to practice the activity by planning an online meeting. Make sure that they have a copy of the assessment form and let them give each other feedback based on the form. The students learn a lot about their own performance through peer feedback, and also improve their capacity for self-reflection and inspire each other. See this publication from Inholland for more information about organising peer feedback.
-* Ask the students to watch a previously recorded observation and indicate which aspect they would most like to receive feedback on. This encourages their capacity for self-management. Of course, as the examiner you may also choose to provide feedback on other aspects. 
-* Provide the student with feedback immediately after the online observation and before giving a grade, as this is when the student is most receptive to the feedback. 
-* An online observation is sometimes the end of a long process, such as a creative production, a complex activity or the solution of a problem. In this case, an online observation may seem impersonal and may not be in keeping with the effort made. This should be taken into consideration when deciding whether to conduct an online observation or an observation on location.  
+* By providing a number of sample recordings (e.g. previously submitted recordings) with accompanying completed assessment forms to the students prior to an (online) observation, it is clearer to the student what is expected, both in terms of content and – in the case of remote testing – regarding the recording. The student can then also compare his own performance with the recording to evaluate whether the action is sufficiently mastered.
+
+* You can also ask the students if they want to share a recorded (online) observation in which a (partially) failed action was performed. This offers starting points for both the student and fellow students to learn from mistakes.
+
+* Facilitate the practice of the action by scheduling a physical or online meeting. Make sure the assessment form is available and let students give each other feedback using the assessment form. By giving peer feedback, students learn a lot about their own performance, it stimulates their self-assessment skills and they gain inspiration from each other. See [this Inholland publication for more information about organizing peer feedback](https://www.inholland.nl/onderzoek/publicaties/handreiking-voor-het-scripten-van-peerreview/).
+
+* In the case of a pre-recorded observation, ask the student to indicate on which (partial) aspect they would like to receive feedback in any case. This promotes self-steering ability.
+
+* Give feedback to the student immediately after the (online) observation and (well) before sharing the mark. This is when it is best internalized.
+
+* Sometimes the observation forms the end of a long learning process, for example when it comes to a performance, a complex action or solving a problem. An online observation can then come across as impersonal and does not always do justice to the effort that has been made. It is good to take this into account when considering online observation or observation on location.
