@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Open-book and take-home exams"
 description: ""
 banner: /images/assessment-hero.jpg
 icon: /icons/assessment-icon.png

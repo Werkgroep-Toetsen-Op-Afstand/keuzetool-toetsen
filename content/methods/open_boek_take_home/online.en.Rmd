@@ -1,5 +1,5 @@
 ---
-title: "Online"
+title: "Remote assessment"
 icon: /icons/what-to-do.png
 menuicon: /icons/what-to-do-menu.png
 date: 2020-07-31T11:05:44+02:00
@@ -8,3 +8,27 @@ instructions: false
 weight: 2
 ---
 
+## Open-book exam
+
+Open-book exams can be taken on location or remotely. The same advantages and disadvantages apply to remote assessment as to a digital (closed-book) test.
+
+### Advantages
+
+* Can be an alternative for lack of capacity on campus.
+* Gives students with a disability the opportunity to take the exam at home, where they may have better facilities.
+* Puts less pressure on public transport.
+
+### Disadvantages
+
+* Technically challenging. It's very bothersome when something goes wrong.
+* Increased pressure on examination boards when assessing the reports of online proctoring.
+* Students can experience online proctoring as an invasion of their privacy if there is no transparent communication about how online proctoring is set up.
+* Students can experience online proctoring as stress-increasing.
+
+## Take home exam
+
+Due to the time frame of a number of days, take-home exams are by definition exams that are taken remotely.
+
+### Advantages
+
+* Plagiarism check can be used when submitting a take-home exam online.
