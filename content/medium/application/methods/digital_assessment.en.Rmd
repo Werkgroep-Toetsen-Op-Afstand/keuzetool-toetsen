@@ -7,13 +7,7 @@ weight: 1
 category: "tool"
 ---
 
-**Tips for this assessment method**
-
-```{r, child="../../../snippets/knowledge/know_methods_mc.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_limitations.en.md"}
-```
+A digital exam can also be used to assess higher cognitive skills such as application, analysis, synthesis and evaluation. To test these higher cognitive skills on this scale, it is best to (mainly) use closed questions. Although it takes time to carefully construct these, it still outweighs the time it would take to assess the essay questions of a relatively large group of students. In addition, closed questions have the advantage that they can be answered more quickly by students, so that more questions can be included in the test, which increases its representativeness (Van Berkel, 1999).
 
 ```{r, child="../../../snippets/knowledge/know_methods_breakoutrooms.en.md"}
 ```

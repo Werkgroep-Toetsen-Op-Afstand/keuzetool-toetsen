@@ -7,17 +7,4 @@ weight: 2
 category: "tool"
 ---
 
-**Tips for this assessment method**
-
-```{r, child="../../../snippets/knowledge/know_methods_questions.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_video.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_groups-presentations.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.en.md"}
-```
-
+Higher cognitive skills can also be tested with a (group) presentation. A presentation offers students room for originality and creativity. In addition, presentation skills can also be tested. The opportunity that a presentation offers for interaction, for example asking questions after the presentation, offers the assessor additional opportunities to test the insight of the student. In the case of a medium-sized group of students, it is recommended, whenever possible, to divide the students into groups and have them present per group, in order to reduce assessment time.

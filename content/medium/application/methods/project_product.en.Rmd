@@ -7,7 +7,4 @@ weight: 3
 category: "tool"
 ---
 
-**Tips for this assessment method**
-```{r, child="../../../snippets/application/app_methods_groups.en.md"}
-```
-
+Projects and products are suitable for determining whether the student can apply, analyse, evaluate or create knowledge. Consider, especially with this group size, to make the assignment a group assignment. Not only does this reduce grading time, but with group assignments, students interact more with each other and can work together on a project that they could never have completed alone.
