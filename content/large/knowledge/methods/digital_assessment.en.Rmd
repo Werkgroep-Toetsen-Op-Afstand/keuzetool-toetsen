@@ -7,13 +7,7 @@ weight: 3
 category: "tool"
 ---
 
-**Tips for this assessment method**
-
-```{r, child="../../../snippets/knowledge/know_methods_mc.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_limitations.en.md"}
-```
+An obvious form of a knowledge test is a multiple choice test or a test with open questions. On location, such a test is often taken in a large sports or lecture hall. For testing factual knowledge and/or understanding on a large scale, it is best to (mainly) use closed questions. At this cognitive level, closed questions are relatively easy to construct. The advantage of closed questions is that they can be answered more quickly by students, so that more questions can be included in the test, which increases its representativeness [@van1999zicht].
 
 ```{r, child="../../../snippets/knowledge/know_methods_breakoutrooms.en.md"}
 ```

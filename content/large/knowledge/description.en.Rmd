@@ -7,7 +7,7 @@ expandable: false
 instructions: false
 weight: 1
 ---
-Of the assessment methods that can be used at the large scale, knowledge assessment is probably the easiest to implement online. Examples are a multiple-choice exam or an exam with open-ended questions. On campus, this type of exam is often taken in a large sports hall or lecture theatre. 
 
-```{r, child="../../snippets/knowledge/know_description_advantages.en.md"}
-```
+By knowledge in this context, reproduction knowledge is meant; this can be divided into factual knowledge on the one hand and summarizing (or understanding) on the other [@van1999zicht]. With factual knowledge, the question is whether the student has remembered the knowledge. An example of factual knowledge is being able to name the characteristics of a mammal. Summarizing is about whether the student has understood the subject matter. This could include, for example, explaining the operation of a combustion engine in your own words.
+
+Of the assessments that can be administered on a large scale, a knowledge test is probably the easiest to carry out remotely. Consider, for example, a multiple choice test or a test with open questions. On location, such a test is often taken in a large sports or lecture hall.
