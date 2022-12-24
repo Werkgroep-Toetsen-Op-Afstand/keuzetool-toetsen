@@ -11,10 +11,16 @@ link-citations: TRUE
 bilbio-style: "apalike"
 ---
 
-* [VU guidelines on variations on written assignments](https://sites.google.com/vu.nl/vu-teaching-learning-tips/assessment-for-learning/variations-on-written-assignments).
-* Toetsen in het hogeronderwijs (Assessment in higher education, in Dutch) [@van2017toetsen], about the importance of feedback in the learning process.
-* [Toetswijzer competentiegericht begeleiden & beoordelen in het hoger onderwijs (Assessment guidelines, competence-focused supervision and assessment in higher education, in Dutch)](https://hbo-kennisbank.nl/details/sharekit_fontys:oai:surfsharekit.nl:b2ba5e91-b067-41a1-bce6-bd368c1c1675). Fontys facilities company, department of education: Centre for education innovation and research. 
-* Peer assessment als leermiddel. Voorbeelden uit het hoger onderwijs (Peer assessment as educational resource, examples from higher education (in Dutch)). [@van2005peer].
-* Projectonderwijs als innovatie in het hoger onderwijs (Project education as innovation in higher education, in Dutch) [@van1985projectonderwijs].
+* [Guide from the VU in which variations in written test products are provided](https://sites.google.com/vu.nl/vu-teaching-learning-tips/assessment-for-learning/variations-on-written-assignments ).
+
+* [Inholland publication for more information about organizing peer feedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf)
+
+* [Test guide competence-based guidance & assessment in higher education](https://hbo-kennisbank.nl/details/sharekit_fontys:oai:surfsharekit.nl:b2ba5e91-b067-41a1-bce6-bd368c1c1675). Fontys Facility Services, Education department: Center for educational innovation and research.
+
+* Peer assessment as a learning tool. Examples from higher education [@van2005peer].
+
+* Project education as an innovation in higher education [@van1985projectonderwijs].
+
+* [Van Berkel, H., Bax, A., & Joosten-ten Brinke, D. (2017). Testing in higher education. Bohn Stafleu van Loghum.](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax -Joosten-ten-Brinke.pdf)
 
 ## Bibliography

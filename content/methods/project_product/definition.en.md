@@ -8,8 +8,8 @@ instructions: false
 weight: 1
 ---
 
-With projects and products, students can apply what they have learned in an active and practical manner, and within set boundaries. This improves their understanding of the subject. Projects and products are suitable for assessing whether a student can create and apply, analyse and evaluate knowledge. 
+With projects and products, the student applies knowledge in an active, practical manner within the set frameworks. Applying knowledge leads to better processing of the teaching material. Projects and products are suitable for determining whether the student can apply, analyse, evaluate or create knowledge (see this [publication of SLO](https://www.utwente.nl/.uc/f84db0b51010284fa9c0174f5f903a6aaa8aeaf3a528a00/bloom-taxonomy-checklist.pdf) for more information on Bloom's cognitive levels).
 
-However, projects and products are less suitable for assessing whether a student has a broad knowledge base. In practice, projects and products are often combined with other types of assessment that are more suited to this, such as exams with open-ended and/or closed-ended questions. It may not always be necessary to test a student’s broad knowledge base separately, for example if it was assessed in a previous course, or if it was sufficiently addressed as part of the project/product. 
+Projects and products are less suitable for assessing whether someone has a broad knowledge base. In practice, projects and products are therefore often combined with test formats that are suitable for this, such as tests with open and/or closed questions. Sometimes it is not necessary to assess the knowledge base separately, for example because it has already been assessed in another previous course or because it is sufficiently covered in the project/product.
 
-A project or product is often combined with an oral exam or presentation. 
+A project or product is often combined with a presentation or an oral test.

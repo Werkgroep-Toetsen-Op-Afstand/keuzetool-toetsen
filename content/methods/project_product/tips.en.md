@@ -8,15 +8,22 @@ instructions: false
 weight: 4
 ---
 
-> Organise an online peer feedback session well before the submission date for the final draft version of a project/product. Using the assessment form, the students can give each other feedback on their products. This saves you time, as many common mistakes will be picked up and solved by the students.
+> Well before the submission date of the last draft version of the thesis, I organize an online peer feedback session. Students give feedback on each other's product on the basis of an assessment form. I notice that it saves me time as a teacher when giving feedback. Common mistakes are noticed and corrected by the students themselves. They also get a good view of the assessment form.
 
-*Facilitate and encourage self-management in students as they work on a project. For example, have students set themselves personal goals in their project and let them reflect on these goals.
-*Before providing feedback on a project or product, you could first organise a peer feedback session. Make sure that the students have a copy of the assessment form and let them give each other feedback based on the form. The students learn a lot about their own performance through peer feedback, improve their capacity for self-reflection and inspire each other. See [this brochure by Inholland (in Dutch) for more information on organising peer feedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf).
-*It also helps to motivate students if they carry out projects and products for clients outside the university setting. This also helps them to develop general interdisciplinary skills.
-*For more inspiration on written assignments, take a look at [this information page from the VU](https://sites.google.com/vu.nl/vu-teaching-learning-tips/assessment-for-learning/variations-on-written-assignments). 
-*Students can cheat on written assignments by copying text from previous students or from the internet. You should therefore use anti-plagiarism software. A wider variety of projects and products also makes it more difficult for students to copy each other’s work. If you do use a list of subjects for students to choose from, make sure to update it regularly. 
-*Ask the students to indicate which aspects of their project/product they would most like to receive feedback on, as this encourages their capacity for self-management. Of course, as the examiner you may also choose to provide feedback on other aspects. 
-*Ask the students to submit a self-assessment based on the assessment form as part of their project or product, so that they learn to reflect on their own work. If you also ask them to indicate where the information can be found relating to each assessment criterion (e.g. by referring to the relevant section of the report), you can save yourself some marking time.
-*In a group assignment, some students may contribute more to the group process than others. It is usually best to have students agree on the quality of their work at the start, and to remind them of this as they go along, as this can help to prevent any problems. You can also organise the assignment so that students are reliant on each other, but this can be difficult.
-*One pitfall with group assignments is that the students compensate for each other's weaknesses. However, this does not have to be a problem, as it also applies to the ‘real’ world. It is however something to keep in mind when deciding whether to set an individual or group assignment, and when incorporating the learning objectives into the assignment. 
-*For students with a learning difficulty such as ADD or ADHD, it is very important to make sure that expectations and submission deadlines are communicated clearly. We suggest that these students are asked to submit interim products, so that they have a clear idea of their progress. 
+* Facilitate and stimulate self-directed learning within a project. Let students set personal goals within the project and reflect on them.
+
+* Ask the students to indicate on which (partial) aspect they would like to receive feedback in any case. This promotes self-steering ability. As an assessor you can of course also choose to provide feedback on other aspects.
+
+* Before you provide feedback on the project or product as a supervisor, you can organize a peer feedback session. Make sure the assessment form is available and let students give each other feedback using the assessment form. By giving peer feedback, students gain more insight into the assessment criteria, students also learn a lot about their own performance, it stimulates their self-assessment ability and they gain inspiration from each other. See [this Inholland publication for more information about organizing peer feedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf).
+
+* Clients from the field can be very motivating for students. Furthermore, this also contributes to the development of cross-curricular skills that are relevant in practice.
+
+* For more inspiration for written assignments, see [this VU information page](https://sites.google.com/vu.nl/vu-teaching-learning-tips/assessment-for-learning/variations-on-written-assignments).
+
+* Instruct the students to hand in a self-assessment based on the assessment form with the project or product. In this way they learn to reflect on their own work. If you ask them to indicate the evidence for each assessment criterion (for example, make a reference to its place in the report), this can save you as an assessor time during the marking.
+
+* In group projects it can happen that the students make an unequal contribution to the group process. It usually works best to have students make agreements with each other at the start about the way of working together and to come back to this regularly in the supervision. This way you can avoid problems. You can also overcome this by setting up the assignment in such a way that the students are mutually dependent on each other, but this is often difficult.
+
+* Students can compensate for each other's weaknesses in a group assignment. This does not necessarily have to be a problem as this often happens in practice/the work field. This is something to take into account when choosing an individual or group assignment. Do all students have to demonstrate that they have achieved certain learning objectives?
+
+* For students with a learning disability such as ADD or ADHD, it is extra important to communicate clearly about expectations and deadlines. It is advisable for this target group to work with intermediate products in order to keep the work clear.

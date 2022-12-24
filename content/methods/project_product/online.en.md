@@ -8,19 +8,26 @@ instructions: false
 weight: 2
 ---
 
-With a project or product, a student carries out a clearly-defined assignment. Projects often result in a product such as an analysis, recommendation, design, final product or essay: 
+For a project or product, the student carries out a well-defined assignment. Projects often have a product like an analysis, advice report, design, product or essay as a result:
 
-***Analysis** The student analyses a situation, problem or issue, separating the main issues from the side issues and/or identifying the advantages and disadvantages. 
-***Recommendation** A recommendation is often the result of an analysis. The student collates information from various sources to come up with a recommendation and a possible solution. 
-***Design** A design is a description or visualisation of a future reality. 
-***Final product** A final product can be physical or digital and can be put to actual use. 
-***Essay** An essay is a text in which the student gives a substantiated opinion on a particular subject. The student therefore learns to think critically about a subject. Short essay questions can also be given as part of an online exam.
+* **Analysis** A student analyzes a situation, problem or issue, distinguishes between main and side issues and/or identifies advantages and disadvantages.
 
-These products can of course be combined. For example, a research report combines analysis, an essay and a recommendation.
+* **Advice report** An advice report often follows an analysis. The student integrates information from different sources to arrive at a well-founded advice report and to present a possible solution.
 
-Students often submit their work digitally through a learning management system (LMS), which makes it easy to assess the work online. In the case of a physical product, the student can make a video recording or demonstrate it in a live stream.
+* **Design** A design is a description or visualization of a future reality.
 
-## Advantages and disadvantages
+* **Product** A product is a concrete physical/digital end product that the user can use functionally.
 
-+ The online assessment of projects and products does not differ very much from on-campus assessment.
-- A physical final product may not come over as well in an online setting, but this depends on how well the student is able to convey the relevant details.
+* **Essay** An essay is a text in which the student describes a well-founded opinion on a certain topic. The student learns to think critically about a specific topic. Short essay questions can also be asked within a digital test.
+
+The above products can, of course, also be combined into one end product. For example, a research report is a combination of analysis, essay and advice.
+
+Students often deliver work digitally in a learning management system (LMS). This makes remote assessment easy. For physical products, a home-made recording or a livestream demonstration can be used.
+
+## Advantages
+
+* Remote testing of projects and products is largely the same as how the assessment would take place via campus education, but more flexible (independent of location and time).
+
+## Disadvantages
+
+* For the assessment of physical end products, a digital assessment can sometimes provide a less accurate picture. For example, it depends on how well the student is able to visualize all relevant details.
