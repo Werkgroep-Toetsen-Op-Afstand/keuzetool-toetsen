@@ -7,4 +7,4 @@ weight: 3
 category: "tool"
 ---
 
-
+A portfolio is a collection of documents/files that demonstrate that the student possesses and/or develops certain competences, and that is often built up over a longer period of time. The portfolio can therefore also include other assessment formats. In the case of a large group of students, it is probably too time consuming to assess portfolios of individual students. Formative use of a portfolio in the form of a development portfolio is feasible on this scale. In this portfolio, students can, among other things, include video recordings of observations, products of projects and the results of their assessment, together with reflections on this in which the student discusses which (sub)competencies are still insufficiently mastered and which therefore still need to be improved. 
