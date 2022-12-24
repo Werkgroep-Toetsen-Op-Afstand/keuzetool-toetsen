@@ -30,7 +30,7 @@ Voor de docent bieden de resultaten inzicht in waar de kennishiaten zich bevinde
 
 ### Aandachtspunten
 
-*   Het wel of niet meewegen van formatieve toetsen in de beoordeling en de manier waarop deze worden meegewogen kan van invloed zijn op de inzet van studenten. Met name bij grote groepen kan dit een rol spelen. Overweeg eens een ander beloningssysteem. Zoals een [strafstaffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d), zoals ook beschreven in [klinkenberg2016role]. 
+*   Het wel of niet meewegen van formatieve toetsen in de beoordeling en de manier waarop deze worden meegewogen kan van invloed zijn op de inzet van studenten. Met name bij grote groepen kan dit een rol spelen. Overweeg eens een ander beloningssysteem. Zoals een [strafstaffel](https://webcolleges.uva.nl/Mediasite/Play/2d74e9c589094bb0bc027cfbae672d6b1d), zoals ook beschreven in [@klinkenberg2016role]. 
 
 
 > Bij een vak waarvan de leerstof ook op een later moment in de opleiding getoetst werd, hebben we een summatieve meerkeuzetoets omgezet naar een formatieve toets. Deze toets wordt door de studenten in drietallen gemaakt. De onderlinge discussie zorgde voor een groot leereffect en wij hoeven geen proctoring meer te gebruiken.  

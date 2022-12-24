@@ -26,7 +26,7 @@ De resultaten van de formatieve toetsen zijn zowel waardevol voor de student als
 
 ### Nadelen  
 
-- Het kost tijd om goede opdrachten te maken en te finetunen.
+* Het kost tijd om goede opdrachten te maken en te finetunen.
 
 ## Summatief
 

@@ -1,5 +1,5 @@
 ---
-title: "Online"
+title: "Remote assessment"
 icon: /icons/what-to-do.png
 menuicon: /icons/what-to-do-menu.png
 date: 2020-07-31T11:05:44+02:00
@@ -8,39 +8,50 @@ instructions: false
 weight: 2
 ---
 
-Digital assessment can take place either on-campus or online. However, a decision needs to be made as to whether it can also be taken at any time. Should every student take the exam at the same time, or can they take it at different times? In the case of formative assessment, there is little objection to this. However, it does have implications for summative assessment, as the questions from previous exams may have been leaked. For both location- and time-independent summative assessment, we advise making sure that the online proctoring is working properly (see, in Dutch, [Klinkenberg, 2021](https://www.onderwijskennis.nl/sites/onderwijskennis/files/media-files/Thema%205%20-%20Sharon%20Klinkenberg.pdf)).
+Digital exams can be taken both on campus and online (independent of location). However, a choice that still has to be made is on whether it can also be time-independent. Do all students take the exam simultaneously, or can they do it at varying times? There are relatively few objections to this for formative assessment. However, this does have implications for summative assessment. After all, the questions from a previous administration can leak. It is advisable to have online proctoring in order for both location and time-independent summative assessment (see also [Klinkenberg, 2021](https://www.onderwijskennis.nl/sites/onderwijskennis/files/media-files/Thema%205%20-%20Sharon%20Klinkenberg.pdf)).
 
 ## Formative
 
-Examples of digital formative assessment could be a practice test for an exam that covers all of the learning objectives, or an exam that covers a limited set of learning objectives, such as an online formative exam that selects random questions from an item bank on a specific subject. Another possibility is the use of a practice test as a learning tool. Such a test could include theory in the form of short videos, text, images and other files. An example is an Excel assessment test, which first explains how to use Excel, then has the student download an Excel file, explains how to carry out a certain action, and has a field in which the student can enter the outcome of the action.
-The results of formative exams are valuable both for the student and the lecturer, as they provide both with insight into the student’s progress as well as any gaps in the student’s knowledge.
+When using formative assessment remotely, you could think of digital practice exams for an exam that contain all the learning objectives of the exam, or exams that question a limited learning objective, such as a digital formative test that selects random questions from a large bank of questions about a specific subject. Another option is to use a practice exam as a didactic learning tool. The exam instructions can contain knowledge clips, text, images and files. An example of this is an Excel test in which it is first explained how to use Excel, you can download an Excel file, perform a certain action and indicate in an entry field what a certain outcome of the action is.
 
-### Advantages and disadvantages 
+The results of the formative tests are valuable for both the student and the teacher. Both gain insight into where the student stands in the learning process, but also where the gaps still exist.
 
-+ Student can receive direct feedback, as part of the learning process.
-+ This does not depend on the lecturer, but is provided by the system.
-+ Answers can be marked automatically and narrative feedback can be added.
-+ The results can provide insight into the learning process, both for the students and the lecturer.
-- It is time-consuming to design and fine-tune good assessments.
+### Advantages
+
+* The student can receive direct feedback just in time, within the learning process.
+* The assessment can be partly or fully automated in some cases.
+* Response models can be provided with narrative feedback.
+* There are no problems with difficult to read handwriting.
+* Test results provide input into the learning process and provide the teacher with information about parts that have not yet been mastered.
+
+### Disadvantages
+
+* It takes time to create and fine-tune good assignments.
 
 ## Summative
 
-There are some difficulties involved in the use of online exams to provide a grade. To ensure that the exam is the student’s own work, it is imperative that the student’s identity can be verified for the complete duration of the exam.
-Online proctoring makes this possible, but its effectiveness depends very much on the selected method. Generally speaking, there are four types of online proctoring (SURF, 2020):
+The use of digital tests for number determination is quite a challenge from a distance. In order to guarantee the authenticity of the test, it is necessary to establish that the student's identity can be verified throughout the test.
 
-*Live proctoring using conference software (SURF report §1.2)
-*Live proctoring using proctoring software (SURF report §1.3)
-*Recording and post-monitoring using proctoring software (SURF report §1.4)
-*Automated reviewing (SURF report §1.4)
+Online proctoring offers a solution here, but the effectiveness strongly depends on the chosen application. Roughly speaking, four forms of online proctoring can be distinguished (SURF, 2020):
 
-Depending on how important an exam is, a decision needs to be made as to which form of online proctoring should be used. Find out which facilities are available at your educational institution and what the policy is concerning the use of online proctoring.
+* Live surveillance with conferencing software ([SURF whitepaper]https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand) §1.2)
 
-### Advantages and disadvantages
+* Live proctoring with proctoring software ([SURF whitepaper](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand) §1.3)
 
-+ Can provide an alternative if there is a lack of capacity on-campus.
-+ Gives students with a functional impairment the opportunity to take an exam at home, where they may have better facilities.
-+ Reduces the pressure on public transport.
-- A technical challenge: it is very annoying if something goes wrong.
-- Increases the pressure on boards of examiners.
-- Can be considered a breach of privacy.
+* Storage and verification afterwards with proctoring software ([SURF whitepaper](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand) §1.4)
 
+* Automated review ([SURF whitepaper](https://www.surf.nl/whitepaper-online-proctoring-surveilleren-op-afstand) §1.4)
+
+Depending on the importance of the test, an assessment must be made as to which form of online proctoring should be used. Find out within your own institution which facilities are available and what the policy is regarding the use of online proctoring.
+
+### Advantages
+
+* Can be an alternative for lack of capacity on campus.
+* Gives students with a disability the opportunity to take the exam at home, where they may have better facilities.
+* Puts less pressure on public transport.
+
+### Disadvantages
+
+* Technically challenging. If something goes wrong, it's very bothersome.
+* Students can experience online proctoring as an invasion of their privacy if there is no transparent communication about how online proctoring is set up.
+* Students can experience online proctoring as stress-increasing.
