@@ -8,7 +8,8 @@ instructions: false
 weight: 1
 ---
 
-A portfolio is collection of documents/files that prove that a student has acquired certain skills or competences. A portfolio may therefore be made up of different assessment methods. It usually contains self-reflection assignments and is built up over a longer time, giving insight into the student’s development and self-management skills. This makes portfolios particularly suitable for formative use, although they are also often used for summative assessment. 
+A portfolio is a collection of documents/files that demonstrate that the student possesses and/or develops certain competences. The portfolio can therefore also include other assessment formats. In addition, a portfolio usually contains reflections of the student and is often built up over a longer period of time, with which it can provide insight into the development and self-directed learning skills of the student. This makes a portfolio very suitable for formative use. Often (part of) the portfolio is also used for summative testing.
 
-Portfolios are often combined with an individual or group assessment interview or a criteria-based interview. This gives the examiner (and other students) the opportunity to ask follow-up questions about anything that is still unclear, to give feedback and/or to encourage self-reflection. 
-Portfolios can also be used in combination with a presentation in which the student presents the main items of interest in the portfolio.
+Portfolios are often combined with an individual or group assessment interview or a criterion-based interview (CGI). This conversation offers the examiner (and fellow students) the opportunity to ask questions about matters that are still unclear, to provide feedback and/or to stimulate reflection.
+
+Portfolios can also be used in combination with a presentation. The student then presents the most important parts/evidence from the portfolio.

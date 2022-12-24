@@ -8,7 +8,10 @@ instructions: false
 weight: 4
 ---
 
-*Facilitate and encourage self-management in students as they build their portfolio. For example, let students set and reflect on their own learning objectives and ask them to indicate which aspects they would most like to receive feedback on. Of course, as the examiner you may also choose to provide feedback on other aspects. 
-*Offer peer feedback. For example, let students ask each other questions about their portfolios. This not only teaches students how to provide constructive criticism and feedback, but also helps them to think about the kinds of questions that people will have about their own portfolio. See [this brochure by Inholland (in Dutch) for more information on organising peer feedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf).
-*Discuss a portfolio formatively as a group assessment. For example, have one or two (possibly more senior) students act as co-examiners and ask the student whose portfolio it is whether the feedback was useful.  
-*Ask the students to also submit a self-assessment based on the assessment form as part of their portfolio, to encourage them to reflect on their own work. If you also ask them to indicate where the information relating to each assessment criterion can be found in the portfolio, you can also save yourself some marking time. 
+* Facilitate and stimulate self-directed learning in the creation of the portfolio. Have students set personal learning goals and reflect on them. Ask the students to indicate on which (partial) aspect they would like to receive feedback in any case. As an assessor you can of course also choose to provide feedback on other aspects.
+
+* Offer the possibility of peer feedback. For example, let students come up with questions themselves and ask each other's portfolios. In this way you not only encourage students to learn to be critical and to give feedback in a constructive way, but the student also gains insight into questions that others still have after reading the portfolio. See [this Inholland publication for more information about organizing peer feedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf).
+
+* Discuss a portfolio formatively in a group assessment. For example, have one or two (senior) fellow students act as co-assessors and give the student who has drawn up the portfolio the opportunity to respond to the usefulness of the feedback.
+
+* Instruct the students to also hand in a self-assessment based on the assessment form with the portfolio. They are thus forced to reflect on their own achievements. If you ask them to indicate where the information can be found for each assessment criterion, this can save you as an assessor time during the marking.

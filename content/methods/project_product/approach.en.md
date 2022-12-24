@@ -18,13 +18,13 @@ Some students find it difficult to start a new project and suffer from procrasti
 
 Offer the students freedom of choice within the frameworks. For example, let them choose from a selection of topics, give them space in the form their product takes and in the sources they consult. You can also consider making the assignment a group assignment. In group assignments, students have more interaction with each other and they can carry out a project together that they could never have realized alone.
 
-## During test-taking
+## During
 
 Organize meetings in which you discuss with the students individually or in groups how the assignment or project is progressing. It is important to be available to the student at a number of times during the (online) supervision of a project (for example during Q&A sessions) and to actively visit the students.
 
 Students not only learn from the teacher, but also by discussing the project or product together. As a lecturer, you can facilitate this by using peer feedback tools that students can use to give each other feedback. See [this Inholland publication for more information about organizing peer feedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf).
 
-## After
+## Afterwards
 
 What do students do with the feedback you gave them during the final assessment? To ensure that something will actually be done with the feedback, you can consider a reflection assignment. For example, let students reflect briefly on the learning objectives or on your feedback on their project or product. You can also instruct the students in later projects or products to review the previous feedback and ask them how they will incorporate this into the new project or product.
 

@@ -28,7 +28,7 @@ Organizing online presentations differs slightly from presentations on location.
 
 By recording the presentation, if there are doubts about the assessment, the presentation can be viewed back with the student or by a second assessor. Inform the student in advance about a possible admission. The processing, storage and deletion of recordings must take place within the legal frameworks. Ask your institution what the rules are for this.
 
-## During test-taking
+## During
 
 ### Right before the presentation
 
@@ -42,7 +42,7 @@ By recording the presentation, if there are doubts about the assessment, the pre
 
 * Remotely: Log in to the video meeting a few minutes before the test.
 
-### Start
+### At the start of the presentation
 
 * Ask the student to show an identity card or student pass if you, as the assessor, are unfamiliar with the student.
 

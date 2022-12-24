@@ -11,6 +11,10 @@ link-citations: TRUE
 bilbio-style: "apalike"
 ---
 
-* Paper by SURF, in Dutch, on using e-portfolios.	[What is an e-portfolio?
-E-portfolios in practice, Tools for e-portfolios, Conclusions and recommendations](https://www.surf.nl/files/2019-01/inventarisatie-e-portfolios-in-het-hoger-onderwijs.pdf).
+* Paper by SURF about the use of e-portfolios. [What is an e-portfolio? E-portfolio in practice, Tools for e-portfolio, Conclusions and recommendations](https://www.surf.nl/files/2019-01/inventarisatie-e-portfolios-in-het-hoger-onderwijs.pdf).
 
+* [Inholland publication for more information about organizing peer feedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf)
+
+* [Van Berkel, H., Bax, A., & Joosten-ten Brinke, D. (2017). Assessment in higher education. Bohn Stafleu van Loghum.](https://remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)
+
+# Bibliography
