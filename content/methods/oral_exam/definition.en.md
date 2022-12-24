@@ -8,6 +8,6 @@ instructions: false
 weight: 1
 ---
 
-An oral exam is an exam in which a student answers questions orally or gives a pitch/presentation. Oral exams are suitable for assessing the following levels of cognitive learning: remembering, understanding, applying, analysing, evaluating and creating. 
- 
-Oral exams are often combined with other assessment methods. Often, an online oral exam takes place following submission of a portfolio, project, product or presentation. During an online oral exam, a student may also be allowed to give a short online presentation. This makes it possible to carry out both an observation of an activity and an interview in which you ask the student to explain their actions. A project or product is often combined with a presentation. 
+By oral exams, we mean all exams in which the student gives oral answers or a pitch/presentation. Oral exams are suitable for testing the following cognitive levels of [Bloom](https://www.utwente.nl/.uc/f84db0b51010284fa9c0174f5f903a6aaa8aeaf3a528a00/bloom-taxonomie-checklist.pdf): remembering, understanding, application, analysis, evaluation and creation.
+
+An oral exam is often used in combination with other assessment formats, for example in response to a portfolio, project, product, presentation and/or observation. It gives the assessor the opportunity to ask further questions and the student the opportunity to further explain actions or choices.

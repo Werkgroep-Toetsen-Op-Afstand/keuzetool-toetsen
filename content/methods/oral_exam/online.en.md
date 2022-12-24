@@ -1,5 +1,5 @@
 ---
-title: "Online"
+title: "Remote assessment"
 icon: /icons/why-do-this.png
 menuicon: /icons/why-do-this-menu.png
 date: 2020-07-31T11:05:44+02:00
@@ -8,20 +8,20 @@ instructions: false
 weight: 2
 ---
 
-**Online assessment interview** During an online assessment interview, the examiner asks the student questions based on predetermined criteria, using video conferencing software. These could be questions about situations that show that the student has acquired certain skills and competences. The examiner may also ask follow-up questions. Often, an online assessment interview takes place following the submission of a portfolio, project/product or presentation. During an online assessment interview, the student may be allowed to give a short online presentation. 
+## Online assessment interview
 
-**Online oral exam** In an online oral exam, the student answers questions orally. As examiner, you can ask follow-up questions or ask the student to clarify an idea, to check that they really understand it. You can ask the question orally and/or in writing (e.g. using the chat function). Online oral exams are often used instead of a written exam with open-ended and/or closed-ended questions.
+In an online assessment interview, the examiner asks questions to the student via video conferencing software based on predetermined criteria. You may be asked about situations that show that the student possesses certain competencies. The examiner can then ask further questions. An online assessment interview is often held in response to a portfolio, project/product, presentation or observation. Sometimes the online assessment interview starts with a presentation by the student.
 
-A combination is of course also possible.
+## Online oral exam
+
+In an online oral exam, the student answers questions orally. As an examiner, you have the option to ask for additional explanation or to have a concept clarified to determine whether the student really understands it. The questions can be presented to the students orally and/or in writing (for example via a chat function). An online oral is often used as a substitute for a test with open questions.
+
+Naturally, combinations of the above two forms are possible.
 
 ## Advantages
 
-* Location-independent.
-* Fewer opportunities for cheating.
+* The biggest advantage of a remote oral test is that it can be done independently of location, and also time-independently in the case of a video recording. This makes observing less time-consuming for an assessor due to the lack of travel time, for example. It is also easier to organize assessment by several assessors. Research shows that the validity of observations often increases greatly by adding extra observations or assessors, something that is facilitated by remote observation.
 
 ## Disadvantages
 
-* Less reliable if only one examiner is present. 
-* Technical problems may occur if connection is lost.
-* Difficult to organise for a large group of students.
-
+* Chance of technical problems due to connection failure.
