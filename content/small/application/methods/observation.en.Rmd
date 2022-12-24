@@ -7,13 +7,4 @@ weight: 4
 category: "tool"
 ---
 
-**Tips for this assessment method**
-
-```{r, child="../../../snippets/knowledge/know_methods_questions.en.md"}
-```
-
-```{r, child="../../../snippets/observation/obs_methods_videoaudio.en.md"}
-```
-
-```{r, child="../../../snippets/observation/obs_methods_live.en.md"}
-```
+On a small scale, it is quite possible to test application skills (such as skills in working with professional software) by means of observation. On a small scale, an assessor is more often able to be present on location, in case these actions have to be performed at a specific location. If presence on location gives the assessor a better view of the student's performance, this is preferable. But assessment can also take place independently of place and time, using video conferencing or a video recording.
