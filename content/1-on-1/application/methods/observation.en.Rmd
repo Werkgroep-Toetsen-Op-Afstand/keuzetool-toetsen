@@ -7,10 +7,4 @@ weight: 4
 category: "tool"
 ---
 
-**Tips for this assessment method**
-
-```{r, child="../../../snippets/knowledge/know_methods_video.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.en.md"}
-```
+On an individual scale, it is quite possible to test application skills (such as the skill in working with job-related software) by means of observation. In the event that only one or a few students need to be assessed, an assessor is more often able to be present on location, in case these actions have to be performed at a specific location. If presence on location gives the assessor a better view of the student's performance, this is preferable. But assessment can also take place independently of place and time, using video conferencing or a video recording.

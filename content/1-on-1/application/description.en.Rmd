@@ -10,8 +10,4 @@ weight: 1
 ```{r, child="../../snippets/application/app_description_presentations.en.md"}
 ```
 
-This assessment method is very suitable for assessing individuals. 
-
-```{r, child="../../snippets/application/app_description_distance.en.md"}
-```
-  
+On an individual scale, there are many possibilities for testing higher cognitive skills at a distance. Choose the form that best suits the learning objectives of the subject and the education provided.

@@ -7,10 +7,4 @@ weight: 3
 category: "tool"
 ---
 
-**Tips for this assessment method**
-
-```{r, child="../../../snippets/knowledge/know_methods_video.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.en.md"}
-```
+In situations where very few students need to be tested (five or less), it takes less time to give them an oral exam than to construct a written test ([Van Berkel et al., 2017](https:// remindo-support.sites.uu.nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)). In addition to the limited time investment, an oral exam also has the advantage that teachers have the opportunity to ask further questions; this is particularly an advantage when testing higher cognitive skills such as application, analysis, synthesis and evaluation. If students answer the question in a different direction than the teacher intended, the teacher can explain the purpose of the question in more detail ([Van Berkel et al., 2017] (https://remindo-support.sites.uu .nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)).
