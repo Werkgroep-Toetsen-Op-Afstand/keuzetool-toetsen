@@ -17,6 +17,3 @@ weight: 4
 
 ```{r, child="../../snippets/knowledge/know_tips_environment.en.md"}
 ```
-
-```{r, child="../../snippets/observation/obs_tips_peerfeedback.en.md"}
-```
