@@ -1,6 +1,6 @@
 ---
 title: "Digital Assessment"
-description: "Or online exam, digitaal exam, test, knowledge test"
+description: "Or online exam, digital exam, test, knowledge test"
 banner: /images/assessment-hero.jpg
 icon: /icons/assessment-icon.png
 date: 2020-07-31T11:05:44+02:00
