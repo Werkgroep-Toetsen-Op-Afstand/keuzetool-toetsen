@@ -7,20 +7,6 @@ weight: 2
 category: "tool"
 ---
 
-**Tips for this assessment method**
+Knowledge can also be tested with a (group) presentation. In addition to factual knowledge and understanding, presentation skills can also be tested with a presentation. The opportunity a presentation provides for interaction, for example asking questions after the presentation, provides the assessor with additional opportunities to test the student's understanding. In the case of a medium-sized group of students, it is recommended, whenever possible, to divide the students into groups and have them present per group, in order to reduce assessment time.
 
-```{r, child="../../../snippets/knowledge/know_methods_questions.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_video.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_groups-presentations.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.en.md"}
-```
-
+Although presentations often take place on location, there are also options to do this remotely by using video conferencing software such as Zoom or Microsoft Teams. This can save teachers and students travel time and costs.

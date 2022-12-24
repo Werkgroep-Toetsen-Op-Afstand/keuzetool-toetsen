@@ -7,12 +7,7 @@ expandable: false
 instructions: false
 weight: 1
 ---
-An obvious method for assessing knowledge is a multiple-choice exam with open-ended questions. On campus, this type of exam is often taken in a large sports hall or lecture theatre.  
 
-```{r, child="../../snippets/knowledge/know_description_advantages.en.md"}
-```
+Knowledge in this context means reproduction knowledge; this can be subdivided into factual knowledge on the one hand and summarizing (or understanding) on the other (Van Berkel, 1999). With factual knowledge, the question is whether the student has remembered the knowledge. An example of factual knowledge is being able to name the characteristics of a mammal. Summarizing is about whether the student has understood the subject matter. This could include, for example, explaining the operation of a combustion engine in your own words.
 
-There are also other options for assessing knowledge at the medium scale, such as a group presentation or a group oral exam.
-
-```{r, child="../../snippets/knowledge/know_description_oral.en.md"}
-```
+On a medium scale, in addition to digital tests, there are also other options for testing knowledge remotely, for example with a group presentation or oral exam in groups.

@@ -7,13 +7,6 @@ weight: 3
 category: "tool"
 ---
 
-**Tips for this assessment method**
+An oral exam has the advantage that teachers have the opportunity to ask further questions; this is particularly an advantage when testing higher cognitive skills such as application, analysis, synthesis and evaluation. If students go in a different direction with their answer to the question than the teacher intended, the teacher can explain the purpose of the question in more detail [@van2017toetsen]. However, administering and grading oral exams can take a lot of time. With this group size, it is therefore recommended to divide students into groups and have oral group discussions to reduce assessment time.
 
-```{r, child="../../../snippets/knowledge/know_methods_groups-oral.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.en.md"}
-```
+Although conversations often take place on location, there are also options to do this remotely by using video conferencing software such as Zoom or Microsoft Teams. This can save teachers and students travel time and costs.
