@@ -7,14 +7,4 @@ weight: 2
 category: "tool"
 ---
 
-**Tips for this assessment method**
-
-```{r, child="../../../snippets/knowledge/know_methods_questions.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_video.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.en.md"}
-```
-
+Knowledge can also be tested with an individual presentation. In addition to factual knowledge and understanding, presentation skills can also be tested with this. The opportunity a presentation provides for interaction, for example asking questions after the presentation, provides the assessor with additional opportunities to test the student's understanding.

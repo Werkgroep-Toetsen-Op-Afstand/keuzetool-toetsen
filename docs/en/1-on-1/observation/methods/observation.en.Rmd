@@ -7,10 +7,4 @@ weight: 4
 category: "tool"
 ---
 
-**Tips for this assessment method**
-
-```{r, child="../../../snippets/observation/obs_methods_videoaudio.en.md"}
-```
-
-```{r, child="../../../snippets/observation/obs_methods_live.en.md"}
-```
+An observation is ideally suited for testing physical abilities. When only one, or a small number of student(s) need to be assessed, an assessor is more likely to be present on site in case these actions need to be performed at a specific location. If presence on location gives the assessor a better view of the student's performance, this is preferable. However, assessment can also take place independently of place and time, using video conferencing or a video recording. On an individual level, only one person needs to be in the picture and it is quite possible to make clear video recordings.

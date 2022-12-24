@@ -7,3 +7,4 @@ weight: 6
 category: "tool"
 ---
 
+Projects and products are suitable for determining whether the student can apply, analyse, evaluate or create knowledge. Consider making the assignment a group assignment. In group assignments, students have more interaction with each other and they can carry out a project together that they could never have realized alone.

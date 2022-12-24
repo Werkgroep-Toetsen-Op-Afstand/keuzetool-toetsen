@@ -8,11 +8,6 @@ instructions: false
 weight: 1
 ---
 
-One method for assessing knowledge is a multiple-choice exam with open-ended questions.  
+By knowledge, we mean reproduction knowledge here; this can be divided into factual knowledge on the one hand and summarizing (or understanding) on the other [@van1999zicht]. When assessing factual knowledge, the question is whether the student has remembered the knowledge. An example of factual knowledge is being able to name the characteristics of a mammal. Summarizing is about whether the student has understood the subject matter. This could include, for example, explaining the operation of a combustion engine in your own words.
 
-```{r, child="../../snippets/knowledge/know_description_advantages.en.md"}
-```
-
-There are other options for assessing knowledge at the small scale, such as an individual or group presentation or an oral exam.
-```{r, child="../../snippets/knowledge/know_description_oral.en.md"}
-```
+When working with a small(er) group of students, there are many opportunities to test their understanding of the subject matter.

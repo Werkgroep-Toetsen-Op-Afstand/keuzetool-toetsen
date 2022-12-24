@@ -7,11 +7,6 @@ weight: 1
 category: "tool"
 ---
 
-**Tips for this assessment method**
+A digital assessment can be used to test higher cognitive skills such as application, analysis, synthesis and evaluation. Open questions are ideally suited for testing higher cognitive skills on a small scale (Van Berkel, Bax, & Joosten-ten-Brinke, 2017). Open questions provide scope for goals in which originality or creativity play a role (Van Berkel, Bax, & Joosten-ten-Brinke, 2017). In addition, with about 50 or fewer students, it is more efficient to use open questions than closed questions; although open questions take more time to mark, they take less time to construct, especially when testing higher cognitive skills (Van Berkel, 1999). Although higher cognitive skills can certainly also be tested with closed questions, a careful construction of this requires time (Van Berkel, Bax, & Joosten-ten-Brinke, 2017). One reason for choosing closed questions is that they can be answered more quickly by students, so that more questions can be included in the test, which increases its representativeness (Van Berkel, 1999).
 
-* Use open-ended questions as much as possible, in random order. 
-
-* Live proctoring is quite feasible on a small scale.  
-
-```{r, child="../../../snippets/knowledge/know_methods_limitations.en.md"}
-```
+In the case of remote assessments, it is quite feasible to apply live proctoring on a small scale. This means that students are viewed in real time, for example via a webcam or phone.

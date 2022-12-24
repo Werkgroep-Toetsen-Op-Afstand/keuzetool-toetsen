@@ -7,13 +7,8 @@ weight: 3
 category: "tool"
 ---
 
-**Tips for this assessment method**
+On a small scale, knowledge can also be tested with an oral exam. In addition to factual knowledge and understanding, this can also be used to test oral skills. An oral exam offers the assessor opportunities to ask questions about given answers, which allows a better assessment of the student's understanding.
 
-```{r, child="../../../snippets/knowledge/know_methods_groups-oral.en.md"}
-```
+In the case of a relatively small group of students, oral exams with individual students can be held; the advantage of this is that it allows a more reliable estimate of the extent to which an individual student has mastered the knowledge. However, administering and grading oral exams can be time-consuming. By dividing the students into groups and holding oral group discussions, the time required can be reduced.
 
-```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.en.md"}
-```
+When choosing between individual conversations or group conversations, weigh up the desirability of a better insight into the performance of individual students on the one hand and the practical feasibility on the other.

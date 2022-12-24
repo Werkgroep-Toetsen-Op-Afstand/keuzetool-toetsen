@@ -8,25 +8,12 @@
     <language>nl-NL</language>
     <lastBuildDate>Fri, 31 Jul 2020 11:05:44 +0200</lastBuildDate><atom:link href="https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/observation/methods/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Presentations</title>
-      <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/observation/methods/presentation/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/observation/methods/presentation/</guid>
-      <description>Tips for this assessment method
-Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio.
-Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time. Otherwise, it is easier to make a video recording.</description>
-    </item>
-    
-    <item>
       <title>Observations</title>
       <link>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/observation/methods/observation/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/observation/methods/observation/</guid>
-      <description>Tips for this assessment method
-Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio.
-Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time. Otherwise, it is easier to make a video recording.</description>
+      <description>An observation is ideally suited for the assessment of physical abilities. On a small scale, an assessor is more often able to be present on location, in case these actions have to be performed at a specific location. If presence on location gives the assessor a better view of the student’s performance, this is preferable. But assessment can also take place independently of place and time, using video conferencing or a video recording.</description>
     </item>
     
     <item>
@@ -36,8 +23,8 @@ Use a live recording if it is necessary to intervene in the activity or discuss 
       
       <guid>https://werkgroep-toetsen-op-afstand.github.io/keuzetool-toetsen/en/small/observation/methods/portfolio/</guid>
       <description>Tips for this assessment method
-Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio.
-Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time. Otherwise, it is easier to make a video recording.</description>
+ Make sure that the rules and requirements for making a video recording are clear, and don’t forget the audio.
+ Use a live recording if it is necessary to intervene in the activity or discuss it immediately afterwards, or if the activity needs to be done properly in one go or within a certain time. Otherwise, it is easier to make a video recording.</description>
     </item>
     
   </channel>

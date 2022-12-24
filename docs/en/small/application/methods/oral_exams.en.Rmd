@@ -7,13 +7,6 @@ weight: 3
 category: "tool"
 ---
 
-**Tips for this assessment method**
+The advantage of an oral exam is that teachers have the opportunity to ask further questions; this is particularly advantageous when testing higher cognitive skills such as application, analysis, synthesis and evaluation. If students answer the question in a different manner than the teacher intended, the teacher can explain the purpose of the question in more detail ([Van Berkel et al., 2017] (https://remindo-support.sites.uu .nl/wp-content/uploads/sites/79/2020/03/Toetsen-in-het-Hoger-Onderwijs-van-Berkel-Bax-Joosten-ten-Brinke.pdf)). Because oral tests are time-consuming, they are generally only suitable when five or fewer students are tested ([Van Berkel et al., 2017] (https://remindo-support.sites.uu.nl/wp-content/uploads /sites/79/2020/03/Toetsen-in-het-Hoger-Education-van-Berkel-Bax-Joosten-ten-Brinke.pdf)).
 
-```{r, child="../../../snippets/knowledge/know_methods_groups-oral.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.en.md"}
-```
+Although oral exams often take place on location, there are also options to do this remotely by using video conferencing software such as Zoom or Microsoft Teams. This can save teachers and students travel time and costs.

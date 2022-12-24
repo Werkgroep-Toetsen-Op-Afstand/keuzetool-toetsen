@@ -7,16 +7,8 @@ weight: 2
 category: "tool"
 ---
 
-**Tips for this assessment method**
+Higher cognitive skills can also be tested with a (group) presentation. A presentation offers students room for originality and creativity. In addition, presentation skills can also be assessed. The opportunity that a presentation offers for interaction, for example by asking questions after the presentation, provides the assessor with additional opportunities to assess the student's insight.
 
-```{r, child="../../../snippets/knowledge/know_methods_questions.en.md"}
-```
+When working with a relatively small group of students, individual presentations can be chosen; the advantage of this is that it can provide a better insight into the performance of individual students. However, watching and assessing presentations can take a lot of time. By dividing the students into groups and having them present per group, the time required can be limited. When choosing between individual presentations or group presentations, weigh up the desirability of a better view of the performance of individual students on the one hand and the practical feasibility on the other.
 
-```{r, child="../../../snippets/knowledge/know_methods_video.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_groups-presentations.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.en.md"}
-```
+Although presentations often take place on location, there are also options to do this remotely by using video conferencing software such as Zoom or Microsoft Teams. This can save teachers and students travel time and costs.

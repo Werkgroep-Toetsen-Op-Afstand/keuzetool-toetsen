@@ -7,10 +7,4 @@ weight: 2
 category: "tool"
 ---
 
-**Tips for this assessment method**
-
-```{r, child="../../../snippets/knowledge/know_methods_video.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.en.md"}
-```
+Higher cognitive skills can also be assessed using individual presentations. A presentation offers students room for originality and creativity. In addition, presentation skills can also be assessed. The opportunity that a presentation offers for interaction, for example by asking questions after the presentation, provides the assessor with additional opportunities to test the student's insight.
