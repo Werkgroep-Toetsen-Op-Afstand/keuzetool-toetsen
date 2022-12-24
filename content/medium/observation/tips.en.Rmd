@@ -13,3 +13,6 @@ weight: 4
 
 ```{r, child="../../snippets/observation/obs_tips_visibility.en.md"}
 ```
+
+```{r, child="../../snippets/observation/obs_how_live.en.md"} 
+``` 
