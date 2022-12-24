@@ -1,1 +1,3 @@
-Even in a live assessment situation, it may be a good idea to record the assessment. The recordings can be reviewed afterwards by the assessor themselves in case of doubt, or by a second assessor. It could be of educational value for the student to watch the recording themselves or together with the assessor, to reflect on the learning process or to discuss the assessment. In addition, certain software offers the possibility to add feedback to the video at relevant moments.
+
+* Even in a live assessment situation, it may be a good idea to record the assessment. The recordings can be reviewed afterwards by the assessor themselves in case of doubt, or by a second assessor. It could be of educational value for the student to watch the recording themselves or together with the assessor, to reflect on the learning process or to discuss the assessment. In addition, certain software offers the possibility to add feedback to the video at relevant moments.
+
