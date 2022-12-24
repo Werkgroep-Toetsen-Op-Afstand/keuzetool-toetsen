@@ -1,1 +1,1 @@
-* In the case of formative assessment, use can be made of peer feedback. 
+* In the case of formative assessment, use can be made of peer feedback. See [this publication by Inholland for more information about the organisation of peer feedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf).
