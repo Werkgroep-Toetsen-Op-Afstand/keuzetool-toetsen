@@ -7,11 +7,8 @@ weight: 1
 category: "tool"
 ---
 
-**Tips for this assessment method**
+An obvious form of a knowledge test is a multiple choice exam or an exam with open questions. It is best to (mainly) use closed questions to test factual knowledge and/or understanding. At this cognitive level, closed questions are relatively easy to construct. The advantage of closed questions is that they can be answered more quickly by students, so that more questions can be included in the test, which increases its representativeness [@van1999zicht].
 
-* Use open-ended questions as much as possible, in random order. 
+Preferably, exam questions are compiled by using a personal or shared item bank, so that questions can be reused later. More information about this can be found in the [Handboek Itembanken](https://werkgroep-TESting-op-distance.github.io/Handboek-Itembanken/) and in the [SURF theme edition Digital test- and item banks in education] (https://www.surf.nl/files/2019-02/thema-uitgave-itembanken_-webversie_def.pdf).
 
-* Live proctoring is quite feasible on a small scale.  
-
-```{r, child="../../../snippets/knowledge/know_methods_limitations.en.md"}
-```
+In the case of remote testing, it is quite feasible to apply live proctoring on a small scale. This means that students are viewed in real time, for example via a webcam or telephone.

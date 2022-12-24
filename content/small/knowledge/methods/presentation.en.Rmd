@@ -7,20 +7,8 @@ weight: 2
 category: "tool"
 ---
 
-**Tips for this assessment method**
+On a small scale, knowledge can be tested with a (group) presentation. In addition to factual knowledge and understanding, presentation skills can also be assessed using this method. The opportunity a presentation offers for interaction, for example by asking questions after the presentation, provides the assessor with additional opportunities to test the student's understanding.
 
-```{r, child="../../../snippets/knowledge/know_methods_questions.en.md"}
-```
+In the case of a relatively small group of students, individual presentations can be held; the advantage of this is that it can provide a better insight into the extent to which each individual student has mastered the knowledge. However, taking and assessing presentations can take a lot of time. By dividing the students into groups and having them present per group, the time required can be limited.
 
-```{r, child="../../../snippets/knowledge/know_methods_video.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_groups-presentations.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_peerfeedback.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.en.md"}
-```
-
+When choosing between individual presentations or group presentations, weigh up the desirability of a better view of the performance of individual students on the one hand and the practical feasibility on the other.
