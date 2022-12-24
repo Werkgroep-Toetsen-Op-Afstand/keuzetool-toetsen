@@ -8,3 +8,8 @@ instructions: false
 weight: 5
 ---
 
+* [Inholland publication for more information about organizing peer feedback](https://www.inholland.nl/media/18717/inh_factsheet-peerreview_a4-nl-digitaal.pdf)
+
+* [The book Test Revolution](https://toetsrevolutie.nl/wp-content/uploads/2018/05/Toetsrevolutie-Naar-een-feedbackcultuur-in-het-hoger-onderwijs-WEB.pdf).
+
+# Bibliography

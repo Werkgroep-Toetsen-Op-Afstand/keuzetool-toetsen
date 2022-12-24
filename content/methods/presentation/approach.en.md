@@ -10,43 +10,64 @@ weight: 3
 
 ## Preparation
 
-**Assessment form** If a presentation is to be given online, you may need to make some changes to the assessment form as not every criterion can be assessed online. For example, it is difficult to judge whether the student manages to hold the audience’s attention.
+For the assessment of the presentation, use predetermined criteria that have been communicated to the students, for example in a rubric.
 
-**Anticipate technical problems** Organising online presentations differs somewhat from organising presentations face-to-face. As well as the 'normal' information (about planning, procedure, equipment, expectations, assessment method), you also need to communicate the ground rules for working on the online platform. For example, rules about sharing the screen, turning the camera/microphone on and off, the procedure for asking questions, and what to do in the case of any technical problems. Many students are happy to know that they can redo a presentation if there is a technical problem. You can also encourage students to practice with each other beforehand. Some institutions allow students to loan equipment or provide a physical location for the presentation. In any case, make sure to communicate any instructions/ground rules clearly and in plenty of time. 
+Students are often nervous for (online) presentations. Clarity about what to expect helps. Therefore, inform the students in good time and completely about content, procedures, participating assessors and the method of assessment. In case of remote assessment: make agreements about working in the online environment. This is especially important for students with a learning disability, such as autism. Ask these students what you can do to make the presentation go more smoothly.
 
-**Recording** The reliability of the assessment can be improved by recording the presentation, as it can then be reviewed if there are any questions about the assessment. Make sure to inform the student beforehand if a recording is to be made. Note too that the processing, storage and deletion of recordings must take place in accordance with legal requirements. Find out what the rules are for this at your educational institution. 
+### In case of remote assessment:
 
-**Multiple examiners** The reliability of the assessment can also be improved by using more than one examiner to assess an online presentation. In the case of formative assessment, other students can also take on this role. Examiners can also review the recording after the presentation.
+#### Assessment form
 
-## During   
+When taking online, please note that you may have to adjust the assessment form, because not all assessment criteria can be assessed remotely. For example, maintaining the attention of the public online is difficult to assess.
 
-### Just before the presentation
+#### Anticipating technical issues
 
-*Make sure that all equipment is charged.  
-*Make sure that the assessment can take place in a quiet location where you will not be disturbed.   
-*Test the equipment before the presentation, and use a headset where necessary. 
-*Make sure that you have the required documents to hand (rubric, assessment form, etc.), either printed out or on a second screen.  
-*Log into the video conference a few minutes before the presentation.  
+Organizing online presentations differs slightly from presentations on location. In addition to the 'regular' information (about planning, procedure, any requirements, expectations, assessment) you also make agreements about working in the online environment. Think of screen sharing, switching the camera and microphone on and off, the way in which questions can be asked and the procedure to be followed in the event of technical problems. Many students like the idea of knowing in advance that they can redo the presentation if technical problems occur. You can also encourage students to practice their presentation with each other beforehand. At some institutions, the student can borrow equipment or you can offer a physical location. In any case, make sure that you communicate in a timely and clear manner about the agreements.
+
+#### Recording
+
+By recording the presentation, if there are doubts about the assessment, the presentation can be viewed back with the student or by a second assessor. Inform the student in advance about a possible admission. The processing, storage and deletion of recordings must take place within the legal frameworks. Ask your institution what the rules are for this.
+
+## During test-taking
+
+### Right before the presentation
+
+* For the sake of the reliability of the test, make sure that the conditions under which the students give the presentation are the same for all students as much as possible, so that this influences the assessment as little as possible. Provide a quiet environment where you will not be disturbed and with as few distractions as possible for the students.
+
+* Make sure you have the required documents (rubric, assessment form, etc.) printed or on a (second) screen to hand.
+
+* Remote: Provide charged equipment.
+
+* Remotely: Test the equipment prior to the test, use a headset if necessary.
+
+* Remotely: Log in to the video meeting a few minutes before the test.
 
 ### Start
 
-*Reassure the student.  
-*Check that the rules are clear, and repeat them if necessary. 
-*Tell the student when they can expect the grade and/or feedback.  
-*If necessary, explain that the presentation will be recorded. 
+* Ask the student to show an identity card or student pass if you, as the assessor, are unfamiliar with the student.
 
-### Recording
+* Reassure the student.
 
-*Deal with any technical problems.
+* Check whether the rules and agreements are clear and repeat them if necessary.
 
-### End
+* Indicate when the student can expect the assessment and/or feedback.
 
-*If you are working with other examiners and would like to provide direct feedback, you could ask the student to leave the online session for a moment or put them in a breakout room. You can then invite the student to return to the session once you have discussed the observations with the others.
+* If necessary, indicate that a recording is in progress.
+
+### During the presentation
+
+* Remote: Respond to technical issues as needed.
+
+### At the end of the presentation
+
+* If you work with multiple assessors and want to provide immediate feedback, you can ask the student to briefly leave the room or, in the case of remote testing, the video conference or put him/her in a breakout room. After discussing the findings, you can have the student come back.
 
 ## Afterwards
 
-Provide the student with feedback immediately after the presentation and before giving a grade, as this is when the student is most receptive to the feedback. You may decide to allow the student access to the recording afterwards.
+Give feedback immediately after the presentation and (well) before sharing the mark. This is when feedback is best internalized. In the case of a recording, consideration may be given to making it available to the student afterwards.
 
-## Points to note
+## Points of attention
 
-*Students often find it stressful to give a presentation, and being clear about what they can expect can help. Make sure therefore to inform the students in full and in plenty of time about what is required, the procedures, the examiners taking part and the assessment method, and set out the ground rules for use of the online platform. This is particularly important for students with a learning difficulty such as autism. You could also ask the students what you can do to make giving the presentation easier for them. 
+* Always have the presentation assessed by two teachers to minimize the risk of assessor effects. They can be present live or review the video recording afterwards.
+
+* Make a substantiated choice for the cut-off score to be used.
