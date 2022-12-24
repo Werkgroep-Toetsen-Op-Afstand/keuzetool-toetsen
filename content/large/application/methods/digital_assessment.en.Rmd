@@ -7,13 +7,7 @@ weight: 3
 category: "tool"
 ---
 
-**Tips for this assessment method**
+A digital test can also be used to test higher cognitive skills such as application, analysis, synthesis and evaluation. For large-scale testing of these higher cognitive skills, it is best to (mainly) use closed questions. While it takes time to carefully construct these, it still outweighs the time it would take to review open questions from a large group of students. In addition, closed questions have the advantage that they can be answered more quickly by students, so that more questions can be included in the test, which increases its representativeness [@van1999zicht].
 
-```{r, child="../../../snippets/knowledge/know_methods_mc.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_limitations.en.md"}
-```
-
-```{r, child="../../../snippets/knowledge/know_methods_breakoutrooms.en.md"}
+```{r, child="../../../snippets/knowledge/know_methods_breakoutrooms.md"}
 ```
