@@ -8,4 +8,6 @@ instructions: false
 weight: 1
 ---
 
-Knowledge assessments carried out in a 1-to-1 setting are mainly presentations, oral exams or resits of exams. Taking such assessments remotely can have advantages, such as not having to arrange a room for a single student and costing the student less in terms of time and travel expenses. The risk of fraud is not very high with remote assessment in a 1-to-1 setting. 
+By knowledge in this context, we mean reproduction knowledge; this can be divided into factual knowledge on the one hand and summarizing (or understanding) on the other [@van1999zicht]. With factual knowledge, the question is whether the student has remembered the knowledge. An example of factual knowledge is being able to name the characteristics of a mammal. Summarizing is about whether the student has understood the subject matter. This could include, for example, explaining the operation of a combustion engine in your own words.
+
+Knowledge tests that are taken 1-on-1 are mainly presentations, oral exams or resits of exams. Taking such a test remotely can have advantages: for example, no room has to be arranged for a single student and it costs the student less time and travel costs. The risk of fraud is not very high when testing remotely in a 1-on-1 situation.

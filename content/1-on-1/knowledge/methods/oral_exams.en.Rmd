@@ -7,7 +7,4 @@ weight: 3
 category: "tool"
 ---
 
-**Tips for this assessment method**
-
-```{r, child="../../../snippets/knowledge/know_methods_ID.en.md"}
-```
+In cases where very few students need to be tested (five or less), an oral exam is appealing in view of the low time investment (Van Berkel, Bax, & Joosten-ten-Brinke, 2017). With an oral exam, in addition to factual knowledge and understanding, oral skills can also be tested. An oral exam offers the assessor opportunities to ask questions about given answers, which allows a better assessment of the student's understanding.
